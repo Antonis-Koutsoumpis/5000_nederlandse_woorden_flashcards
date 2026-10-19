@@ -26,13 +26,14 @@ st.set_page_config(page_title="5000 Nederlandse woorden", page_icon="🇳🇱", 
 # Data
 # --------------------------------------------------------------------------- #
 @st.cache_data
-def get_data():
-    path = find_data_file(Path(__file__).parent)
-    return load_vocab(path), path.name
-
+def get_data(path_str: str, modified: float):
+    # 'modified' is only part of the cache key: a new/changed CSV reloads automatically.
+    return load_vocab(path_str)
 
 try:
-    df, data_name = get_data()
+    data_path = find_data_file(Path(__file__).parent)
+    df = get_data(str(data_path), data_path.stat().st_mtime)
+    data_name = data_path.name
 except (FileNotFoundError, ValueError) as err:
     st.error(str(err))
     st.stop()
