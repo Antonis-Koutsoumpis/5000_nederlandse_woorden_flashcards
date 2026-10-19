@@ -150,10 +150,7 @@ def detail_lines(row: dict) -> list[str]:
             participle = f"({row['auxiliary']}) {participle}"
         lines += [("Present (ik)", row["verb_present_ik"]),
                   ("Past (ik)", row["verb_past_ik"]),
-                  ("Past participle", participle),
-                  ("Regular / irregular", row["verb_type"]),
-                  ("Separable", row["separable"]),
-                  ("Reflexive", row["reflexive"])]
+                  ("Past participle", participle)]
     lines += [("Fixed combination", row["fixed_combination"]),
               ("With er / het", row["er_het_combination"])]
     if pos_.startswith("noun") and str(row["plural"]).strip() in ("-", "—"):
