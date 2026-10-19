@@ -16,7 +16,7 @@ from vocab import (
     highlight_dutch,
     load_vocab,
     options,
-    sample_ids,
+    sample_words,
 )
 
 st.set_page_config(page_title="5000 Nederlandse woorden", page_icon="🇳🇱", layout="centered")
@@ -105,7 +105,7 @@ ss.setdefault("deck_no", 0)
 
 def new_deck():
     ss.deck_no += 1
-    ss.deck = sample_ids(filtered, int(n_cards), seed=random.randrange(1 << 30))
+    ss.deck = sample_words(filtered, int(n_cards), seed=random.randrange(1 << 30))
     ss.settings_key = settings_key
 
 
@@ -113,8 +113,8 @@ if ss.get("settings_key") != settings_key:
     new_deck()
 
 
-def answer_key(card_id: str) -> str:
-    return f"show_{ss.deck_no}_{card_id}"
+def answer_key(rank: int) -> str:
+    return f"show_{ss.deck_no}_{rank}"
 
 
 def toggle(key: str):
@@ -191,24 +191,32 @@ def render_answer(row: dict):
         st.caption(md(row["notes"]))
 
 
-def render_card(row: dict):
-    key = answer_key(row["id"])
+def render_card(rows: list[dict]):
+    """One card per word; every matching function/meaning goes in the answer."""
+    first = rows[0]
+    key = answer_key(first["rank"])
     shown = ss.get(key, False)
     with st.container(border=True):
         left, right = st.columns([5, 1])
-        left.markdown(f"### {md(row['word'])}")
-        right.caption(f"rank {row['rank']}")
+        left.markdown(f"### {md(first['word'])}")
+        right.caption(f"rank {first['rank']}")
         st.button("Hide answer" if shown else "Show answer", key=f"btn_{key}",
                   on_click=toggle, args=(key,), type="secondary" if shown else "primary")
         if shown:
-            render_answer(row)
+            for i, row in enumerate(rows):
+                if i:
+                    st.divider()
+                if len(rows) > 1:
+                    st.caption(f"Meaning {i + 1} of {len(rows)}")
+                render_answer(row)
 
 
 # --------------------------------------------------------------------------- #
 # Main page
 # --------------------------------------------------------------------------- #
 st.title("5000 Nederlandse woorden")
-st.caption(f"Ranks {rank_min}–{rank_max} · {len(filtered)} matching entries")
+n_words = filtered["rank"].nunique()
+st.caption(f"Ranks {rank_min}–{rank_max} · {n_words} matching words ({len(filtered)} meanings)")
 
 if filtered.empty:
     st.warning("No words match these settings. Widen the range or remove a filter.")
@@ -220,9 +228,10 @@ c2.button("Show all answers", on_click=set_all, args=(True,), use_container_widt
 c3.button("Hide all answers", on_click=set_all, args=(False,), use_container_width=True)
 
 if len(ss.deck) < n_cards:
-    st.info(f"Only {len(ss.deck)} entries match, so you get {len(ss.deck)} cards.")
+    st.info(f"Only {len(ss.deck)} words match, so you get {len(ss.deck)} cards.")
 
-rows = df.set_index("id")
-for card_id in ss.deck:
-    if card_id in rows.index:
-        render_card({"id": card_id, **rows.loc[card_id].to_dict()})
+# Only the meanings that match the filters are shown (all of them when no filter is set).
+by_rank = {rank: grp.to_dict("records") for rank, grp in filtered.groupby("rank")}
+for rank in ss.deck:
+    if rank in by_rank:
+        render_card(by_rank[rank])
