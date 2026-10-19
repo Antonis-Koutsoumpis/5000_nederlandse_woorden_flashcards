@@ -108,6 +108,13 @@ def sample_ids(df: pd.DataFrame, n: int, seed: int | None = None) -> list[str]:
     return rng.sample(ids, min(n, len(ids)))
 
 
+def sample_words(df: pd.DataFrame, n: int, seed: int | None = None) -> list[int]:
+    """Random sample of words (one per rank), so a word's meanings share one card."""
+    ranks = sorted(int(r) for r in df["rank"].unique())
+    rng = random.Random(seed)
+    return rng.sample(ranks, min(n, len(ranks)))
+
+
 def options(df: pd.DataFrame, col: str) -> list[str]:
     """Sorted distinct non-empty values of a column, for filter widgets."""
     return sorted(v for v in df[col].unique() if has_value(v))
