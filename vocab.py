@@ -6,15 +6,15 @@ from __future__ import annotations
 
 import random
 import re
+import unicodedata
 from pathlib import Path
 
 import pandas as pd
 
 # The app uses the first file that exists.
 DATA_CANDIDATES = [
-    "data/5000_woorden.csv"
-    # ,
-    # "data/dutch_vocab_pilot.csv",
+    "data/5000_woorden.csv",
+    "data/dutch_vocab_pilot.csv",
 ]
 
 REQUIRED_COLUMNS = [
@@ -114,6 +114,55 @@ def sample_words(df: pd.DataFrame, n: int, seed: int | None = None) -> list[int]
     ranks = sorted(int(r) for r in df["rank"].unique())
     rng = random.Random(seed)
     return rng.sample(ranks, min(n, len(ranks)))
+
+
+# --------------------------------------------------------------------------- #
+# Search
+# --------------------------------------------------------------------------- #
+FORM_COLUMNS = ["plural", "adj_e_form", "comparative", "superlative",
+                "verb_present_ik", "verb_past_ik", "verb_past_participle"]
+
+
+def normalize(text: str) -> str:
+    """Lowercase and drop accents, so 'creeren' finds 'creëren' and 'cafe' finds 'café'."""
+    text = unicodedata.normalize("NFKD", str(text).lower())
+    return "".join(ch for ch in text if not unicodedata.combining(ch)).strip()
+
+
+def search_words(df: pd.DataFrame, query: str, include_english: bool = False,
+                 limit: int = 50) -> list[int]:
+    """Ranks of words matching the query, best matches first.
+
+    Order: exact word > word starts with query > query is an inflected form
+    (plural, -e form, verb forms...) > word contains query > English translation.
+    """
+    q = normalize(query)
+    if not q:
+        return []
+    scores: dict[int, int] = {}
+
+    def add(rank: int, score: int):
+        if rank not in scores or score < scores[rank]:
+            scores[rank] = score
+
+    for row in df[["rank", "word", "english", *FORM_COLUMNS]].itertuples(index=False):
+        rank, word = int(row.rank), normalize(row.word)
+        if word == q:
+            add(rank, 0)
+        elif word.startswith(q):
+            add(rank, 1)
+        else:
+            forms = {normalize(f) for col in FORM_COLUMNS
+                     for f in _SPLIT_RE.split(str(getattr(row, col))) if has_value(f)}
+            # compare whole forms and single words ("ga mee" also matches "ga")
+            words = {w for f in forms for w in f.split()} | forms
+            if q in words:
+                add(rank, 2)
+            elif q in word:
+                add(rank, 3)
+            elif include_english and re.search(rf"\b{re.escape(q)}", normalize(row.english)):
+                add(rank, 4)
+    return [r for r, _ in sorted(scores.items(), key=lambda x: (x[1], x[0]))][:limit]
 
 
 def options(df: pd.DataFrame, col: str) -> list[str]:

@@ -4,8 +4,6 @@ A Streamlit app for practicing the 5,000 most frequent Dutch words with flashcar
 
 The word list is based on the Hazenberg & Hulstijn frequency list. Every entry has an English translation, grammar information, IPA pronunciation, and two example sentences with translations.
 
-The project is linked with the Streamlit app [5000 Nederlandse woorden](https://5000-nederlandse-woorden-flashcards.streamlit.app/).
-
 ## Features
 
 - **Frequency range:** pick a preset (1–500, 1–1000, 1001–2000, …) or a custom rank range such as 300–700.
@@ -19,6 +17,7 @@ The project is linked with the Streamlit app [5000 Nederlandse woorden](https://
   - fixed combinations and er/het expressions
   - pronunciation (IPA + stressed syllable)
   - two example sentences with the target word in **bold** in both Dutch and English
+- **Search:** type any Dutch word (e.g. *voorkomen*) to look it up in the full list. Inflected forms also work (*liep* finds *lopen*, *huizen* finds *huis*), accents are optional, and you can tick *Also English* to search the translations. Search ignores the practice filters; clear the box to return to your flashcards.
 - **Filters:** grammatical function (one or more), de/het nouns, regular/irregular verbs, separable or reflexive verbs, words with a fixed combination, expressions with er/het, and an option to hide offensive words.
 
 ## Run locally
@@ -46,11 +45,23 @@ The app opens at http://localhost:8501.
 .
 ├── app.py              # Streamlit interface
 ├── vocab.py            # loading, filtering, sampling, bolding (no Streamlit)
+├── merge_batches.py    # combines data/batches/*.csv into data/5000_woorden.csv
 ├── data/
-│   └── 5000_woorden.csv   # the word list (see below)
+│   ├── 5000_woorden.csv   # the merged word list (see below)
+│   └── batches/           # batch_001.csv = ranks 1-100, batch_002.csv = 101-200, ...
 ├── requirements.txt
 └── README.md
 ```
+
+## Adding new batches
+
+Put new batch files in `data/batches/` and run:
+
+```bash
+python merge_batches.py
+```
+
+This rebuilds `data/5000_woorden.csv` (sorted by rank, checked for duplicate ids). To use another output name: `python merge_batches.py data/other_name.csv`.
 
 ## The data file
 

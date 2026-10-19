@@ -17,6 +17,7 @@ from vocab import (
     load_vocab,
     options,
     sample_words,
+    search_words,
 )
 
 st.set_page_config(page_title="5000 Nederlandse woorden", page_icon="🇳🇱", layout="centered")
@@ -29,6 +30,7 @@ st.set_page_config(page_title="5000 Nederlandse woorden", page_icon="🇳🇱", 
 def get_data(path_str: str, modified: float):
     # 'modified' is only part of the cache key: a new/changed CSV reloads automatically.
     return load_vocab(path_str)
+
 
 try:
     data_path = find_data_file(Path(__file__).parent)
@@ -192,11 +194,12 @@ def render_answer(row: dict):
         st.caption(md(row["notes"]))
 
 
-def render_card(rows: list[dict]):
+def render_card(rows: list[dict], key: str | None = None, default_shown: bool = False):
     """One card per word; every matching function/meaning goes in the answer."""
     first = rows[0]
-    key = answer_key(first["rank"])
-    shown = ss.get(key, False)
+    key = key or answer_key(first["rank"])
+    shown = ss.get(key, default_shown)
+    ss[key] = shown
     with st.container(border=True):
         left, right = st.columns([5, 1])
         left.markdown(f"### {md(first['word'])}")
@@ -216,6 +219,28 @@ def render_card(rows: list[dict]):
 # Main page
 # --------------------------------------------------------------------------- #
 st.title("5000 Nederlandse woorden")
+
+# --------------------------------------------------------------------------- #
+# Search: look up any word in the full list (ignores the practice filters)
+# --------------------------------------------------------------------------- #
+s1, s2 = st.columns([3, 1])
+query = s1.text_input("🔍 Search a word", placeholder="e.g. voorkomen, liep, huizen",
+                      help="Finds the word itself, words starting with it, and inflected "
+                           "forms (plurals, verb forms, -e forms). Accents are optional.")
+search_english = s2.checkbox("Also English", help="Also search the English translations.")
+if query.strip():
+    hits = search_words(df, query, include_english=search_english)
+    if not hits:
+        st.warning(f"No words found for '{query}'.")
+    else:
+        st.caption(f"{len(hits)} result(s) for '{query}' (searching all words; filters ignored)"
+                   + (" · showing the first 50" if len(hits) == 50 else ""))
+        all_rows = {rank: grp.to_dict("records") for rank, grp in df[df["rank"].isin(hits)].groupby("rank")}
+        for i, rank in enumerate(hits):
+            # The best match opens with its answer shown; others start closed.
+            render_card(all_rows[rank], key=f"search_{query}_{rank}", default_shown=(i == 0))
+    st.info("Clear the search box to go back to your flashcards.")
+    st.stop()
 n_words = filtered["rank"].nunique()
 st.caption(f"Ranks {rank_min}–{rank_max} · {n_words} matching words ({len(filtered)} meanings)")
 
