@@ -4,6 +4,8 @@ A Streamlit app for practicing the 5,000 most frequent Dutch words with flashcar
 
 The word list is based on the Hazenberg & Hulstijn frequency list. Every entry has an English translation, grammar information, IPA pronunciation, and two example sentences with translations.
 
+The repository is linked with the Streamlit app [5000 Nederlandse woorden](https://5000-nederlandse-woorden-flashcards.streamlit.app/).
+
 ## Features
 
 - **Frequency range:** pick a preset (1–500, 1–1000, 1001–2000, …) or a custom rank range such as 300–700.
