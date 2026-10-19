@@ -4,12 +4,26 @@ Run locally with:  streamlit run app.py
 """
 from __future__ import annotations
 
+import importlib
 import random
 from pathlib import Path
 
 import streamlit as st
 
-from vocab import (
+import vocab
+
+st.set_page_config(page_title="5000 Nederlandse woorden", page_icon="🇳🇱", layout="centered")
+
+# After an update on GitHub, a running Streamlit server can keep the *old* vocab.py
+# in memory. Reload it once if a newer function is missing.
+if not hasattr(vocab, "search_words"):
+    vocab = importlib.reload(vocab)
+if not hasattr(vocab, "search_words"):
+    st.error("Your vocab.py is an older version without the search function. "
+             "Upload the latest vocab.py to GitHub (same folder as app.py).")
+    st.stop()
+
+from vocab import (  # noqa: E402
     filter_vocab,
     find_data_file,
     has_value,
@@ -19,8 +33,6 @@ from vocab import (
     sample_words,
     search_words,
 )
-
-st.set_page_config(page_title="5000 Nederlandse woorden", page_icon="🇳🇱", layout="centered")
 
 
 # --------------------------------------------------------------------------- #
