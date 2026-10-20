@@ -85,7 +85,7 @@ RANGE_PRESETS = {
 with st.sidebar:
     st.header("Practice settings")
 
-    preset = st.selectbox("Frequency range", list(RANGE_PRESETS), index=1,
+    preset = st.selectbox("Frequency range", list(RANGE_PRESETS), index=list(RANGE_PRESETS).index("All words"),
                           help="Rank 1 is the most frequent word in Dutch.")
     if RANGE_PRESETS[preset] is None:
         c1, c2 = st.columns(2)
