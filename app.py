@@ -268,7 +268,7 @@ if query.strip():
     else:
         st.caption(f"{len(hits)} result(s) for '{query}' (searching all words; filters ignored)"
                    + (" · showing the first 50" if len(hits) == 50 else ""))
-        all_rows = {rank: grp.to_dict("records") for rank, grp in df[df["rank"].isin(hits)].groupby("rank")}
+        all_rows = {int(rank): grp.to_dict("records") for rank, grp in df[df["rank"].isin(hits)].groupby("rank")}
         for i, rank in enumerate(hits):
             # The best match opens with its answer shown; others start closed.
             render_card(all_rows[rank], key=f"search_{query}_{rank}", default_shown=(i == 0))
@@ -290,7 +290,10 @@ if len(ss.deck) < n_cards:
     st.info(f"Only {len(ss.deck)} words match, so you get {len(ss.deck)} cards.")
 
 # Only the meanings that match the filters are shown (all of them when no filter is set).
-by_rank = {rank: grp.to_dict("records") for rank, grp in filtered.groupby("rank")}
+# Build the cards only for the words in the current deck (grouping the whole
+# filtered list on every click made the app slow for large ranges).
+deck_rows = filtered[filtered["rank"].isin(ss.deck)]
+by_rank = {int(rank): grp.to_dict("records") for rank, grp in deck_rows.groupby("rank")}
 for rank in ss.deck:
     if rank in by_rank:
         render_card(by_rank[rank])
