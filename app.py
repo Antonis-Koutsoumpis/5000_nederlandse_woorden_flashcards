@@ -52,6 +52,20 @@ except (FileNotFoundError, ValueError) as err:
     st.error(str(err))
     st.stop()
 
+# Estimated CEFR level, derived from the frequency rank (not stored in the CSV).
+LEVEL_CUTOFFS = [(750, "A1"), (1500, "A2"), (2500, "B1"), (3750, "B2")]  # above 3750: C1
+LEVELS = ["A1", "A2", "B1", "B2", "C1"]
+
+
+def level_for_rank(rank: int) -> str:
+    for upper, level in LEVEL_CUTOFFS:
+        if rank <= upper:
+            return level
+    return "C1"
+
+
+df = df.assign(level=df["rank"].map(lambda r: level_for_rank(int(r))))
+
 MAX_RANK = int(df["rank"].max())
 RANGE_PRESETS = {
     "1 – 500": (1, 500),
@@ -85,6 +99,10 @@ with st.sidebar:
     n_cards = st.number_input("Number of flashcards", min_value=1, max_value=100, value=10, step=5)
 
     st.subheader("Filters")
+    levels = st.multiselect("Level (estimated)", LEVELS, placeholder="All",
+                            help="Estimated from frequency rank: A1 = 1–750, A2 = 751–1500, "
+                                 "B1 = 1501–2500, B2 = 2501–3750, C1 = 3751+. "
+                                 "Combined with the frequency range above.")
     pos = st.multiselect("Grammatical function", options(df, "pos"),
                          placeholder="All (choose one or more)")
     articles = st.multiselect("Nouns: de / het", options(df, "article"),
@@ -106,13 +124,16 @@ filtered = filter_vocab(
     fixed_only=fixed_only, er_het_only=er_het_only,
     exclude_offensive=exclude_offensive,
 )
+if levels:
+    filtered = filtered[filtered["level"].isin(levels)]
 
 
 # --------------------------------------------------------------------------- #
 # Deck state: a new random deck when settings change or on request
 # --------------------------------------------------------------------------- #
 settings_key = (rank_min, rank_max, n_cards, tuple(pos), tuple(articles), tuple(verb_types),
-                tuple(reflexive), tuple(separable), fixed_only, er_het_only, exclude_offensive)
+                tuple(reflexive), tuple(separable), fixed_only, er_het_only, exclude_offensive,
+                tuple(levels))
 
 ss = st.session_state
 ss.setdefault("deck_no", 0)
@@ -215,7 +236,7 @@ def render_card(rows: list[dict], key: str | None = None, default_shown: bool = 
     with st.container(border=True):
         left, right = st.columns([5, 1])
         left.markdown(f"### {md(first['word'])}")
-        right.caption(f"rank {first['rank']}")
+        right.caption(f"rank {first['rank']} · {first.get('level', '')}")
         st.button("Hide answer" if shown else "Show answer", key=f"btn_{key}",
                   on_click=toggle, args=(key,), type="secondary" if shown else "primary")
         if shown:

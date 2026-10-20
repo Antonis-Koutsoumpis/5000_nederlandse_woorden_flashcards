@@ -9,18 +9,33 @@ The repository is linked with the Streamlit app [5000 Nederlandse woorden](https
 ## Features
 
 - **Frequency range:** pick a preset (1–500, 1–1000, 1001–2000, …) or a custom rank range such as 300–700.
+- **Estimated level (A1–C1):** every word gets a CEFR-style level estimated from its frequency rank, shown on each card next to the rank (e.g. `rank 2103 · B1`) and available as a filter. See *Estimated levels* below.
 - **Number of cards:** choose how many random flashcards to draw.
 - **Show / hide answers:** each card has one button that shows the answer and, clicked again, hides it. There are also buttons to show or hide all answers at once.
 - **Structured answers:**
   - the grammatical function and the English translation (in italics)
   - nouns: de/het and plural
   - adjectives: -e form, comparative, superlative
-  - verbs: present (ik), past (ik), past participle with hebben/zijn, regular/irregular, separable, reflexive
+  - verbs: present (ik), past (ik), past participle with hebben/zijn
   - fixed combinations and er/het expressions
   - pronunciation (IPA + stressed syllable)
   - two example sentences with the target word in **bold** in both Dutch and English
 - **Search:** type any Dutch word (e.g. *voorkomen*) to look it up in the full list. Inflected forms also work (*liep* finds *lopen*, *huizen* finds *huis*), accents are optional, and you can tick *Also English* to search the translations. Search ignores the practice filters; clear the box to return to your flashcards.
-- **Filters:** grammatical function (one or more), de/het nouns, regular/irregular verbs, separable or reflexive verbs, words with a fixed combination, expressions with er/het, and an option to hide offensive words.
+- **Filters:** estimated level (one or more), grammatical function (one or more), de/het nouns, regular/irregular verbs, separable or reflexive verbs, words with a fixed combination, expressions with er/het, and an option to hide offensive words.
+
+## Estimated levels
+
+The level is **not** stored in the CSV; the app derives it from the frequency rank when it loads the data:
+
+| Level | Ranks |
+|---|---|
+| A1 | 1–750 |
+| A2 | 751–1500 |
+| B1 | 1501–2500 |
+| B2 | 2501–3750 |
+| C1 | 3751 and higher |
+
+This is a rough guide, not an official CEFR classification. Frequency and difficulty don't always match: some everyday words are relatively rare in corpora (e.g. *ontbijt*, rank 2103, B1), and some frequent words are formal (e.g. *derhalve*). The level filter is combined with the frequency range, so choose *All words* as the range to filter on level alone. To change the cutoffs, edit `LEVEL_CUTOFFS` in `app.py`.
 
 ## Run locally
 
@@ -50,6 +65,7 @@ The app opens at http://localhost:8501.
 ├── merge_batches.py    # combines data/batches/*.csv into data/5000_woorden.csv
 ├── data/
 │   ├── 5000_woorden.csv   # the merged word list (see below)
+│   ├── codebook.md        # what every column in 5000_woorden.csv means
 │   └── batches/           # batch_001.csv = ranks 1-100, batch_002.csv = 101-200, ...
 ├── requirements.txt
 └── README.md
@@ -70,26 +86,11 @@ This rebuilds `data/5000_woorden.csv` (sorted by rank, checked for duplicate ids
 The app reads the first file it finds, in this order:
 
 1. `data/5000_woorden.csv` (the full list)
-2. `data/dutch_vocab_pilot.csv` (the 51-word pilot)
+2. `data/dutch_vocab_pilot.csv` (the small pilot file, used only as a fallback)
 
-To switch to the full list, add `data/5000_woorden.csv`; nothing in the code needs to change. You can delete the pilot file then.
+The pilot file is no longer needed once `data/5000_woorden.csv` is in place.
 
-The file is comma-separated UTF-8 with a BOM, so it opens correctly in Excel. Main columns:
-
-| Column | Meaning |
-|---|---|
-| `id` | Unique key `RANK-MEANING`, e.g. `0555-2` = second meaning of the word at rank 555 |
-| `rank` | Frequency rank (1 = most frequent). Words ranked 2001+ were ranked within their source band using corpus frequencies |
-| `frequency_band` | Band in the source list: 0-2000, 2000-3000, 3000-4000, 4000-5000 |
-| `word`, `pos`, `english` | Dutch word, grammatical function, English translation |
-| `article`, `plural` | Nouns: de/het and plural (`-` = no plural) |
-| `adj_e_form`, `comparative`, `superlative` | Adjectives |
-| `verb_present_ik`, `verb_past_ik`, `verb_past_participle`, `auxiliary` | Verb forms; separable verbs in main-clause order (`kom voor`) |
-| `verb_type`, `reflexive`, `separable` | regular/irregular/mixed; yes/no/optional; yes/no |
-| `has_fixed_combination`, `fixed_combination`, `er_het_combination` | Fixed expressions |
-| `ipa`, `stress` | IPA (Netherlands Dutch) and stressed syllable in capitals (`be·LO·ven`) |
-| `example1_nl` … `example2_en` | Example sentences; `**…**` marks the target word |
-| `register`, `notes` | e.g. "offensive", usage notes |
+The file is comma-separated UTF-8 with a BOM, so it opens correctly in Excel. It has 4,839 words in 5,032 rows. Every column is described in [`data/codebook.md`](data/codebook.md).
 
 A word with several grammatical functions or meanings has one row per function, all sharing the same rank.
 
