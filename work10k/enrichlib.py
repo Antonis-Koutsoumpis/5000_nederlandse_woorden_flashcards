@@ -68,6 +68,7 @@ def parse_file(n):
         if prep:
             if not re.search(rf'\b{re.escape(prep)}\b',phr): errs.append(f"{i}: prep not in phrase")
             if f"**{prep}**" not in exn: errs.append(f"{i}: example lacks **{prep}**")
+            if exn.count('**')!=2: errs.append(f"{i}: mark only the answer preposition")
             if not exe: errs.append(f"{i}: no English example")
         out[i]=dict(synonyms=syn,antonyms=ant,expression_type=t,fixed_preposition=prep,
                     preposition_phrase=phr,preposition_example_nl=exn,preposition_example_en=exe)
