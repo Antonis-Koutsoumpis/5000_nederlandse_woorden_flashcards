@@ -23,7 +23,7 @@
 1301-1|bereiken; beseffen||p
 1302-1|beambte
 1303-1|hulp|tegenwerking|c,c|aan ~ steun geven aan iemand ~ We geven steun **aan** de vluchtelingen. ~ We give support to the refugees.
-1304-1|redelijk; vrij|onredelijk
+1304-1|billijk; vrij|onredelijk
 1305-1
 1306-1|gebruiken; toepassen
 1307-1
