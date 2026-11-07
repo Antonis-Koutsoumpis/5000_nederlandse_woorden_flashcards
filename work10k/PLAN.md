@@ -29,3 +29,5 @@ Files:
 Progress log at bottom.
 
 ## Progress
+- Follow-up scheduled: trig_01Ybi5hbMBF7ZTaao3nK4Woe at 2026-11-07T21:08Z. Push works (branch wip-10k-expansion).
+- App updated (YouGlish, expression labels, synonyms/antonyms, Fixed prepositions tab) — committed on wip branch; app tolerates missing new columns.

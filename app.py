@@ -6,7 +6,9 @@ from __future__ import annotations
 
 import importlib
 import random
+import re
 from pathlib import Path
+from urllib.parse import quote
 
 import streamlit as st
 
@@ -170,6 +172,68 @@ def md(text: str) -> str:
     return str(text).replace("$", "\\$")
 
 
+def youglish_url(text: str) -> str:
+    """YouGlish search for Dutch as spoken in the Netherlands (NL accent)."""
+    return f"https://youglish.com/pronounce/{quote(str(text).strip())}/dutch/nl"
+
+
+def split_items(text: str) -> list[str]:
+    """Split 'a (x; y); b (z)' on semicolons that are not inside parentheses."""
+    items, depth, cur = [], 0, ""
+    for ch in str(text):
+        if ch == "(":
+            depth += 1
+        elif ch == ")":
+            depth = max(depth - 1, 0)
+        if ch == ";" and depth == 0:
+            items.append(cur.strip())
+            cur = ""
+        else:
+            cur += ch
+    if cur.strip():
+        items.append(cur.strip())
+    return [i for i in items if i]
+
+
+def expression_types(row: dict) -> dict[str, str]:
+    """'in aantocht zijn = idiom | opgeven = phrasal verb' -> {expr: type}."""
+    out = {}
+    for part in str(row.get("expression_type", "")).split("|"):
+        if "=" in part:
+            expr, kind = part.rsplit("=", 1)
+            out[expr.strip().lower()] = kind.strip()
+    return out
+
+
+def dutch_part(item: str) -> str:
+    """'in aantocht zijn (to be on the way)' -> 'in aantocht zijn'."""
+    return re.sub(r"\s*\(.*$", "", item).strip()
+
+
+def render_expressions(row: dict):
+    items = split_items(row.get("fixed_combination", "")) if has_value(row.get("fixed_combination")) else []
+    types = expression_types(row)
+    # The verb itself can be labeled too (e.g. 'opgeven = phrasal verb').
+    listed = {dutch_part(i).lower() for i in items}
+    extra = [e for e in types if e not in listed]
+    if not items and not extra:
+        return
+    lines = []
+    for expr in extra:
+        lines.append(f"- {md(expr)} · `{types[expr]}` · [🎧 YouGlish]({youglish_url(expr)})")
+    for item in items:
+        nl = dutch_part(item)
+        kind = types.get(nl.lower())
+        gloss = item[len(nl):].strip()
+        line = f"- {md(nl)}" + (f" *{md(gloss)}*" if gloss else "")
+        if kind:
+            line += f" · `{kind}`"
+        line += f" · [🎧 YouGlish]({youglish_url(nl)})"
+        lines.append(line)
+    st.markdown("**Fixed combinations:**  \n" + "\n".join(lines))
+    st.caption("🎧 YouGlish searches work best for single words; results for phrases may be inaccurate.")
+
+
 def detail_lines(row: dict) -> list[str]:
     pos_ = row["pos"]
     lines: list[tuple[str, str]] = []
@@ -187,7 +251,10 @@ def detail_lines(row: dict) -> list[str]:
         lines += [("Present (ik)", row["verb_present_ik"]),
                   ("Past (ik)", row["verb_past_ik"]),
                   ("Past participle", participle)]
-    lines += [("Fixed combination", row["fixed_combination"]),
+    if has_value(row.get("preposition_phrase")):
+        lines.append(("Fixed preposition", row["preposition_phrase"]))
+    lines += [("Synonyms", row.get("synonyms", "")),
+              ("Antonyms", row.get("antonyms", "")),
               ("With er / het", row["er_het_combination"])]
     if pos_.startswith("noun") and str(row["plural"]).strip() in ("-", "—"):
         lines = [(l, "no plural" if l == "Plural" else v) for l, v in lines]
@@ -204,10 +271,17 @@ def render_answer(row: dict):
     if details:
         st.markdown("  \n".join(details))
 
+    render_expressions(row)
+
     pron = [p for p in (row["ipa"], row["stress"]) if has_value(p)]
+    yg = f"[🎧 Hear it in real conversations (YouGlish, NL)]({youglish_url(row['word'])})"
+    if " " in str(row["word"]).strip():
+        yg += " · results for phrases may be inaccurate"
     if pron:
         st.markdown(f"**Pronunciation:** {md(pron[0])}"
-                    + (f" · stress: {md(pron[1])}" if len(pron) > 1 else ""))
+                    + (f" · stress: {md(pron[1])}" if len(pron) > 1 else "") + f"  \n{yg}")
+    else:
+        st.markdown(yg)
 
     examples = []
     for i in (1, 2):
@@ -253,47 +327,129 @@ def render_card(rows: list[dict], key: str | None = None, default_shown: bool = 
 # --------------------------------------------------------------------------- #
 st.title("5000 Nederlandse woorden")
 
+
 # --------------------------------------------------------------------------- #
-# Search: look up any word in the full list (ignores the practice filters)
+# Tab 1: search + flashcards
 # --------------------------------------------------------------------------- #
-s1, s2 = st.columns([3, 1])
-query = s1.text_input("🔍 Search a word", placeholder="e.g. voorkomen, liep, huizen",
-                      help="Finds the word itself, words starting with it, and inflected "
-                           "forms (plurals, verb forms, -e forms). Accents are optional.")
-search_english = s2.checkbox("Also English", help="Also search the English translations.")
-if query.strip():
-    hits = search_words(df, query, include_english=search_english)
-    if not hits:
-        st.warning(f"No words found for '{query}'.")
-    else:
-        st.caption(f"{len(hits)} result(s) for '{query}' (searching all words; filters ignored)"
-                   + (" · showing the first 50" if len(hits) == 50 else ""))
-        all_rows = {int(rank): grp.to_dict("records") for rank, grp in df[df["rank"].isin(hits)].groupby("rank")}
-        for i, rank in enumerate(hits):
-            # The best match opens with its answer shown; others start closed.
-            render_card(all_rows[rank], key=f"search_{query}_{rank}", default_shown=(i == 0))
-    st.info("Clear the search box to go back to your flashcards.")
-    st.stop()
-n_words = filtered["rank"].nunique()
-st.caption(f"Ranks {rank_min}–{rank_max} · {n_words} matching words ({len(filtered)} meanings)")
+def flashcards_tab():
+    # Search: look up any word in the full list (ignores the practice filters)
+    s1, s2 = st.columns([3, 1])
+    query = s1.text_input("🔍 Search a word", placeholder="e.g. voorkomen, liep, huizen",
+                          help="Finds the word itself, words starting with it, and inflected "
+                               "forms (plurals, verb forms, -e forms). Accents are optional.")
+    search_english = s2.checkbox("Also English", help="Also search the English translations.")
+    if query.strip():
+        hits = search_words(df, query, include_english=search_english)
+        if not hits:
+            st.warning(f"No words found for '{query}'.")
+        else:
+            st.caption(f"{len(hits)} result(s) for '{query}' (searching all words; filters ignored)"
+                       + (" · showing the first 50" if len(hits) == 50 else ""))
+            all_rows = {int(rank): grp.to_dict("records")
+                        for rank, grp in df[df["rank"].isin(hits)].groupby("rank")}
+            for i, rank in enumerate(hits):
+                # The best match opens with its answer shown; others start closed.
+                render_card(all_rows[rank], key=f"search_{query}_{rank}", default_shown=(i == 0))
+        st.info("Clear the search box to go back to your flashcards.")
+        return
 
-if filtered.empty:
-    st.warning("No words match these settings. Widen the range or remove a filter.")
-    st.stop()
+    n_words = filtered["rank"].nunique()
+    st.caption(f"Ranks {rank_min}–{rank_max} · {n_words} matching words ({len(filtered)} meanings)")
+    if filtered.empty:
+        st.warning("No words match these settings. Widen the range or remove a filter.")
+        return
 
-c1, c2, c3 = st.columns(3)
-c1.button("🔀 New cards", on_click=new_deck, use_container_width=True)
-c2.button("Show all answers", on_click=set_all, args=(True,), use_container_width=True)
-c3.button("Hide all answers", on_click=set_all, args=(False,), use_container_width=True)
+    c1, c2, c3 = st.columns(3)
+    c1.button("🔀 New cards", on_click=new_deck, use_container_width=True)
+    c2.button("Show all answers", on_click=set_all, args=(True,), use_container_width=True)
+    c3.button("Hide all answers", on_click=set_all, args=(False,), use_container_width=True)
 
-if len(ss.deck) < n_cards:
-    st.info(f"Only {len(ss.deck)} words match, so you get {len(ss.deck)} cards.")
+    if len(ss.deck) < n_cards:
+        st.info(f"Only {len(ss.deck)} words match, so you get {len(ss.deck)} cards.")
 
-# Only the meanings that match the filters are shown (all of them when no filter is set).
-# Build the cards only for the words in the current deck (grouping the whole
-# filtered list on every click made the app slow for large ranges).
-deck_rows = filtered[filtered["rank"].isin(ss.deck)]
-by_rank = {int(rank): grp.to_dict("records") for rank, grp in deck_rows.groupby("rank")}
-for rank in ss.deck:
-    if rank in by_rank:
-        render_card(by_rank[rank])
+    # Build the cards only for the words in the current deck (grouping the whole
+    # filtered list on every click made the app slow for large ranges).
+    deck_rows = filtered[filtered["rank"].isin(ss.deck)]
+    by_rank = {int(rank): grp.to_dict("records") for rank, grp in deck_rows.groupby("rank")}
+    for rank in ss.deck:
+        if rank in by_rank:
+            render_card(by_rank[rank])
+
+
+# --------------------------------------------------------------------------- #
+# Tab 2: fixed prepositions (vaste voorzetsels), multiple choice
+# --------------------------------------------------------------------------- #
+PREPOSITIONS = ["aan", "op", "in", "met", "van", "voor", "over", "naar", "om", "tot",
+                "bij", "uit", "tegen", "door", "onder", "achter", "na", "tussen"]
+
+
+def blank_out(sentence: str) -> str:
+    """Replace the **marked** preposition(s) with a blank."""
+    return re.sub(r"\*\*[^*]+\*\*", "_____", str(sentence))
+
+
+def new_quiz(pool, n: int):
+    ss.quiz_no = ss.get("quiz_no", 0) + 1
+    rng = random.Random()
+    picked = pool.sample(min(n, len(pool)), random_state=rng.randrange(1 << 30))
+    quiz = []
+    for row in picked.to_dict("records"):
+        answer = row["fixed_preposition"].strip()
+        others = [p for p in PREPOSITIONS if p != answer]
+        opts = rng.sample(others, 3) + [answer]
+        rng.shuffle(opts)
+        quiz.append({"row": row, "answer": answer, "options": opts})
+    ss.quiz = quiz
+    ss.quiz_checked = False
+    ss.quiz_key = ss.get("prep_settings")
+
+
+def prepositions_tab():
+    st.subheader("Fixed prepositions (vaste voorzetsels)")
+    st.caption("Choose the preposition that belongs with the word. Uses the frequency range and "
+               "filters from the sidebar.")
+    if "fixed_preposition" not in df.columns:
+        st.info("This data file has no fixed-preposition column yet.")
+        return
+    pool = filtered[filtered["fixed_preposition"].map(has_value)]
+    if pool.empty:
+        st.warning("No words with a fixed preposition match the current settings.")
+        return
+    n_q = st.number_input("Number of questions", 1, 50, 10, step=5, key="n_prep")
+    ss.prep_settings = (settings_key, int(n_q))
+    if ss.get("quiz_key") != ss.prep_settings or "quiz" not in ss:
+        new_quiz(pool, int(n_q))
+    st.button("🔀 New exercise", on_click=new_quiz, args=(pool, int(n_q)))
+    st.caption(f"{len(pool)} words with a fixed preposition in this selection.")
+
+    for i, q in enumerate(ss.quiz):
+        row = q["row"]
+        phrase = re.sub(rf"\b{re.escape(q['answer'])}\b", "_____", row["preposition_phrase"], count=1)
+        with st.container(border=True):
+            st.markdown(f"**{i + 1}. {md(phrase)}**  \n:gray[{md(row['english'])}]")
+            if has_value(row.get("preposition_example_nl")):
+                st.markdown(f"*{md(blank_out(row['preposition_example_nl']))}*")
+            choice = st.radio("Preposition", q["options"], index=None, horizontal=True,
+                              key=f"q_{ss.quiz_no}_{i}", label_visibility="collapsed")
+            if ss.quiz_checked:
+                if choice == q["answer"]:
+                    st.success(f"✅ Correct: {md(row['preposition_phrase'])}")
+                else:
+                    st.error(f"❌ The answer is **{q['answer']}**: {md(row['preposition_phrase'])}")
+                if has_value(row.get("preposition_example_nl")):
+                    st.caption(f"{md(row['preposition_example_nl'])} · {md(row.get('preposition_example_en', ''))}")
+
+    def check():
+        ss.quiz_checked = True
+
+    st.button("✔️ Check answers", on_click=check, type="primary")
+    if ss.quiz_checked:
+        score = sum(ss.get(f"q_{ss.quiz_no}_{i}") == q["answer"] for i, q in enumerate(ss.quiz))
+        st.metric("Score", f"{score} / {len(ss.quiz)}")
+
+
+tab_cards, tab_prep = st.tabs(["🃏 Flashcards", "🧩 Fixed prepositions"])
+with tab_cards:
+    flashcards_tab()
+with tab_prep:
+    prepositions_tab()
