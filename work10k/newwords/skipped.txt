@@ -10,3 +10,16 @@ vzw: Belgian association abbreviation
 mark: former German currency; name
 www: web abbreviation
 wél: emphatic spelling of 'wel'
+von: German
+lage: inflected form of laag (in list)
+activum: financial jargon (activa)
+enz: abbreviation
+pk: abbreviation (horsepower)
+toegevoegd: participle of toevoegen (in list)
+http: web abbreviation
+kmo: Belgian abbreviation
+kokkin: lemmatizer error (koks/kokken)
+uitgesloten: participle of uitsluiten (in list)
+opgezet: participle of opzetten (in list)
+gespecialiseerde: inflected participle (specialiseren added)
+dé: emphatic spelling of 'de'
