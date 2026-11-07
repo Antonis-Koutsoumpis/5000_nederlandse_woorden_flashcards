@@ -30,3 +30,9 @@ lichtje: diminutive of licht (in list)
 té: emphatic spelling of 'te'
 kondigen: lemmatizer error (aankondigen, in list)
 dr: abbreviation
+neen: Flemish variant of 'nee' (in list)
+kruien: lemmatizer artefact (likely kruiden)
+nvdr: Flemish press abbreviation (noot van de redactie)
+für: German
+koude: variant of 'kou' (in list)
+di: abbreviation / Italian

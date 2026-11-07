@@ -87,7 +87,7 @@ ROWS = [
       "De **ontwerper** van dit gebouw is Italiaans.", "The **designer** of this building is Italian.",
       syn="designer; vormgever"),
     O("doorheen", "adverb", "through; throughout", "/doːrˈɦeːn/", "door·HEEN",
-      "We liepen door het bos **heen**, er dwars **doorheen**.", "We walked right **through** the forest.",
+      "We fietsten dwars **doorheen** de stad.", "We cycled right **through** the city.",
       "**Doorheen** de jaren is er veel veranderd.", "**Throughout** the years a lot has changed.",
       reg="Flemish (as preposition)", nt="In the Netherlands mainly as 'door ... heen'."),
     N("promotie", "promotion; doctorate (PhD)", "de", "promoties", "/proːˈmoː(t)si/", "pro·MO·tie",
