@@ -84,7 +84,7 @@
 0144-1|plaatsen; zetten||c,i,c|op ~ prijs stellen op iets ~ Ik stel je hulp erg **op** prijs. ~ I really appreciate your help.
 0145-1|bestaan|sterven|p|van ~ leven van iets ~ Hij leeft **van** zijn pensioen. ~ He lives on his pension.
 0145-2|bestaan|dood|c,i
-0146-1|woning|||c,c
+0146-1|woning||c,c
 0147-1|terwijl juist; hoewel
 0148-1|neervallen|opstaan|c,p
 0149-1|verder; op een andere manier|zo|c,c

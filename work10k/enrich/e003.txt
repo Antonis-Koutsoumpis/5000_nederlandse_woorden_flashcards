@@ -1,0 +1,100 @@
+0159-1|schijnen||p|op ~ lijken op iemand ~ Ze lijkt **op** haar moeder. ~ She looks like her mother.
+0160-1|haalbaar|onmogelijk|c
+0161-1||voor|c
+0161-2||voor|c
+0162-1|ieder
+0163-1|afgelegen|dichtbij|c,c
+0164-1|kop; leider||c,i
+0165-1|situatie||c,c
+0166-1|maar; toch
+0167-1|overtuigd|onzeker|c,c
+0167-2|beslist; zeker weten
+0168-1|er zijn|ontbreken|p|uit ~ bestaan uit iets ~ Het team bestaat **uit** vijf spelers. ~ The team consists of five players.
+0168-2|leven
+0169-1|daarna; straks|eerder
+0170-1|vertellen; meedelen|zwijgen|p|over ~ vertellen over iets ~ Vertel eens **over** je reis! ~ Tell me about your trip!
+0171-1|achternalopen|leiden
+0172-1
+0173-1|alleen; slechts
+0173-2|sommige|veel|c,c
+0173-3|||c
+0174-1|weten||c
+0175-1|klein; gering|groot
+0176-1|uiteraard; vanzelfsprekend
+0176-2||kunstmatig
+0177-1|gelaat||c
+0178-1|erg; heel
+0179-1
+0180-1|stel
+0180-2|enkele|veel|c
+0181-1|elk||c
+0182-1
+0183-1|bejaard|nieuw; jong
+0184-1|verzoek|antwoord|c,c,c
+0185-1|sleuren|duwen|c
+0186-1||niemand|c
+0187-1|zulk een
+0188-1|lijken||p|uit ~ blijken uit iets ~ Dat blijkt **uit** het onderzoek. ~ That emerges from the research.
+0189-1|dikwijls|zelden
+0190-1|af en toe|altijd; nooit
+0191-1|aarde||i
+0192-1|maal||c,c,c
+0193-1|helder|onduidelijk; vaag
+0194-1|eerder|laatst|c
+0195-1|vooral; met name
+0196-1|heten; vermelden
+0197-1|snappen; inzien|niet snappen
+0198-1|van belang|onbelangrijk
+0199-1|straat; route||c,c,i
+0199-2|kwijt; verdwenen|terug|p,c
+0200-1|noodzakelijk|overbodig|c
+0201-1|neerleggen|oppakken|p,c
+0202-1|||c,c
+0203-1|noteren|lezen
+0204-1|kwestie; winkel||c,c
+0205-1|haast|helemaal|c
+0206-1|staat||c,c
+0207-1|||c
+0208-1|zojuist; precies||c,c
+0208-2|keurig; netjes|slordig
+0208-3|netwerk; zender
+0209-1|uitproberen; pogen|opgeven|c
+0210-1|heel; zeer
+0210-2|ernstig; vreselijk|meevallen
+0211-1|||c,c
+0212-1|ophalen; krijgen|brengen|c,c
+0213-1||terug|c,c
+0214-1|plaatsen; leggen|weghalen|c,c
+0215-1|beu|honger|p
+0216-1|benutten
+0217-1|type; sort||c
+0218-1|enkel; alleen
+0219-1|arbeiden|rusten|p
+0220-1|groot|laag|i
+0221-1|gevuld|leeg|c,c
+0222-1|volledig; totaal|een beetje|c,c
+0223-1|correct|fout
+0223-2|precies; net
+0224-1
+0225-1||buiten|c,p
+0225-2||buiten
+0226-1|krachtig|zwak|p|in ~ sterk zijn in iets ~ Hij is sterk **in** talen. ~ He is good at languages.
+0227-1|||c
+0227-2|juist; correct|onwaar|c
+0227-3|goederen||i
+0228-1|stuk|geheel|c,p,c|van ~ deel uitmaken van iets ~ Zij maakt deel uit **van** het team. ~ She is part of the team.
+0229-1|waar; authentiek|nep
+0229-2|werkelijk
+0230-1
+0231-1|vlug|langzaam
+0232-1|||c
+0233-1|hoeveelheid
+0234-1|plaatsvinden
+0235-1|||c
+0236-1|wijze||c,c
+0237-1|zaak; voorwerp
+0238-1||ja|c
+0239-1
+0240-1|vertrek
+0241-1|||c
+0242-1|iedereen|niemand
