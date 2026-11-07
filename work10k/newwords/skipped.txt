@@ -161,3 +161,12 @@ pissen: vulgar
 koetswerk: Flemish (car body)
 zaak-dutroux: proper name
 groepje: diminutive
+ad, incl, ml, drs: abbreviations
+oproepen: duplicate candidate
+tentoon: only in tentoonstellen
+liefhebberen: lemmatizer artefact
+beursgemiddelde, concurrentiepositie, productiecapaciteit, uitgifteprijs, marktsegment, groeilanden, wielbasis, bedrijfswinst, bedrijfsresultaat, kwaliteitszorg, verankering, rijgedrag, gemeentepolitie: jargon
+ettelijk: archaic
+verslaggeefster, maakster: female forms
+toegepaste, opgeblazen, dringende, afgedaan: inflected forms / participles
+opdrijven: Flemish (to drive up)
