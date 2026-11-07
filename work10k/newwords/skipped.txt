@@ -170,3 +170,13 @@ ettelijk: archaic
 verslaggeefster, maakster: female forms
 toegepaste, opgeblazen, dringende, afgedaan: inflected forms / participles
 opdrijven: Flemish (to drive up)
+converteerbaar, loonnorm, kasbon, kapitaalmarkt, dienstensector, actuarieel, kadastraal, autosalon: jargon
+gevarieerde, fascinerende, bloeiende: inflected forms
+gebroeders: low value (gebroeders X = X brothers)
+einen: German
+d'ancona: name
+vertelster: female form
+facto: Latin (de facto)
+resem, onbestaand, vermits, syndicaal: Flemish words (low value)
+schape, doemen: lemmatizer artefacts
+boete: added (boeten was artefact)
