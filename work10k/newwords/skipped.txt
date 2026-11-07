@@ -80,3 +80,11 @@ ekonomische: old spelling of economisch
 eine: German
 bvba: Belgian company-form abbreviation
 penny: British coin
+gekende: Flemish participle ('known')
+uitoefenprijs: finance jargon (strike price)
+luchtvaartmaatschappij: duplicate candidate (already added)
+cc: abbreviation
+knappen: low value (lemmatizer form; knap in list)
+daß: German
+intercommunale: Belgian administrative jargon
+afgebroken: participle of afbreken (in list)
