@@ -72,7 +72,7 @@
 2296-1
 2297-1|bevelhebber
 2298-1|vierde||c
-2299-1|opgeven; staken|volhouden|p,c|voor ~ zich opgeven voor iets ~ Ik heb me opgegeven **voor** de cursus. ~ I've signed up for the course.
+2299-1|afstand doen; staken|volhouden|p,c|voor ~ zich opgeven voor iets ~ Ik heb me opgegeven **voor** de cursus. ~ I've signed up for the course.
 2300-1|test; experiment||c,i
 2301-1|wijzigen; passen||p|aan ~ zich aanpassen aan iets ~ Ik moet me aanpassen **aan** de nieuwe regels. ~ I have to adapt to the new rules.
 2302-1|||c
