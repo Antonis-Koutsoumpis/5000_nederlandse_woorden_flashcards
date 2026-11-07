@@ -16,6 +16,7 @@ os.chdir(HERE)
 sys.path.insert(0, HERE)
 import enrichlib  # noqa: E402
 import newlib  # noqa: E402
+import typerules  # noqa: E402
 
 NEW_COLS = ['synonyms', 'antonyms', 'expression_type', 'fixed_preposition', 'preposition_phrase',
             'preposition_example_nl', 'preposition_example_en', 'source']
@@ -94,6 +95,8 @@ def band(r):
 
 
 df['frequency_band'] = df['rank'].map(band)
+# consistent expression types (rules + hand overrides in typerules.py)
+df['expression_type'] = df['expression_type'].map(typerules.normalize_field)
 cols = BASE_COLS + NEW_COLS
 df = df.reindex(columns=cols).fillna('')
 if df['id'].duplicated().any():
