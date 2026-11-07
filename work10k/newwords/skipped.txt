@@ -1,0 +1,12 @@
+# Candidates from new_candidates.csv deliberately NOT added (lemma: reason)
+frank: former Belgian/French currency; also a name
+één: accented variant of 'een' (already in list)
+spraak: lemmatizer error (form 'sprak' = past of spreken)
+km: abbreviation of unit
+blz: abbreviation
+stond: past tense of staan (already in list)
+nv: Belgian company form abbreviation
+vzw: Belgian association abbreviation
+mark: former German currency; name
+www: web abbreviation
+wél: emphatic spelling of 'wel'
