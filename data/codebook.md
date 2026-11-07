@@ -8,8 +8,8 @@ This codebook describes every column in `data/woorden.csv`, the word list used b
 |---|---|
 | Format | Comma-separated values (CSV) |
 | Encoding | UTF-8 with BOM (`utf-8-sig`), so accents and IPA display correctly in Excel |
-| Rows | 5,939 (one row per meaning or grammatical function of a word) |
-| Distinct words | 5,746 |
+| Rows | 6,011 (one row per meaning or grammatical function of a word) |
+| Distinct words | 5,818 |
 | Columns | 37 |
 | Sort order | By `rank`, then by `id` |
 | Language variety | Dutch as used in the Netherlands; English translations in American spelling |
@@ -36,7 +36,7 @@ Each row is **one meaning or grammatical function of a word**. A word with sever
 | Column | Type | Description | Values / example |
 |---|---|---|---|
 | `id` | text | Unique key for the row: four-digit rank, a hyphen, and the meaning number within that word. Ids are rebuilt whenever the list is reordered, so they are not stable between versions. | `0555-2` = second meaning of the word at rank 555 |
-| `rank` | integer | Frequency rank of the word (1 = most frequent), numbered 1, 2, 3, … without gaps. All meanings of a word share the same rank. Words are ordered by their position in the 10k list (best position of any inflected form); words that are not in the 10k list get a position estimated from their rank in the original 5000 list. See *How the order was made* below. | `1` … `5,746` |
+| `rank` | integer | Frequency rank of the word (1 = most frequent), numbered 1, 2, 3, … without gaps. All meanings of a word share the same rank. Words are ordered by their position in the 10k list (best position of any inflected form); words that are not in the 10k list get a position estimated from their rank in the original 5000 list. See *How the order was made* below. | `1` … `5,818` |
 | `frequency_band` | category | Band of 1,000 ranks (the first band covers ranks 1–2000). | `0-2000`, `2000-3000`, `3000-4000`, … |
 | `source` | category | Which list(s) the word comes from. | `5000 list + 10k list`, `5000 list only (position estimated)`, `10k list (new)` |
 

@@ -57,7 +57,7 @@ ROWS = [
       "Het **stadsbestuur** nam een besluit.", "The **municipal government** took a decision.",
       syn="gemeentebestuur"),
     N("kennismaking", "acquaintance; introduction", "de", "kennismakingen", "/ˈkɛnɪsmaːkɪŋ/", "KEN·nis·ma·king",
-      "Aangenaam **kennis** te maken! Dit was een fijne **kennismaking**.", "Nice to meet you! This was a pleasant **introduction**.",
+      "Het was een fijne **kennismaking**.", "It was a pleasant **first meeting**.",
       "De eerste **kennismaking** met de stad was goed.", "My first **encounter** with the city was good.",
       fp="met ~ de kennismaking met iets ~ De kennismaking **met** de nieuwe collega's was leuk. ~ Meeting the new colleagues was fun."),
     N("gemeentehuis", "town hall; municipal office", "het", "gemeentehuizen", "/ɣəˈmeːntəɦœys/", "ge·MEEN·te·huis",
