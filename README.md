@@ -106,7 +106,7 @@ The app reads the first file it finds, in this order:
 
 The original 5000 list is kept as `work10k/base_5000.csv`.
 
-The file is comma-separated UTF-8 with a BOM, so it opens correctly in Excel. It has 5,537 words in 5,730 rows. Every column is described in [`data/codebook.md`](data/codebook.md).
+The file is comma-separated UTF-8 with a BOM, so it opens correctly in Excel. It has 5,604 words in 5,797 rows. Every column is described in [`data/codebook.md`](data/codebook.md).
 
 A word with several grammatical functions or meanings has one row per function, all sharing the same rank.
 

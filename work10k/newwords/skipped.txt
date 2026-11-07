@@ -94,3 +94,14 @@ waaieren: lemmatizer artefact
 parlementverkiezing: corrected to parlementsverkiezing
 spelletje: diminutive of spel (in list)
 del: Spanish/Italian article
+koppen: plural/verb of kop (in list)
+modem: dated
+onderwaardering, eindvervaldag, beurskapitalisatie: finance jargon
+para: abbreviation (parachutist)
+tewerk: only in fixed forms (te werk gaan)
+blote: inflected form of bloot (in list)
+aanvullende: inflected form
+tienduizend: duplicate candidate
+moeien: Flemish dialect verb
+fotografe: female form of fotograaf
+niét: emphatic spelling
