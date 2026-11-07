@@ -152,3 +152,40 @@ gedetineerden: plural noun
 nakende, eender: Flemish (imminent / any)
 reglementering: jargon
 chique: added as chic
+turbodiesel, koerswinst, overcapaciteit, risicokapitaal, kortetermijnrente, loonkost, hypothecair, loonmatiging, aandelenfonds, viercilinder, emittent: jargon
+genote, breiden, nach, immer: artefacts / German
+manschap: plural-only (manschappen)
+geschat: participle of schatten (in list)
+eerste-minister: Belgian title (premier in list)
+pissen: vulgar
+koetswerk: Flemish (car body)
+zaak-dutroux: proper name
+groepje: diminutive
+ad, incl, ml, drs: abbreviations
+oproepen: duplicate candidate
+tentoon: only in tentoonstellen
+liefhebberen: lemmatizer artefact
+beursgemiddelde, concurrentiepositie, productiecapaciteit, uitgifteprijs, marktsegment, groeilanden, wielbasis, bedrijfswinst, bedrijfsresultaat, kwaliteitszorg, verankering, rijgedrag, gemeentepolitie: jargon
+ettelijk: archaic
+verslaggeefster, maakster: female forms
+toegepaste, opgeblazen, dringende, afgedaan: inflected forms / participles
+opdrijven: Flemish (to drive up)
+converteerbaar, loonnorm, kasbon, kapitaalmarkt, dienstensector, actuarieel, kadastraal, autosalon: jargon
+gevarieerde, fascinerende, bloeiende: inflected forms
+gebroeders: low value (gebroeders X = X brothers)
+einen: German
+d'ancona: name
+vertelster: female form
+facto: Latin (de facto)
+resem, onbestaand, vermits, syndicaal: Flemish words (low value)
+schape, doemen: lemmatizer artefacts
+boete: added (boeten was artefact)
+gedroogd, veroordeeld: participles
+annex: low value
+koekje: diminutive of koek (added)
+aktief: old spelling of actief
+und: German
+# Added under corrected forms: internetten->internet, faxen->fax, ministerpresident->minister-president,
+# institutionele->institutioneel, secretarisgeneraal->secretaris-generaal, privé-sector->privésector,
+# onderzoekcommissie->onderzoekscommissie, raadlid->raadslid, vice-president->vicepresident,
+# privé-leven->privéleven, christen-democraat->christendemocraat, geavanceerde->geavanceerd, extreem-rechts->extreemrechts
