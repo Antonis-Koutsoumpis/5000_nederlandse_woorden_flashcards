@@ -1,0 +1,38 @@
+# Candidates from new_candidates.csv deliberately NOT added (lemma: reason)
+frank: former Belgian/French currency; also a name
+één: accented variant of 'een' (already in list)
+spraak: lemmatizer error (form 'sprak' = past of spreken)
+km: abbreviation of unit
+blz: abbreviation
+stond: past tense of staan (already in list)
+nv: Belgian company form abbreviation
+vzw: Belgian association abbreviation
+mark: former German currency; name
+www: web abbreviation
+wél: emphatic spelling of 'wel'
+von: German
+lage: inflected form of laag (in list)
+activum: financial jargon (activa)
+enz: abbreviation
+pk: abbreviation (horsepower)
+toegevoegd: participle of toevoegen (in list)
+http: web abbreviation
+kmo: Belgian abbreviation
+kokkin: lemmatizer error (koks/kokken)
+uitgesloten: participle of uitsluiten (in list)
+opgezet: participle of opzetten (in list)
+gespecialiseerde: inflected participle (specialiseren added)
+dé: emphatic spelling of 'de'
+rijkswacht: former Belgian gendarmerie (obsolete)
+uitgewerkt: participle of uitwerken (in list)
+cd-rom: obsolete
+lichtje: diminutive of licht (in list)
+té: emphatic spelling of 'te'
+kondigen: lemmatizer error (aankondigen, in list)
+dr: abbreviation
+neen: Flemish variant of 'nee' (in list)
+kruien: lemmatizer artefact (likely kruiden)
+nvdr: Flemish press abbreviation (noot van de redactie)
+für: German
+koude: variant of 'kou' (in list)
+di: abbreviation / Italian
