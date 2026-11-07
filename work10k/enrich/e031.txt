@@ -1,0 +1,100 @@
+2907-1|notitie; opmerking||c
+2908-1|mysterieus; raadselachtig|open; duidelijk
+2909-1|regel; recept
+2910-1|verdelen; uitspreiden|concentreren|i
+2911-1|tevredenstellen|teleurstellen
+2912-1|fundamenteel; beginselvast|pragmatisch
+2913-1|veronachtzamen|verzorgen
+2914-1|voelen; grijpen||i,i
+2915-1|veel; ontelbaar|weinig
+2916-1
+2917-1|beschadigen; aanvreten|beschermen
+2918-1|wereldlijk; stoffelijk|hemels
+2919-1|vreemd; merkwaardig|gewoon
+2920-1|ervaringsgericht|theoretisch
+2921-1|met andere woorden
+2922-1|stijgen; opkomen|dalen|i
+2923-1|graag|ongaarne
+2924-1|knellen; vastzetten||c
+2925-1|belanghebbende|buitenstaander
+2926-1|bulderen; schreeuwen|fluisteren
+2927-1|begrijpen; opnemen||c
+2928-1|mogelijk; voorstelbaar|ondenkbaar
+2929-1|rennen; snellen|kuieren|i
+2930-1|vragen; eisen
+2931-1|enorm; gigantisch|piepklein
+2932-1|glanzen; blinken||p|van ~ glimmen van trots ~ Hij glom **van** trots. ~ He beamed with pride.
+2933-1|omsingelen; omgeven
+2934-1|grijs; somber|kleurrijk
+2935-1|trillen; sidderen||c,p|van ~ beven van angst ~ Ze beefde **van** angst. ~ She was trembling with fear.
+2936-1|steunen; kermen
+2937-1|puffen; naar adem snakken
+2938-1|opdraaien; prikkelen||p|over ~ zich opwinden over iets ~ Hij windt zich op **over** kleinigheden. ~ He gets worked up about trifles.
+2939-1|branden; stralen||c,c
+2940-1|overnemen; afleiden||p|aan ~ iets ontlenen aan iets ~ Het woord is ontleend **aan** het Frans. ~ The word is borrowed from French.
+2941-1|mengen|scheiden
+2942-1|uitvoeren; volbrengen||p
+2943-1|bezigheid; werk
+2944-1|religieus; vroom|ongelovig
+2945-1|verband houden||p|met ~ samenhangen met iets ~ Dit hangt samen **met** het weer. ~ This is related to the weather.
+2946-1|bellen; telefoneren
+2947-1|uitrekken; strekken|samentrekken|p
+2948-1|verbazen||p|over ~ zich verwonderen over iets ~ Ik verwonder me **over** zijn kalmte. ~ I'm amazed at his calm.
+2949-1|brommen; mopperen
+2950-1|razen; tieren
+2951-1|lachen; smalend lachen
+2952-1|voorgaan|volgen|p,p|aan ~ voorafgaan aan iets ~ Wat ging er vooraf **aan** de ruzie? ~ What preceded the argument?
+2953-1|gniffelen
+2954-1|idee; voorstelling
+2955-1|doel
+2956-1|zwaaien||p,p
+2957-1|nastreven; bedoelen
+2958-1|aanwijzen; reserveren||p|voor ~ bestemd zijn voor iets ~ Dit geld is bestemd **voor** de school. ~ This money is meant for the school.
+2959-1|mijmeren; nadenken||i
+2960-1|dwangsom
+2961-1|ontelbaar; zeer veel|weinig
+2962-1|opscheppen||p|op ~ zich beroemen op iets ~ Hij beroemt zich **op** zijn kennis. ~ He prides himself on his knowledge.
+3001-1|hem
+3002-1|ploeg; elftal
+3003-1|neerkomen|opstijgen
+3004-1|match; competitie
+3005-1|jaargetijde
+3006-1|vereniging
+3007-1|uitstekend; goed|slecht
+3008-1|||c
+3009-1|variant; uitgave|origineel
+3010-1|||c
+3011-1|westen|oost
+3012-1|jeugd; jongelui|ouderen
+3013-1|stemming
+3014-1|rondje; gang||c,c
+3015-1
+3016-1|buurt; stadsdeel||c
+3017-1|constructie|afbraak|c
+3018-1
+3019-1|aankoop|verkoop|c,i
+3020-1|leuk; komisch|saai; serieus
+3021-1
+3022-1|fototoestel
+3023-1|nu; tegenwoordig|vroeger
+3024-1|nummer
+3025-1|hoi; dag|doei
+3026-1|heilige||c
+3027-1|vroeger; oud-|huidig
+3028-1
+3029-1|gauw; straks|later
+3030-1|geweldig; prachtig|vreselijk
+3031-1|kleren
+3032-1|vrijen
+3033-1|geboortedag
+3034-1|onweer|windstilte|i,i
+3035-1|oefening; opleiding
+3036-1|opbergen; redden||c,p
+3037-1|overeenkomst
+3038-1|verven; blozen|verbleken|c
+3039-1|belangstelling|desinteresse|c|in ~ interesse hebben in iets ~ Ik heb interesse **in** muziek. ~ I'm interested in music.
+3040-1|keuze
+3041-1|overeenkomst; afspraak|onenigheid|c
+3041-2|goed; oké||p,c|met ~ akkoord gaan met iets ~ Ik ga akkoord **met** het voorstel. ~ I agree to the proposal.
+3042-1|||i,c
+3042-2|spil||c
