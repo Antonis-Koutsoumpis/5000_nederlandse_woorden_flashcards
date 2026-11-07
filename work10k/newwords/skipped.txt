@@ -184,4 +184,3 @@ gedroogd, veroordeeld: participles
 annex: low value
 koekje: diminutive of koek (added)
 aktief: old spelling of actief
-alarm: already in list via other entries? (skipped)
