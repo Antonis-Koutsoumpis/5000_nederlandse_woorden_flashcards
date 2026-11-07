@@ -1,0 +1,100 @@
+2808-1|observatie; gewaarwording
+2809-1|weigeren; verwerpen|aannemen; accepteren
+2810-1|pagina
+2811-1|meubileren; opzetten||p|op ~ zich inrichten op iets ~ We richten ons in **op** veel bezoekers. ~ We're preparing for many visitors.
+2812-1|makker; vriend|vijand
+2813-1|storen; afbreken|voortzetten
+2814-1|realistisch; werkelijk|onrealistisch
+2815-1|voorstellen; laten doorschemeren
+2816-1|aanduiden; benoemen||p|op ~ aangewezen zijn op iets ~ Ze is aangewezen **op** hulp van anderen. ~ She depends on help from others.
+2817-1|beddenlaken||i
+2818-1|lastig; zwaar|makkelijk; vlot
+2819-1|wakker worden|inslapen
+2820-1|belanden; goed aflopen||c,p|in ~ terechtkomen in iets ~ Hij kwam terecht **in** een sloot. ~ He ended up in a ditch.
+2821-1|recensent|bewonderaar
+2822-1|zich reppen|treuzelen|p
+2823-1|ontgoochelen|tevredenstellen|p|in ~ teleurgesteld zijn in iemand ~ Ik ben teleurgesteld **in** je. ~ I'm disappointed in you.
+2824-1|||i,i
+2825-1|aangeven; strekken||p,c
+2826-1|optillen; heffen|neerzetten|i
+2827-1|stromen||p|uit ~ voortvloeien uit iets ~ Dit vloeit voort **uit** de nieuwe wet. ~ This follows from the new law.
+2828-1|drijven; hangen|zinken
+2829-1|oplettend; geconcentreerd|afwezig; ongeïnteresseerd
+2830-1|toestaan; geven|misgunnen|c,c
+2831-1|ervaren; beleven||i
+2832-1|opleveren; verzamelen||c|voor ~ begrip opbrengen voor iets ~ Ik kan geen begrip opbrengen **voor** zijn gedrag. ~ I can't sympathize with his behavior.
+2833-1|verlenen; toeschrijven|ontzeggen
+2834-1|door elkaar halen||p|met ~ iets verwarren met iets ~ Ik verwar haar altijd **met** haar zus. ~ I always confuse her with her sister.
+2835-1|cult
+2836-1|kunde; bekwaamheid|onvermogen
+2837-1|samendrukken||i,p
+2838-1|||i
+2839-1|verbonden; gelijksoortig|vreemd|p|aan ~ verwant zijn aan iets ~ Nederlands is verwant **aan** Duits. ~ Dutch is related to German.
+2840-1|knappen; splijten||p,i
+2841-1|buurman|vreemde|i
+2842-1|besluiten; afleiden
+2843-1|opschrijven|vergeten
+2844-1|rusteloos; woelig|rustig; kalm
+2845-1|vlak land|heuvelland|i,i
+2846-1|aanhalen; vermelden
+2847-1|essentieel; fundamenteel|bijkomstig
+2848-1|bloesemen; floreren|verwelken|c
+2849-1|choqueren; schudden
+2850-1|naar voren|achterover
+2851-1|hemels; zalig|duivels
+2852-1|hoeveel
+2853-1|kerk-; religieus|wereldlijk
+2854-1|||i,i
+2855-1||kapitalisme
+2856-1||kapitalist
+2857-1|heester||c
+2858-1|nooit|altijd
+2859-1|ontnemen; verbergen||p,c|aan ~ zich onttrekken aan iets ~ Hij onttrok zich **aan** zijn plicht. ~ He shirked his duty.
+2860-1|nalaten; laten||i
+2861-1|schelden; vloeken||i
+2862-1|uiten; formuleren||p
+2863-1|zenuwachtig; gespannen|kalm; rustig
+2864-1|munt; medaille||c,i
+2865-1|om te; opdat
+2866-1|tegenover stellen||p|met ~ geconfronteerd worden met iets ~ We worden geconfronteerd **met** nieuwe problemen. ~ We're faced with new problems.
+2867-1|toch?; hè?
+2868-1
+2869-1|moreel; zedelijk|onethisch
+2870-1|eenvoudig; simpel|ontwikkeld; geavanceerd
+2871-1|hellend|vlak; glooiend|c
+2872-1|wekken; genereren|onderdrukken
+2873-1|resteren; overschieten
+2874-1|vies ruiken|geuren|i
+2875-1|deurwachter
+2875-2|autodeur
+2876-1|ontstaan; afkomstig zijn||p|uit ~ voortkomen uit iets ~ Dit idee komt voort **uit** een gesprek. ~ This idea came from a conversation.
+2877-1|||i
+2878-1|uitspringen; uitreiken||i,p|boven ~ uitsteken boven iets ~ Hij steekt **boven** iedereen uit. ~ He stands head and shoulders above everyone.
+2879-1|plooien|ontvouwen|c
+2880-1|produceren; maken
+2881-1|omdraaien; keren||p,c
+2882-1|passeren; negeren||p|aan ~ voorbijgaan aan iets ~ We kunnen niet voorbijgaan **aan** dit probleem. ~ We can't ignore this problem.
+2883-1|groeten; verwelkomen|uitzwaaien
+2884-1|zwaaien; zwalken||p
+2885-1|teug; slokje||i
+2886-1|verschillen; afdwalen|volgen|p|van ~ afwijken van iets ~ We wijken niet af **van** het plan. ~ We won't deviate from the plan.
+2887-1|tekst; document||c
+2888-1|gehaast; overhaast|kalm; rustig|i
+2889-1
+2890-1
+2891-1|schreeuw; leus
+2892-1|vreemd; zonderling|gewoon
+2893-1|ongeïnteresseerd; lauw|betrokken; geïnteresseerd
+2894-1|fonkelen; uitblinken||i
+2895-1|omroeren; ontroeren||p
+2896-1|verschijnsel; teken
+2897-1|optillen; verhogen|verlagen|p|boven ~ zich verheffen boven iets ~ De toren verheft zich **boven** de stad. ~ The tower rises above the town.
+2898-1|horen; te weten komen
+2899-1|domineren; overwegen
+2900-1|jongen; jongeman|meisje
+2901-1|||i,i
+2902-1|irriteren|behagen|p|aan ~ zich ergeren aan iets ~ Ik erger me **aan** het lawaai. ~ The noise annoys me.
+2903-1|achterlaten; verzuimen||c
+2904-1|botsen; tegenkomen||p|op ~ stuiten op iets ~ We stuitten **op** een probleem. ~ We ran into a problem.
+2905-1|begeleiden; meegaan|achterlaten
+2906-1|zich misrekenen||p|in ~ zich vergissen in iets ~ Ik heb me **in** de datum vergist. ~ I got the date wrong.
