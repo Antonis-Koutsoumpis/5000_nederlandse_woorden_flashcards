@@ -1,0 +1,100 @@
+3633-1|fijnzinnig; verfijnd|grof; plomp
+3634-1|terugbezorgen; verminderen|meenemen|p|tot ~ iets terugbrengen tot iets ~ We brengen de kosten terug **tot** een minimum. ~ We reduce the costs to a minimum.
+3635-1|verbergen|tonen|c
+3636-1|buitenlander; onbekende|bekende
+3637-1|adem
+3638-1|enigszins; een beetje|zeer
+3639-1|invoeren; voorstellen|afschaffen
+3640-1|schrapen
+3641-1|taak; vermelding||c
+3642-1|afmaken; afronden|beginnen|c
+3643-1|wetenschappelijk|praktisch|c
+3644-1|oud; ouderwets|modern; nieuw
+3645-1|grens; dorpel
+3646-1
+3647-1|gek; waanzinnig|normaal; verstandig
+3648-1|centrum; kern|rand
+3649-1|ongekookt; schor|gaar|i
+3650-1|rennen; razen
+3651-1|beschuldiging; verwijt|lof
+3652-1|tussenoplossing
+3653-1|toen; destijds|nu
+3654-1|fiasco; flop|succes
+3655-1|plaatsen; neerleggen|oppakken
+3656-1|drukken; duwen
+3657-1|ontdooien|stollen; bevriezen
+3658-1|geheim; intiem|openbaar
+3659-1|verwonding; snee
+3660-1|luid|stil; in stilte
+3661-1|jas; cape||i,i
+3662-1|bewaren; verhogen|wissen|c
+3663-1|afspreken; kloppen|verschillen|p|met ~ overeenkomen met iets ~ Zijn verhaal komt overeen **met** de feiten. ~ His story matches the facts.
+3664-1|algemeen; wereldwijd|specifiek; plaatselijk
+3665-1|verwijderen; afnemen|toevoegen|c
+3666-1|erop staan; pushen||p|op ~ aandringen op iets ~ Ze dringt aan **op** een snelle oplossing. ~ She's pressing for a quick solution.
+3667-1|basisprincipes; grondslagen
+3668-1|zo nodig; eventueel
+3669-1|neiging; behoefte
+3670-1|luisteren; volgen|ongehoorzaam zijn
+3671-1|hulpeloos; onmachtig|machtig
+3672-1|lijdzaam; inactief|actief
+3673-1|vakantieganger|inwoner
+3674-1|loodrecht; staand|horizontaal
+3675-1|zonovergoten|bewolkt; regenachtig
+3676-1|aankomen|vertrekken
+3677-1|tien jaar
+3678-1|gesprekje; geroddel||c,i
+3679-1|Nederlander
+3680-1|misleiden; vreemdgaan||i
+3681-1|plaats; patio
+3682-1|verjagen; wegjagen|aantrekken|c
+3683-1|zogenaamd
+3684-1|optreden; dienen||p|als ~ fungeren als iets ~ Deze kamer fungeert **als** kantoor. ~ This room serves as an office.
+3685-1|contact; verkeer||c,c
+3686-1|verwijderen; afdanken||p|van ~ zich ontdoen van iets ~ Hij ontdeed zich **van** zijn jas. ~ He took off his coat.
+3687-1|schuin; krom|recht|c,c
+3688-1|vloeken; uitkafferen|prijzen|p,p|op ~ schelden op iemand ~ Hij scheldt altijd **op** de regering. ~ He's always cursing the government.
+3689-1|verstoring; aandoening
+3690-1|irritatie; wrevel|plezier
+3691-1|||i
+3692-1|reiziger|chauffeur
+3693-1|||c
+3694-1|tevredenheid; bevrediging|ontevredenheid
+3695-1|stelling; uitspraak
+3696-1|omslag
+3697-1|waterpas; liggend|verticaal
+3698-1|intuïtie; gevoel
+3699-1|vacuüm; niets|volheid
+3700-1|zacht; toegeeflijk|streng; scherp
+3701-1|verkeerd begrip
+3702-1|speurder
+3703-1|verantwoorden; verdedigen
+3704-1|op tijd|te laat
+3705-1|beleidsvorming
+3706-1|steken; vastleggen||c,i
+3707-1|aankondigen; prediken
+3708-1|broodje||i
+3709-1|dop; klep
+3710-1|groep; fractie
+3711-1|strekken; uitstellen|inkorten|i
+3712-1|afspoelen; wassen||c,p
+3713-1|terugkeren|vooruitgaan|p|op ~ teruggaan op iets ~ Dit gebruik gaat terug **op** een oude traditie. ~ This custom goes back to an old tradition.
+3714-1|veronderstelling; theorie|feit
+3715-1|geliefde
+3716-1|creatie; wereld|vernietiging
+3717-1|rusten; voorzien|inspannen
+3718-1|beschermer
+3719-1|theoretisch; vaag|concreet
+3720-1|omschrijven; bepalen
+3721-1|terrein; boerenerf
+3722-1|beestje
+3723-1|vertrouwelijk; innig|afstandelijk
+3724-1|eigenwijs; halsstarrig|meegaand
+3725-1|hemd
+3726-1|consulteren; naslaan
+3727-1|||c
+3728-1|toestaan; accepteren|afkeuren
+3729-1||communisme
+3730-1|trek; schok||c,c
+3731-1|dienst; welwillendheid|ongunst|c,c|van ~ ten gunste van iemand ~ Het besluit was ten gunste **van** de klant. ~ The decision was in favor of the customer.
+3732-1|||c
