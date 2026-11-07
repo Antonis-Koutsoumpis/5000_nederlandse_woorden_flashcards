@@ -36,3 +36,11 @@ nvdr: Flemish press abbreviation (noot van de redactie)
 für: German
 koude: variant of 'kou' (in list)
 di: abbreviation / Italian
+max: abbreviation
+gecontroleerd: participle of controleren (in list)
+zu, sich, auf: German
+roerende: inflected form (roerend: only in roerende goederen/voorheffing)
+uiteenlopende: inflected participle of uiteenlopen (in list)
+troeven: plural/verb of troef (troef added later if in list)
+kozen: past of kiezen (in list)
+stukje: diminutive of stuk (in list)
