@@ -1,0 +1,100 @@
+2419-1|souterrain|zolder|i
+2420-1|naar beneden|omhoog
+2421-1|kunstschilder
+2422-1|||i
+2423-1|werkeloosheid|werkgelegenheid
+2424-1|evenals; en
+2425-1|verbeelding|werkelijkheid
+2426-1|beseffen; doorzien||c
+2426-2|mening||c,c
+2427-1|vrijlaten|vasthouden|c
+2428-1|opmeten||p|met ~ zich meten met iemand ~ Hij kan zich niet meten **met** de kampioen. ~ He can't compete with the champion.
+2429-1|behandeling
+2430-1|||c
+2431-1|kwijtschelden|kwalijk nemen
+2432-1|diepgang|hoogte
+2433-1|wezenlijk; noodzakelijk|bijkomstig
+2434-1
+2435-1|||c
+2436-1|bestraffen|belonen
+2437-1|baren; aanstaan|tegenvallen|p,c|van ~ bevallen van een kind ~ Ze is bevallen **van** een zoon. ~ She gave birth to a son.
+2438-1|getal; punt
+2439-1|beschermengel|duivel
+2440-1|koel; verfrissend|muf; warm|c,c
+2441-1|regelen; opzetten||p|op ~ zich instellen op iets ~ We stellen ons in **op** een lange wachttijd. ~ We're preparing for a long wait.
+2442-1|blijvend; vast|tijdelijk
+2443-1|plaatselijk; gewestelijk|landelijk
+2444-1|testen; controleren||p,p|aan ~ iets toetsen aan iets ~ We toetsen het plan **aan** de regels. ~ We test the plan against the rules.
+2445-1|branden; schroeien|blussen
+2446-1||donker
+2447-1|cijfer; nummer
+2448-1|rang; niveau
+2449-1|opa|kleinzoon
+2450-1|uitleg; vertolking
+2451-1|colbert
+2452-1|||i,c
+2453-1|herrie; kabaal|stilte|c
+2454-1|ramen; waarderen||p|op ~ iets schatten op een bedrag ~ Ik schat de kosten **op** duizend euro. ~ I estimate the costs at a thousand euros.
+2455-1|boomstam; volk
+2456-1|systeem||c
+2457-1|uit elkaar|samen|p,p,p
+2458-1|overzetten||p
+2459-1|garanderen; beloven||p|van ~ zich verzekeren van iets ~ Hij verzekerde zich **van** een plaats. ~ He made sure of a seat.
+2460-1|bos; verzameling
+2461-1|zulk; zo'n||c
+2462-1|bedrijf; zaak
+2463-1|echt; werkelijk|onecht|c
+2464-1|rund||i,i
+2465-1|ongedwongen|geforceerd
+2466-1|theater; podium||c,c
+2467-1|besteden; publiceren|sparen; verdienen|p,p|aan ~ geld uitgeven aan iets ~ Ze geeft veel geld uit **aan** kleren. ~ She spends a lot of money on clothes.
+2468-1
+2469-1|geboorteland|buitenland|c
+2470-1|uitstaan; dulden
+2471-1|veranderen; aanpassen|handhaven
+2472-1|opmerking; kritiek||c,c|voor ~ in aanmerking komen voor iets ~ Jij komt in aanmerking **voor** subsidie. ~ You're eligible for a grant.
+2473-1|verbinden; zich voegen bij|loskoppelen|p,p|bij ~ zich aansluiten bij iets ~ Hij sloot zich aan **bij** de club. ~ He joined the club.
+2474-1|bubbels
+2475-1|besteden; spenderen
+2476-1|draadje; snoer||i,i
+2477-1|zenuwachtig; nerveus|ontspannen|i
+2478-1|abdij
+2479-1|licht||i
+2480-1|plicht; verbintenis|recht
+2481-1|verminderen; dalen|toenemen
+2481-2|weghalen; kopen|geven|c,c
+2482-1|bede
+2483-1|leeg|bol; vol|i
+2483-2|grot; schuilplaats||i
+2484-1|wetenschapper; rechercheur
+2485-1|vondst||c
+2486-1
+2487-1|||c
+2488-1|||i,i
+2489-1|verbruiker|producent
+2490-1|zouteloos; zwak|sterk; pittig|p,c
+2491-1|gerespecteerd||c
+2492-1|bericht; aankondiging
+2493-1|zich generen||p
+2494-1|angst; schok|moed|c,c
+2495-1|personeel; stok
+2496-1|aarzelen|zeker zijn|p|aan ~ twijfelen aan iets ~ Ik twijfel **aan** zijn eerlijkheid. ~ I doubt his honesty.
+2497-1|eten geven; voeden|uithongeren|c,p
+2498-1|zuiden-|noordelijk
+2499-1|gemeenschappelijk|individueel
+2500-1|logboek
+2501-1|||p,i
+2502-1|serieusheid|luchtigheid|c
+2503-1|nauwkeurig; diepgaand|oppervlakkig
+2504-1|lichtstraal; straal water||i,c
+2505-1|overvallen; verbazen
+2506-1|vragen; verlangen
+2507-1|radeloos|hoopvol
+2508-1|cultuur|barbarij
+2509-1
+2510-1|vaststelling||c
+2511-1|niet te zien|zichtbaar
+2512-1|schap; plaat||i,i
+2513-1|toelaten; goedvinden|verbieden
+2514-1|aantrekken; veroorzaken|uittrekken; uitdoen|c,c
+2515-1|tongval; klemtoon||c|op ~ het accent leggen op iets ~ We leggen het accent **op** spreken. ~ We put the emphasis on speaking.
