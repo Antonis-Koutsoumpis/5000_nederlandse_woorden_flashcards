@@ -1,0 +1,100 @@
+4348-1|klagen; mopperen
+4349-1|tonen; betogen
+4350-1
+4351-1|uitkijken; aandacht hebben||c
+4352-1|bekendheid; aandacht|anonimiteit
+4353-1|proces; rechtszaak||i,c
+4354-1|dom
+4355-1|café
+4356-1|tekenen
+4357-1|ondenkbaar; ongelooflijk|voorstelbaar
+4358-1|voorzichtig zijn; babysitten||p,c|voor ~ oppassen voor iets ~ Pas op **voor** de hond! ~ Beware of the dog!
+4359-1|vooral; hoofdzakelijk
+4360-1
+4361-1|ontdekking; vinding
+4362-1|mondeling|non-verbaal
+4363-1|vertegenwoordiger
+4364-1|interessant; spannend|saai
+4365-1|aanrijding; conflict
+4366-1|netjes; behoorlijk|onfatsoenlijk
+4367-1|schrift; manuscript
+4368-1|kerkje; fanfare
+4369-1|krenken; beledigen
+4370-1|overgaan; oversteken||c
+4371-1|schuilhoek; toevluchtsoord
+4372-1|hardop lezen
+4373-1|begin; impuls||c|tot ~ de aanzet geven tot iets ~ Dit gaf de aanzet **tot** de hervorming. ~ This set the reform in motion.
+4374-1|daar|hier
+4375-1|een beroep doen||p|op ~ zich beroepen op iets ~ Hij beroept zich **op** zijn rechten. ~ He invokes his rights.
+4376-1|afvaardiging
+4377-1|roem; luister|schande
+4378-1|afbeelding; voorbeeld
+4379-1|starten; introduceren
+4380-1|verschillend; oneffen|gelijk
+4380-2||gelijk|c,i
+4381-1
+4382-1|duw; klap||c
+4383-1|woordkeus
+4384-1|ontdekking
+4385-1|tevreden||p,p|van ~ niet gediend zijn van iets ~ Ik ben niet gediend **van** zijn grappen. ~ I don't appreciate his jokes.
+4386-1|spottend; sarcastisch|serieus
+4387-1|afname; verlaging|toename
+4388-1|inham
+4389-1|verklaring; bewijs||c
+4390-1|schijf; plakje||i
+4391-1|planten; uitstrooien|oogsten|i
+4392-1|||i
+4393-1|druk; verplichting|vrijheid|c,c
+4394-1|terugtrekken; gaan wonen
+4395-1|joelen; jubelen|klagen
+4396-1|||i
+4397-1|venijnig; schadelijk|onschadelijk
+4398-1|trap
+4399-1|zinloos; onbruikbaar|nuttig
+4400-1|bodem; basis|bovengrond
+4401-1|rust; recreatie|spanning; inspanning
+4402-1|renoveren; telen
+4403-1|design; ontwerp
+4404-1|tijdschrift
+4405-1|doorboren
+4406-1|uitzichtloos; wanhopig|hoopvol
+4407-1|naar inhoud|vormelijk
+4408-1|dominee
+4409-1|schrijfwijze||c
+4410-1|vergeefs; zonder resultaat|met succes
+4411-1|doek; dekzeil||i,i
+4412-1
+4413-1|onderbreken; slopen|opbouwen|c
+4414-1|zwemmen; wassen||i
+4415-1|veearts
+4416-1|vrolijk; plechtig|somber|i
+4417-1
+4418-1|hoogheid
+4419-1|onthulling
+4420-1|samen|apart
+4421-1|katerigheid
+4422-1|toeleverancier|afnemer
+4423-1|infectie; ontbranding||c
+4424-1|||i
+4425-1|verdagen; opschuiven|vervroegen|i
+4426-1|vergoeden; prijzen|straffen
+4427-1|boerderij
+4428-1|volledig; compleet|gedeeltelijk
+4429-1|geestelijk; psychisch|lichamelijk
+4430-1|ongerechtigheid|recht|c,c
+4431-1|behandelaar
+4432-1|sprank
+4433-1|stof; textiel
+4434-1|Bijbel
+4435-1|rover; inbreker||i
+4436-1|blijde boodschap
+4437-1|gemeente
+4438-1|drasland
+4439-1|middag|voormiddag
+4440-1|onderscheid; medaille
+4441-1|capitulatie; toewijding|verzet
+4442-1|kijken; aanschouwen|meedoen
+4443-1|duurzaam; permanent|tijdelijk
+4444-1|beoordeling; analyse
+4445-1|kracht; hevigheid
+4446-1|afgunst; naijver
