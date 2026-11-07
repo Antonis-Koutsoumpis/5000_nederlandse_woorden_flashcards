@@ -1,0 +1,100 @@
+4747-1|fluiten; tjilpen||i
+4748-1|presenteren; voorstellen
+4749-1|dringend; plotseling|chronisch
+4750-1
+4751-1|roepen; afkondigen
+4752-1|binnenvallen; doordringen|zich terugtrekken
+4753-1|slepen; trekken
+4754-1|bevriezen|dooien|i
+4755-1|afhankelijk zijn||p|van ~ afhangen van iets ~ Het hangt af **van** het weer. ~ It depends on the weather.
+4756-1|omkomen; breken|overleven
+4757-1|trappen; uit het hoofd leren||c
+4758-1|bedoeling; strekking
+4759-1|inname; overwinning|nederlaag
+4760-1|verwerken; slikken
+4761-1|aangeboren; genetisch|verworven|c
+4762-1|rand; wondkorst
+4763-1|vertellen; mededelen|verzwijgen
+4764-1|meetrekken; ontroeren
+4765-1|ontwikkelen; worden||p|tot ~ uitgroeien tot iets ~ Het bedrijf groeide uit **tot** een multinational. ~ The company grew into a multinational.
+4766-1|vooringenomenheid
+4767-1|gebruikelijk; normaal|ongebruikelijk
+4768-1|vurig; gepassioneerd|lauw
+4769-1|storend; vervelend|prettig
+4770-1|geven; toebrengen
+4771-1|toekennen; verdelen|ontnemen
+4772-1|houding; instelling
+4773-1|onvolkomen; slecht|perfect
+4774-1|pistool
+4775-1|bouwval
+4776-1|gebruiken; toepassen||p
+4777-1|niet-ingewijde|insider
+4778-1||poëzie
+4779-1|heerlijk; zalig|vies
+4780-1|vertonen; ontwerpen
+4781-1|overwinning; zege|nederlaag
+4782-1|verbazing|onverschilligheid
+4783-1|mysterieus; geheimzinnig
+4784-1|avondschemer|dageraad
+4785-1|groot; wijd|klein
+4786-1|lok||i
+4787-1|uitleggen; ophelderen
+4788-1|onvoorspelbaar; wispelturig|stabiel
+4789-1|crimineel; boef
+4790-1|leiden tot; uitlopen||p|in ~ resulteren in iets ~ Het overleg resulteerde **in** een akkoord. ~ The talks resulted in an agreement.
+4791-1|oostelijk|westers
+4792-1|grillen; bakken
+4793-1|kalmeren; toedekken|opstoken
+4794-1|bloedvat||c
+4795-1|uittrekken; afhandelen||p,c|aan ~ afdoen aan iets ~ Dat doet niets af **aan** zijn talent. ~ That doesn't detract from his talent.
+4796-1|boerenvrouw|boer
+4797-1|tobben; zich zorgen maken||i,p|over ~ piekeren over iets ~ Ze piekert **over** haar examen. ~ She's worrying about her exam.
+4798-1|onderwerp|object
+4799-1|kleur; schakering
+4800-1|getalenteerd; talentvol|onbegaafd|c
+4801-1|twijfelen aan; betwisten|geloven
+4802-1|lawaaierig; rumoerig|stil
+4803-1|kier; scheur
+4804-1|doorslaggevend; cruciaal|onbelangrijk
+4805-1|bevel; voorschrift|verbod|c
+4806-1|liefde; tederheid|afkeer
+4807-1|machteloosheid|macht
+4808-1
+4809-1|voortdurend; aanhoudend|af en toe
+4810-1|wegleggen; bewaren|tevoorschijn halen
+4811-1|stoep
+4812-1|sok||i,i
+4813-1|beleven; ondergaan
+4814-1|verdragen; toelaten|verbieden
+4815-1|||i,i
+4816-1|op grond van; volgens
+4817-1|opleggen; aanpraten
+4818-1|opmerken; melden
+4819-1|hameren||i
+4820-1|op zondag
+4821-1|intuïtief; spontaan|beredeneerd
+4822-1|godgeleerde
+4823-1|zich zorgen maken||p|om ~ zich bekommeren om iemand ~ Hij bekommert zich **om** zijn moeder. ~ He looks after his mother.
+4824-1|en volgende
+4825-1|zich nestelen; kruipen
+4826-1|nutteloos; tevergeefs|succesvol
+4827-1|eng; luguber|gezellig
+4828-1|spleet||c
+4829-1|middelbare school
+4830-1|nobel; verheven|laag; gemeen|c,c
+4831-1|individu|massa
+4832-1|rangschikken; sorteren|door elkaar gooien
+4833-1|bewapenen|ontwapenen
+4834-1|passend; geschikt|ontoereikend
+4835-1|verlangen; lust|afkeer
+4836-1|smoren; dichtgooien||c,i
+4837-1|lijken||p|op ~ gelijken op iemand ~ Zij gelijkt **op** haar moeder. ~ She resembles her mother.
+4838-1|informeren; briefen
+4839-1|aanbidden; eren|verachten|p|met ~ vereerd zijn met iets ~ Ik ben vereerd **met** deze prijs. ~ I'm honored by this award.
+4840-1|onderdeel; ingrediënt
+4841-1|soezerig; moe|wakker; fit
+4842-1
+4843-1|twijfel; weifeling|vastberadenheid
+4844-1|voorstellen; inbeelden||p
+4845-1|bijleggen; verenigen|vervreemden|p|met ~ zich verzoenen met iets ~ Hij verzoende zich **met** zijn vader. ~ He reconciled with his father.
+4846-1|fladderen; waaien
