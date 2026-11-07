@@ -1,0 +1,100 @@
+2613-1|trekken; sjouwen|duwen|i
+2614-1|noteren; vastzetten||c
+2615-1|onderling; gemeenschappelijk|eenzijdig|c
+2616-1|laten liggen|meenemen
+2617-1|broer; verpleger|zuster
+2618-1||heiden
+2619-1|schadelijk; slecht||p,i
+2620-1|motregenen||i
+2621-1|uiterlijk; glans|werkelijkheid|i,c,i
+2622-1|geven; leveren|onthouden
+2623-1
+2624-1|contact||c|met ~ in aanraking komen met iets ~ Hij kwam in aanraking **met** de politie. ~ He came into contact with the police.
+2625-1|toespreken; aanspreken||p,c|op ~ iemand aanspreken op zijn gedrag ~ Ik spreek hem aan **op** zijn gedrag. ~ I'm calling him out on his behavior.
+2626-1|ontleden; onderzoeken
+2627-1|vallei|berg|i
+2628-1
+2629-1|waanidee; droombeeld|werkelijkheid|c
+2630-1|samengevat; kortweg
+2631-1|kant; wal
+2632-1|steen; klip||i
+2633-1|ogenschijnlijk|werkelijk
+2634-1|grote mens|kind
+2635-1|toegeven; opbiechten|ontkennen|i
+2636-1|||i
+2637-1|plezier; genoegen|pijn; leed
+2638-1|||c
+2639-1
+2639-2|fabrikant
+2640-1|kaalhoofdig; leeg|behaard; begroeid|i,c
+2641-1|schijnen; glanzen||p|van ~ stralen van geluk ~ Ze straalde **van** geluk. ~ She was beaming with happiness.
+2642-1|opzuigen||p,i
+2643-1|belopen
+2644-1|alleen zijn|gezelschap
+2645-1|groot worden
+2646-1
+2647-1|klap; trauma
+2648-1|vragen||p|voor ~ iemand uitnodigen voor iets ~ Ik nodig je uit **voor** mijn verjaardag. ~ I invite you to my birthday.
+2649-1|verslaan; te boven komen|verliezen
+2650-1|volgroeid; volwassen|onrijp; groen|c,p|voor ~ rijp zijn voor iets ~ Hij is rijp **voor** vakantie. ~ He's ready for a holiday.
+2651-1|hap||c,p
+2652-1|verbreken; doorsteken|handhaven
+2653-1|verwant
+2654-1|overnachten||c
+2655-1|alleen; puur
+2656-1|fantasie; verwaandheid|werkelijkheid
+2657-1|kiem||i
+2658-1|bedekken; afdekken|blootleggen|c,p
+2659-1|vaak; telkens|zelden
+2660-1|lang; aanhoudend|kortstondig
+2661-1|ethisch; zedelijk|immoreel
+2661-2|geestkracht
+2662-1|ontsnappen||p,i|aan ~ ontkomen aan iets ~ Je kunt niet ontkomen **aan** de belasting. ~ You can't escape taxes.
+2663-1|revolver
+2664-1|sinds
+2665-1|stroom; beweging
+2666-1|huid; blad||i,i,i
+2667-1|afkeuren; vonnissen|vrijspreken|p|tot ~ iemand veroordelen tot iets ~ Hij is veroordeeld **tot** drie jaar cel. ~ He was sentenced to three years in prison.
+2668-1|verzuchting; hunkering||c,c
+2669-1|inwoner|bezoeker
+2670-1|fascineren; vastleggen|vervelen|i
+2671-1|of||c
+2672-1|aantrekken|afschrikken|p,p
+2673-1|krachtig; sterk|machteloos|c
+2674-1|insluiten; opbergen|vrijlaten
+2675-1|gemeentelijk|landelijk
+2676-1|||i,i
+2677-1|zo'n; dergelijk
+2678-1|sluiten; betreffen||c,c
+2679-1|arresteren; volhouden|vrijlaten; ophouden|c
+2680-1|vereren; hoogachten|verachten
+2681-1|specialist; expert|leek
+2682-1|moeite; zwoegen|ontspanning|p
+2683-1|opdringen; verplichten||c,i
+2684-1|afwisseling; verscheidenheid|eentonigheid|c
+2685-1|vlerk||i
+2686-1|bewijzen; laten zien|weerleggen
+2687-1|dat; hetgeen
+2688-1|grondig; intens|oppervlakkig
+2689-1|dun; tenger|dik
+2690-1|plek; smet||i
+2691-1|||i,c
+2692-1|helpen; besturen||p|van ~ zich bedienen van iets ~ Hij bedient zich **van** moeilijke woorden. ~ He uses difficult words.
+2693-1|doorgang; tekstgedeelte
+2694-1|wild; razend|kalm; rustig|c
+2695-1|donker|licht
+2696-1|denker
+2697-1|mevrouw|meneer
+2698-1|vermengen|scheiden|p|in ~ zich mengen in iets ~ Hij mengde zich **in** het gesprek. ~ He joined in the conversation.
+2699-1|keren; omkeren||p,c
+2700-1|vangen; opnemen||c
+2701-1|tablet||i,c
+2702-1|toestaan; binnenlaten|weigeren|p|tot ~ iemand toelaten tot iets ~ Hij werd toegelaten **tot** de universiteit. ~ He was admitted to university.
+2703-1|bezig houden||p|met ~ zich bezighouden met iets ~ Ik houd me bezig **met** onderzoek. ~ I'm occupied with research.
+2704-1|daarom; dus
+2705-1|geleidelijk; stukje bij beetje|plotseling
+2706-1|gemiddeld||c,c
+2707-1|rekening; memo||c
+2708-1|grof; onbewerkt|glad; zacht|c,i
+2709-1|afmeting; aspect
+2710-1|koppelen; combineren|scheiden|p|met ~ gepaard gaan met iets ~ Griep gaat gepaard **met** koorts. ~ Flu is accompanied by fever.

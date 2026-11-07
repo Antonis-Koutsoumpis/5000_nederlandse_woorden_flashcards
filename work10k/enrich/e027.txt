@@ -32,7 +32,7 @@
 2547-1|hulp; zorg
 2548-1|introductie; voorwoord|slot; conclusie
 2549-1|volk; land
-2550-1|treurig; ongelukkig|gelukkig; blij|c
+2550-1|treurig; ellendig|gelukkig; blij|c
 2551-1|streng; nauwgezet|soepel; los|c
 2552-1|afwisselen; verschillen
 2553-1|verplaatsen; uitstellen||p,i|tegen ~ zich verzetten tegen iets ~ Ze verzetten zich **tegen** het plan. ~ They resist the plan.
