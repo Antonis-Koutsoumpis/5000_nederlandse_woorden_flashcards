@@ -152,3 +152,12 @@ gedetineerden: plural noun
 nakende, eender: Flemish (imminent / any)
 reglementering: jargon
 chique: added as chic
+turbodiesel, koerswinst, overcapaciteit, risicokapitaal, kortetermijnrente, loonkost, hypothecair, loonmatiging, aandelenfonds, viercilinder, emittent: jargon
+genote, breiden, nach, immer: artefacts / German
+manschap: plural-only (manschappen)
+geschat: participle of schatten (in list)
+eerste-minister: Belgian title (premier in list)
+pissen: vulgar
+koetswerk: Flemish (car body)
+zaak-dutroux: proper name
+groepje: diminutive
