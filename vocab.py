@@ -1,4 +1,4 @@
-"""Data helpers for the 5000 Nederlandse woorden flashcard app.
+"""Data helpers for the 6000+ Nederlandse woorden flashcard app.
 
 Kept free of Streamlit so the logic can be tested on its own.
 """
@@ -77,6 +77,8 @@ def filter_vocab(
     fixed_only: bool = False,
     er_het_only: bool = False,
     exclude_offensive: bool = False,
+    expr_types: list[str] | None = None,
+    prep_only: bool = False,
 ) -> pd.DataFrame:
     """Return the rows that match every active filter.
 
@@ -99,6 +101,11 @@ def filter_vocab(
         out = out[out["has_fixed_combination"] == "yes"]
     if er_het_only:
         out = out[out["er_het_combination"].map(has_value)]
+    if expr_types and "expression_type" in out.columns:
+        pat = "|".join(rf"= {re.escape(t)}\b" for t in expr_types)
+        out = out[out["expression_type"].str.contains(pat, regex=True, na=False)]
+    if prep_only and "fixed_preposition" in out.columns:
+        out = out[out["fixed_preposition"].map(has_value)]
     if exclude_offensive:
         out = out[~out["register"].str.contains("offensive", case=False)]
     return out

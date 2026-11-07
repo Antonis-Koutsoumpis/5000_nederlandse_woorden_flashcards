@@ -1,14 +1,14 @@
-# 5000 Nederlandse woorden — flashcards
+# 6000+ Nederlandse woorden — flashcards
 
 A Streamlit app for practicing the most frequent Dutch words with flashcards.
 
 The word list started from the Hazenberg & Hulstijn frequency list (5,000 words) and is ordered by the [10,000 most used words in Dutch](https://github.com/Fonzie-byte/10_000-most-used-words-in-Dutch) list, which also supplied new words. Every entry has an English translation, grammar information, IPA pronunciation, two example sentences with translations, and, where they exist, easy synonyms and antonyms.
 
-The repository is linked with the Streamlit app [5000 Nederlandse woorden](https://5000-nederlandse-woorden-flashcards.streamlit.app/).
+The repository is linked with the Streamlit app [6000+ Nederlandse woorden](https://5000-nederlandse-woorden-flashcards.streamlit.app/).
 
 ## Features
 
-- **Frequency range:** pick a preset (1–500, 1–1000, 1001–2000, …) or a custom rank range such as 300–700.
+- **Frequency range:** pick a preset (1–500, 1–1000, 1001–2000, … 5001–6000, 6001 to the end) or a custom rank range such as 300–700.
 - **Estimated level (A1–C1):** every word gets a CEFR-style level estimated from its frequency rank, shown on each card next to the rank (e.g. `rank 2103 · B1`) and available as a filter. See *Estimated levels* below.
 - **Number of cards:** choose how many random flashcards to draw.
 - **Show / hide answers:** each card has one button that shows the answer and, clicked again, hides it. There are also buttons to show or hide all answers at once.
@@ -23,9 +23,11 @@ The repository is linked with the Streamlit app [5000 Nederlandse woorden](https
   - pronunciation (IPA + stressed syllable)
   - two example sentences with the target word in **bold** in both Dutch and English
 - **Hear it in real conversations:** every card links to [YouGlish](https://youglish.com/dutch) with Netherlands (NL) pronunciation, for the word and for each fixed expression. YouGlish works best for single words; for phrases the results may be inaccurate, and the card says so.
-- **Fixed prepositions exercise:** a separate tab with multiple-choice questions. Each question shows the expression with a blank (e.g. *deelnemen ___ iets*), its English meaning and an example sentence with the same blank, plus four prepositions to choose from. *Check answers* shows your score and the correct answers; *New exercise* draws new questions. The exercise uses the frequency range and filters from the sidebar.
+- **Fixed prepositions exercise:** a separate tab with multiple-choice questions. Each question shows the expression with a blank (e.g. *deelnemen ___ iets*), its English meaning and an example sentence with the same blank, plus four prepositions to choose from. Each answer is checked as soon as you choose it: you see right away whether it was correct, with the full expression and an example. The running score is shown below the questions; *New exercise* draws new questions. The exercise uses the frequency range and filters from the sidebar.
 - **Search:** type any Dutch word (e.g. *voorkomen*) to look it up in the full list. Inflected forms also work (*liep* finds *lopen*, *huizen* finds *huis*), accents are optional, and you can tick *Also English* to search the translations. Search ignores the practice filters; clear the box to return to your flashcards.
-- **Filters:** estimated level (one or more), grammatical function (one or more), de/het nouns, regular/irregular verbs, separable or reflexive verbs, words with a fixed combination, expressions with er/het, and an option to hide offensive words.
+- **Filters:** estimated level (one or more), grammatical function (one or more), de/het nouns, regular/irregular verbs, separable or reflexive verbs, expression type (idiom, phrasal verb or collocation), words with a fixed combination, words with a fixed preposition, expressions with er/het, and an option to hide offensive words.
+
+  *Phrasal verb* is a label on expressions, not the same as *separable*: a separable verb (*opbellen*) splits in a sentence, while a phrasal verb here is any verb that forms a unit with a particle, preposition or *zich* (*afhangen van*, *zich bemoeien met*), separable or not.
 
 ## Estimated levels
 

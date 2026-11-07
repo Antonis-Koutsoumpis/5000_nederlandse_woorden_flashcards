@@ -1,6 +1,6 @@
 # Codebook: `woorden.csv`
 
-This codebook describes every column in `data/woorden.csv`, the word list used by the [5000 Nederlandse woorden](https://5000-nederlandse-woorden-flashcards.streamlit.app/) app.
+This codebook describes every column in `data/woorden.csv`, the word list used by the [6000+ Nederlandse woorden](https://5000-nederlandse-woorden-flashcards.streamlit.app/) app.
 
 ## File at a glance
 

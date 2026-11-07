@@ -1,4 +1,4 @@
-"""5000 Nederlandse woorden — flashcards (Streamlit app).
+"""6000+ Nederlandse woorden — flashcards (Streamlit app).
 
 Run locally with:  streamlit run app.py
 """
@@ -14,11 +14,11 @@ import streamlit as st
 
 import vocab
 
-st.set_page_config(page_title="5000 Nederlandse woorden", page_icon="🇳🇱", layout="centered")
+st.set_page_config(page_title="6000+ Nederlandse woorden", page_icon="🇳🇱", layout="centered")
 
 # After an update on GitHub, a running Streamlit server can keep the *old* vocab.py
 # in memory. Reload it once if a newer function is missing.
-if not hasattr(vocab, "search_words"):
+if not hasattr(vocab, "search_words") or "prep_only" not in vocab.filter_vocab.__code__.co_varnames:
     vocab = importlib.reload(vocab)
 if not hasattr(vocab, "search_words"):
     st.error("Your vocab.py is an older version without the search function. "
@@ -76,6 +76,8 @@ RANGE_PRESETS = {
     "2001 – 3000": (2001, 3000),
     "3001 – 4000": (3001, 4000),
     "4001 – 5000": (4001, 5000),
+    "5001 – 6000": (5001, 6000),
+    f"6001 – {MAX_RANK}": (6001, MAX_RANK),
     "All words": (1, MAX_RANK),
     "Custom range": None,
 }
@@ -113,7 +115,14 @@ with st.sidebar:
                                 placeholder="All", help="Choosing one keeps only verbs.")
     separable = st.multiselect("Verbs: separable", options(df, "separable"), placeholder="All")
     reflexive = st.multiselect("Verbs: reflexive", options(df, "reflexive"), placeholder="All")
+    expr_types = st.multiselect("Expression type", ["idiom", "phrasal verb", "collocation"],
+                                placeholder="All",
+                                help="Keeps words with at least one expression of this type "
+                                     "(shown under 'Fixed combinations' on the card).")
     fixed_only = st.checkbox("Only words with a fixed combination")
+    prep_only = st.checkbox("Only words with a fixed preposition",
+                            help="Words used with a fixed preposition (vast voorzetsel), "
+                                 "e.g. 'deelnemen aan'.")
     er_het_only = st.checkbox("Only expressions with er / het")
     exclude_offensive = st.checkbox("Hide offensive words")
 
@@ -125,6 +134,7 @@ filtered = filter_vocab(
     reflexive=reflexive, separable=separable,
     fixed_only=fixed_only, er_het_only=er_het_only,
     exclude_offensive=exclude_offensive,
+    expr_types=expr_types, prep_only=prep_only,
 )
 if levels:
     filtered = filtered[filtered["level"].isin(levels)]
@@ -135,7 +145,7 @@ if levels:
 # --------------------------------------------------------------------------- #
 settings_key = (rank_min, rank_max, n_cards, tuple(pos), tuple(articles), tuple(verb_types),
                 tuple(reflexive), tuple(separable), fixed_only, er_het_only, exclude_offensive,
-                tuple(levels))
+                tuple(levels), tuple(expr_types), prep_only)
 
 ss = st.session_state
 ss.setdefault("deck_no", 0)
@@ -325,7 +335,7 @@ def render_card(rows: list[dict], key: str | None = None, default_shown: bool = 
 # --------------------------------------------------------------------------- #
 # Main page
 # --------------------------------------------------------------------------- #
-st.title("5000 Nederlandse woorden")
+st.title("6000+ Nederlandse woorden")
 
 
 # --------------------------------------------------------------------------- #
@@ -400,8 +410,12 @@ def new_quiz(pool, n: int):
         rng.shuffle(opts)
         quiz.append({"row": row, "answer": answer, "options": opts})
     ss.quiz = quiz
-    ss.quiz_checked = False
+    ss.prep_answers = {}
     ss.quiz_key = ss.get("prep_settings")
+
+
+def record_answer(key: str):
+    ss.prep_answers[key] = ss.get(key)
 
 
 def prepositions_tab():
@@ -417,35 +431,45 @@ def prepositions_tab():
         return
     n_q = st.number_input("Number of questions", 1, 50, 10, step=5, key="n_prep")
     ss.prep_settings = (settings_key, int(n_q))
-    if ss.get("quiz_key") != ss.prep_settings or "quiz" not in ss:
+    if ss.get("quiz_key") != ss.prep_settings or "quiz" not in ss or "prep_answers" not in ss:
         new_quiz(pool, int(n_q))
     st.button("🔀 New exercise", on_click=new_quiz, args=(pool, int(n_q)))
     st.caption(f"{len(pool)} words with a fixed preposition in this selection.")
 
+    answered = 0
+    score = 0
     for i, q in enumerate(ss.quiz):
         row = q["row"]
+        key = f"q_{ss.quiz_no}_{i}"
         phrase = re.sub(rf"\b{re.escape(q['answer'])}\b", "_____", row["preposition_phrase"], count=1)
         with st.container(border=True):
             st.markdown(f"**{i + 1}. {md(phrase)}**  \n:gray[{md(row['english'])}]")
             if has_value(row.get("preposition_example_nl")):
                 st.markdown(f"*{md(blank_out(row['preposition_example_nl']))}*")
-            choice = st.radio("Preposition", q["options"], index=None, horizontal=True,
-                              key=f"q_{ss.quiz_no}_{i}", label_visibility="collapsed")
-            if ss.quiz_checked:
+            # The first answer is stored and the question is locked, so feedback is immediate
+            # and can't be changed by clicking again.
+            choice = ss.prep_answers.get(key)
+            if choice is None:
+                st.radio("Preposition", q["options"], index=None, horizontal=True, key=key,
+                         label_visibility="collapsed", on_change=record_answer, args=(key,))
+            else:
+                st.radio("Preposition", q["options"], index=q["options"].index(choice),
+                         horizontal=True, key=f"{key}_locked", label_visibility="collapsed",
+                         disabled=True)
+            if choice is not None:
+                answered += 1
                 if choice == q["answer"]:
+                    score += 1
                     st.success(f"✅ Correct: {md(row['preposition_phrase'])}")
                 else:
                     st.error(f"❌ The answer is **{q['answer']}**: {md(row['preposition_phrase'])}")
                 if has_value(row.get("preposition_example_nl")):
                     st.caption(f"{md(row['preposition_example_nl'])} · {md(row.get('preposition_example_en', ''))}")
 
-    def check():
-        ss.quiz_checked = True
-
-    st.button("✔️ Check answers", on_click=check, type="primary")
-    if ss.quiz_checked:
-        score = sum(ss.get(f"q_{ss.quiz_no}_{i}") == q["answer"] for i, q in enumerate(ss.quiz))
-        st.metric("Score", f"{score} / {len(ss.quiz)}")
+    st.metric("Score", f"{score} / {answered}",
+              help=f"{answered} of {len(ss.quiz)} questions answered")
+    if answered == len(ss.quiz):
+        st.success(f"Done! You got {score} of {len(ss.quiz)} right. Press 'New exercise' to try more.")
 
 
 tab_cards, tab_prep = st.tabs(["🃏 Flashcards", "🧩 Fixed prepositions"])
