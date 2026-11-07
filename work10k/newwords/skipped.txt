@@ -115,3 +115,23 @@ naken: lemmatizer artefact
 afgeleide: low value (derivative)
 wannen: lemmatizer artefact
 paddestoel: added as paddenstoel (current spelling)
+aanwassen, kleppen, somberen, wird, bovenst: lemmatizer artefacts / German
+patrimonium: Flemish formal jargon
+tranen: plural of traan (in list)
+dl: abbreviation
+zangeres: female form of zanger (added)
+gekleurde, correspondente: inflected / female forms
+doorvoeren: duplicate candidate
+staathervorming: corrected to staatshervorming
+blokje: diminutive
+ekonomie: old spelling of economie
+vlotten: Flemish verb (low value)
+aktie: old spelling of actie
+schaffen: archaic (aanschaffen)
+opportuniteit: Flemish (opportunity), low value
+jl: abbreviation
+plakje: diminutive of plak (in list)
+dividendrendement, fiscaliteit: jargon
+honderdduizend: duplicate candidate
+achtergebleven: participle of achterblijven (in list)
+sie, vagen: German / lemmatizer artefact

@@ -40,3 +40,4 @@ Progress log at bottom.
 - New words: newwords/nNNN.py with ROWS built by newlib helpers (N/V/A/O + syn/ant/fx/xt/fp/p10/sense);
   check: python3 newlib.py check N ; then rerun assemble.py and commit.
 - New words: n001-n008 done (416 words, through candidate 'liberalisering'); skipped log in newwords/skipped.txt. Merge to main with work10k/mg.sh.
+- New words n001-n016 done (979 words, through 'achterhoofd').
