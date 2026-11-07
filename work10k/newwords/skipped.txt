@@ -180,3 +180,8 @@ facto: Latin (de facto)
 resem, onbestaand, vermits, syndicaal: Flemish words (low value)
 schape, doemen: lemmatizer artefacts
 boete: added (boeten was artefact)
+gedroogd, veroordeeld: participles
+annex: low value
+koekje: diminutive of koek (added)
+aktief: old spelling of actief
+alarm: already in list via other entries? (skipped)
