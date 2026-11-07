@@ -44,3 +44,16 @@ uiteenlopende: inflected participle of uiteenlopen (in list)
 troeven: plural/verb of troef (troef added later if in list)
 kozen: past of kiezen (in list)
 stukje: diminutive of stuk (in list)
+aangepaste: inflected participle of aanpassen (in list)
+ogen: plural of oog (in list)
+morele: inflected form of moreel (in list)
+boeiende: inflected form of boeiend (in list)
+yen: Japanese currency
+ingeschreven: participle of inschrijven (added)
+boeten: lemmatizer artefact (boete added later)
+butten: lemmatizer artefact
+lassen: lemmatizer artefact (likely 'las' = read)
+mm: abbreviation
+produktie: old spelling of productie (in list)
+hét: emphatic spelling of 'het'
+ruimtelijke: ruimtelijk already in list
