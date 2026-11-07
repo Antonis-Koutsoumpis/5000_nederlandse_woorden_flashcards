@@ -135,3 +135,8 @@ dividendrendement, fiscaliteit: jargon
 honderdduizend: duplicate candidate
 achtergebleven: participle of achterblijven (in list)
 sie, vagen: German / lemmatizer artefact
+omliggen: lemmatizer artefact (omliggend)
+doorgedreven: Flemish participle (thorough)
+sind: German
+afgewerkte, intensieve, geblokkeerd, voorgenomen: inflected forms/participles
+potten, kwartetten: plural/verb artefacts
