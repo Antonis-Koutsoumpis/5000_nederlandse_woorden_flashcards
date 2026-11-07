@@ -88,7 +88,7 @@
 1555-1|aflopen; stoppen|beginnen
 1556-1|||i
 1557-1|splitsen; uit elkaar gaan|verbinden; samenvoegen|c
-1558-1|oprichten; vestigen||c|op ~ de aandacht vestigen op iets ~ Hij vestigde de aandacht **op** het probleem. ~ He drew attention to the problem.
+1558-1|oprichten; zich nestelen||c|op ~ de aandacht vestigen op iets ~ Hij vestigde de aandacht **op** het probleem. ~ He drew attention to the problem.
 1559-1|langsgaan
 1560-1|verkrijgbaar; vrij|bezet
 1561-1|leider; president
