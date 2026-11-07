@@ -1,0 +1,100 @@
+3832-1|prettig; aangenaam|onplezierig
+3833-1||kapitalist
+3834-1|stammen||p|uit ~ dateren uit een tijd ~ Deze kerk dateert **uit** de twaalfde eeuw. ~ This church dates from the twelfth century.
+3835-1|perfect; feilloos|onvolmaakt
+3836-1|vlammend; hartstochtelijk|lauw; koel
+3837-1|ontsnappen; ontglippen
+3838-1||oostelijk
+3839-1|vorm; gestalte||c
+3840-1|vooruitgang; eis|achteruitgang|c
+3841-1|achterlopen; blijven|vooruitgaan|p|bij ~ achterblijven bij iets ~ De groei blijft achter **bij** de verwachting. ~ Growth is lagging behind expectations.
+3842-1|uitoefenen; doen
+3843-1|trom; blik
+3844-1|kern; essentie|bijzaak|c,c
+3845-1|omhoogsteken; aansteken||c,p
+3846-1|overschouwen; begrijpen
+3847-1|uitstekend; schitterend|slecht; middelmatig
+3848-1|voelen; bespeuren
+3849-1|keffen||i
+3850-1|beschouwend
+3851-1|ceremonieel; statig|informeel
+3852-1|genoeg zijn||p|met ~ volstaan met iets ~ We kunnen volstaan **met** een korte uitleg. ~ A short explanation will do.
+3853-1|zaak; kwestie
+3854-1|vuur; hitte
+3855-1|specerij||i
+3856-1|acceptabel|onaanvaardbaar
+3857-1|zwerven; ronddolen||p,p
+3858-1|schitteren; lichten
+3859-1|koppig; volhardend|toegeeflijk
+3860-1|storen; belemmeren|helpen|c
+3861-1|beredeneren; denken
+3862-1|snuffelen
+3863-1|vlug; oppervlakkig|blijvend; grondig
+3864-1|knipogen||i
+3865-1|proefondervindelijk|traditioneel
+3866-1|gezicht
+3867-1|vermaken||p
+3868-1|buigen; duiken||p|onder ~ gebukt gaan onder iets ~ Ze gaat gebukt **onder** haar zorgen. ~ She's weighed down by her worries.
+3869-1|persoonlijk|objectief
+3870-1|uitlopen; eindigen||p|op ~ uitlopen op iets ~ De discussie liep uit **op** ruzie. ~ The discussion ended in a fight.
+3871-1|losknopen; bevrijden|vastmaken|p|van ~ zich losmaken van iets ~ Ze maakte zich los **van** haar familie. ~ She broke away from her family.
+3872-1|uitgebreid; groot|beperkt; klein
+3873-1|afstellen; coördineren||p|op ~ iets afstemmen op iets ~ We stemmen het menu af **op** de gasten. ~ We tailor the menu to the guests.
+3874-1|innerlijk; binnen|uitwendig
+3875-1
+3876-1|spiegelen; weergeven
+3877-1|respect; ontzag|minachting
+3878-1|stimulans; aansporing
+3879-1|rijp worden
+3880-1|beroerd; rampzalig|heerlijk
+3881-1|licht; ongedwongen|zwaar; serieus
+3882-1|meubelstuk
+3883-1
+3884-1|opschieten; eisen|stilstaan
+3885-1|verhinderen; tegenhouden|toestaan
+3886-1|glanzen; schitteren||i,p
+3887-1|chic; voornaam|ordinair; gewoon
+3888-1|onbetwistbaar; duidelijk|twijfelachtig
+3889-1|pilaar; kolom
+3890-1|winden; inpakken|uitpakken|p|in ~ verwikkeld raken in iets ~ Hij raakte verwikkeld **in** een ruzie. ~ He got involved in a fight.
+3891-1|dolen; rondtrekken
+3892-1|snappen; vangen||p|op ~ iemand betrappen op iets ~ Ik betrapte hem **op** een leugen. ~ I caught him in a lie.
+3893-1|bevrijden; ontslaan||c
+3894-1|nou; goed dan
+3895-1|passie; vuur|onverschilligheid
+3896-1|wegduwen; onderdrukken||p
+3897-1|resumeren; kort weergeven|uitweiden
+3898-1|bewoording; verwoording
+3899-1|onthullen; bekendmaken|verbergen
+3900-1|bevrijden; redden||p|van ~ verlost zijn van iets ~ Ik ben eindelijk verlost **van** die pijn. ~ I'm finally rid of that pain.
+3901-1|rood worden|verbleken
+3902-1|omhoogkijken; verbaasd zijn||p,i|tegen ~ opkijken tegen iemand ~ Hij kijkt op **tegen** zijn oudere broer. ~ He looks up to his older brother.
+3903-1|gooien; werpen||i
+3904-1|afknippen; inkorten||i
+3905-1|excuses aanbieden||p|voor ~ zich verontschuldigen voor iets ~ Hij verontschuldigde zich **voor** zijn gedrag. ~ He apologized for his behavior.
+3906-1|standpunt; oogpunt
+3907-1|leiden; aandragen|volgen
+3908-1|neerknielen|opstaan
+3909-1|norm; criterium
+3910-1|geneigd zijn; overhellen||p
+3911-1|zeker; beslist|twijfelend
+3912-1|aandoening; ziekte
+3913-1|tonen; zich vertonen
+3914-1|kleintje
+3915-1|vallen; strompelen
+3916-1
+3917-1|kinderachtig; naïef|volwassen
+3918-1|huisvesten; plaatsen
+3919-1|kruipen; glippen
+3920-1|voorbijgaan; verlopen
+3921-1|helemaal niet|zeker
+3922-1|'s nachts|dagelijks
+3923-1|merken; ontdekken
+3924-1|beginnen; openen
+3925-1|bovengenoemd|onderstaand
+3926-1|waggelen; twijfelen|stevig staan
+3927-1|toewijden; opdracht geven||c
+3928-1|produceren; scheppen
+3929-1|overdragen; in vertrouwen nemen
+3930-1|woeden; scheuren||i
+3931-1|persen; knellen||i,i
