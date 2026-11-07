@@ -56,7 +56,7 @@
 1916-1|vijand; concurrent|medestander; bondgenoot
 1917-1|stevig; betrouwbaar|ondeugdelijk|c
 1918-1|hutje; huisje
-1919-1|vrucht; resultaat||i
+1919-1|fruit; resultaat||i
 1920-1|zo erg||c
 1921-1
 2001-1|allemaal||c,c
