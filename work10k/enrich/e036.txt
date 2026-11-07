@@ -1,0 +1,100 @@
+3438-1|treffen; botsing|verzoening
+3439-1|tucht; vakgebied|wanorde
+3440-1|streek; provincie||i
+3441-1|gram
+3442-1|belegging
+3443-1|raadsel; geheim
+3444-1|mening; standpunt
+3445-1|opgebruiken; afleiden||c,p,p|uit ~ iets opmaken uit iets ~ Ik maak het op **uit** zijn woorden. ~ I gather it from his words.
+3446-1|vieze lucht|geur|i
+3447-1|op voorwaarde dat
+3448-1|||c
+3449-1|afremmen; vertragen|versnellen
+3450-1|voorstel; idee
+3451-1|bos
+3452-1
+3453-1|kwetsen; krenken|complimenteren
+3454-1|bloeitijd; voorspoed|verval|c
+3455-1|stevig; flink|klein; tenger
+3456-1|wereldbeeld
+3457-1|val; verderf|opkomst
+3458-1|monarch; heerser|onderdaan
+3458-2|kou|dooi
+3459-1|toevallig; lukraak|gepland; bewust
+3460-1|recht; claim||c|op ~ aanspraak maken op iets ~ U kunt aanspraak maken **op** een vergoeding. ~ You can claim compensation.
+3461-1|moedig; heldhaftig|laf
+3462-1|publiek; toehoorders||c,i|aan ~ gehoor geven aan iets ~ Hij gaf gehoor **aan** de oproep. ~ He answered the call.
+3463-1|legende; fabel|feit
+3464-1|een operatie doen; handelen
+3465-1|assistente
+3466-1|afkomstig zijn||p|uit ~ stammen uit een tijd ~ Dit kasteel stamt **uit** de middeleeuwen. ~ This castle dates from the Middle Ages.
+3467-1|bekend; betrouwbaar|vreemd; onbekend|p|met ~ vertrouwd raken met iets ~ Ik raak al vertrouwd **met** de stad. ~ I'm getting familiar with the city.
+3468-1|statig; deftig|onwaardig
+3469-1|zakken; ondergaan|drijven|i
+3470-1|scheur; fractie||c
+3471-1|praktisch; doelmatig|onpraktisch
+3472-1|simultaan; tegelijk|na elkaar
+3473-1|lab
+3474-1|bewust; met opzet|toevallig; per ongeluk
+3475-1
+3476-1|fabel; verhaaltje||c
+3477-1|raad geven; aanraden|afraden
+3478-1|weg; verstrooid|aanwezig; alert
+3479-1|kalm; bedaard|opgewonden
+3480-1|aanpassen; verwerken
+3481-1|omgeving
+3482-1|stof; onderwerp
+3483-1|opoffering; slachtoffer||c,p|aan ~ ten offer vallen aan iets ~ Het bos viel ten offer **aan** de brand. ~ The forest fell victim to the fire.
+3484-1|omringen; omsluiten
+3485-1|mysterie; puzzel|oplossing
+3486-1|maat; cadans
+3487-1|paardrijder
+3488-1|afscheren||p,i
+3489-1|bedrag; optelling
+3490-1|redenaar|luisteraar
+3491-1|uitleg; verklaring
+3492-1|soepel; snel|stroef; traag|c
+3492-2
+3493-1|bewaren; beveiligen|verwaarlozen
+3494-1|partijdig|veelzijdig; wederzijds
+3495-1|begraafplaats
+3496-1|oogsten; trekken||i,i
+3497-1|trottoir
+3498-1|tegenovergestelde|gelijke|c,c
+3499-1|terugnemen; zich verwijderen|oprukken|p
+3500-1|digitaal
+3501-1|stedelijk|landelijk
+3502-1|prikkel; stimulans
+3503-1|zedenles; zeden
+3504-1|||i
+3505-1|opsieren; verleiden||i
+3506-1|calculatie; schatting
+3507-1|aanklagen; betichten|vrijspreken|p|van ~ iemand beschuldigen van iets ~ Ze beschuldigen hem **van** diefstal. ~ They accuse him of theft.
+3508-1|ingrijpend; aangrijpend|alledaags
+3509-1|lekken||i,i
+3510-1|elkaar
+3511-1|mix; mengeling
+3512-1|slijk||i
+3513-1|verlokken; overhalen||p|tot ~ zich laten verleiden tot iets ~ Ik liet me verleiden **tot** een tweede taartje. ~ I let myself be tempted into a second cake.
+3514-1|vorige; dominee|opvolger
+3515-1|erachteraan||p
+3516-1
+3517-1|kosmos; universum
+3518-1|agent
+3519-1|positie; niveau||i
+3520-1|lenig; flexibel|stijf; strak|c
+3521-1|schuchter; bedeesd|brutaal|p,p|om ~ verlegen zitten om iets ~ We zitten verlegen **om** vrijwilligers. ~ We're in need of volunteers.
+3522-1|meedogenloos; hard|zachtaardig
+3523-1|redenering; pleidooi
+3524-1|nuttig; handig|onbruikbaar
+3525-1|bedroefd; treurig|vrolijk
+3526-1|geschiedkundige
+3527-1|kaakbeen||i
+3528-1|opknopen||c
+3529-1|grootbrengen
+3530-1|rijkdom; overdaad|tekort; schaarste|c,i
+3531-1|uiterst; zeer
+3532-1|fout; misser||c
+3533-1|radeloosheid|hoop
+3534-1
+3535-1|deken||c
