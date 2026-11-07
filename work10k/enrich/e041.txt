@@ -1,0 +1,100 @@
+3932-1|landen; dalen|opstijgen|p,c|op ~ neerkomen op iets ~ Het komt **op** hetzelfde neer. ~ It amounts to the same thing.
+3933-1|herkennen; inzien
+3934-1|liefdevol; zacht|ruw; hard
+3935-1|knuffelen; omarmen
+3936-1|ingang
+3937-1|proberen; trachten|opgeven
+3938-1|veroorzaken
+3939-1|voorrang hebben; leiden|volgen|i
+3940-1|wonen in; bezetten
+3941-1|detail; eigenaardigheid
+3942-1|opzwellen; uitzetten|slinken
+3943-1|mat; gedempt|glanzend; helder
+3944-1|verschillen; afwijken|samenvallen
+3945-1|wantrouwen; verdacht vinden|vertrouwen|p|van ~ iemand verdenken van iets ~ Ze verdenken hem **van** fraude. ~ They suspect him of fraud.
+3946-1|stimuleren; irriteren|kalmeren
+3947-1|jong|oud; bejaard
+3948-1|godgeleerd
+3949-1|gebaren; roepen
+3950-1|schilderij; afbeelding
+3951-1|grinniken
+3952-1|bewegingloos; roerloos|beweeglijk
+3953-1|staren; kijken
+3954-1|toekennen; wijten||p|aan ~ iets toeschrijven aan iemand ~ Dit schilderij wordt toegeschreven **aan** Rembrandt. ~ This painting is attributed to Rembrandt.
+3955-1|gevoel; mening
+3956-1|voortkomen; resulteren||p|uit ~ voortvloeien uit iets ~ De problemen vloeien voort **uit** de crisis. ~ The problems stem from the crisis.
+3957-1|de wenkbrauwen optrekken
+3958-1|schitteren; fonkelen|dof zijn
+3959-1|lekken; druppelen||p,c
+3960-1|wikkelen; omhullen||i
+3961-1|afmatten; opgebruiken|aanvullen
+3962-1|rillen; beven
+3963-1|boeien; betoveren|vervelen
+3964-1|stil; onbeweeglijk|beweeglijk
+3965-1|fluiten; sputteren||i
+3966-1|eigendom; bezit
+3967-1|baby
+3968-1|huilen; snotteren|lachen|p
+3969-1||socialistisch
+3970-1|onbewust; automatisch|bewust; opzettelijk
+3971-1|merken; opmerken
+3972-1
+3973-1|informatie||c
+3974-1|voorstellen; opwerpen
+3975-1|voltooien; afmaken
+3976-1|weigeren
+3977-1|wegzakken; zinken||i
+3978-1|uitputten; afmatten|verkwikken
+3979-1|didactisch
+3980-1
+3981-1|stap
+3982-1|blaffen; grauwen
+4001-1|zicht; visie||c,c,c
+4002-1||meer|p,c
+4003-1|hé; hoor
+4004-1|gebied; streek
+4005-1|kosteloos; voor niks|betaald|i
+4006-1|reserveren; behalen||c,c
+4007-1|begin|finish; einde
+4008-1|verkregen|verloren|i
+4009-1|nummer
+4010-1|tegen
+4011-1|pardon; excuus
+4012-1|door; met hulp van|ondanks
+4013-1|bevelen; opdragen|gehoorzamen
+4014-1|net; kring
+4015-1|rijk
+4016-1|minister-president
+4017-1
+4018-1|met inbegrip van|exclusief
+4019-1|geheimschrift; regels||c
+4020-1|namelijk
+4021-1|berouw; wroeging|tevredenheid|c,c,i|van ~ spijt hebben van iets ~ Ik heb spijt **van** mijn woorden. ~ I regret my words.
+4022-1|verzameling
+4023-1|doorsnee||c
+4024-1|label; soort
+4025-1|discussie; gesprek
+4026-1|gebied; wijk
+4027-1|enorm; verschrikkelijk|nauwelijks
+4028-1|weg; traject
+4029-1|optreden
+4030-1|naast liggen||p|aan ~ grenzen aan iets ~ Nederland grenst **aan** Duitsland. ~ The Netherlands borders on Germany.
+4031-1|verbond
+4032-1|idee; ontwerp
+4033-1|jas; jasje
+4034-1|techniek
+4035-1|gegadigde; sollicitant||c
+4036-1
+4037-1
+4038-1|opdracht; zending
+4039-1|resultaat; huiduitslag
+4040-1|appel; verzoek||c
+4041-1|ingeving; bezieling
+4042-1|uitproberen; toetsen
+4043-1|bericht; aangifte||c|van ~ melding maken van iets ~ De krant maakt melding **van** een ongeluk. ~ The paper reports an accident.
+4044-1|goed; prima
+4045-1|belangstellend; nieuwsgierig|ongeïnteresseerd|p|in ~ geïnteresseerd zijn in iets ~ Ben je geïnteresseerd **in** kunst? ~ Are you interested in art?
+4046-1|oudedagsvoorziening||c
+4047-1|toneel; verhoging
+4048-1|programma; show||c
+4049-1|expositie
