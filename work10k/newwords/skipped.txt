@@ -23,3 +23,10 @@ uitgesloten: participle of uitsluiten (in list)
 opgezet: participle of opzetten (in list)
 gespecialiseerde: inflected participle (specialiseren added)
 dé: emphatic spelling of 'de'
+rijkswacht: former Belgian gendarmerie (obsolete)
+uitgewerkt: participle of uitwerken (in list)
+cd-rom: obsolete
+lichtje: diminutive of licht (in list)
+té: emphatic spelling of 'te'
+kondigen: lemmatizer error (aankondigen, in list)
+dr: abbreviation
