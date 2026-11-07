@@ -1,0 +1,28 @@
+from newlib import N, V, A, O
+
+ROWS = [
+    N("onzekerheid", "uncertainty; insecurity", "de", "onzekerheden", "/ɔnˈzeːkərɦɛit/", "on·ZE·ker·heid",
+      "Er is veel **onzekerheid** over de toekomst.", "There is a lot of **uncertainty** about the future.",
+      "Ze worstelt met **onzekerheid**.", "She struggles with **insecurity**.",
+      syn="twijfel; onduidelijkheid", ant="zekerheid"),
+    A("beeldend", "visual (arts); vivid", "beeldende", "beeldender", "meest beeldend", "/ˈbeːldənt/", "BEEL·dend",
+      "Ze studeert **beeldende** kunst.", "She studies **visual** arts.",
+      "Hij vertelt heel **beeldend**.", "He tells stories very **vividly**.",
+      syn="levendig; visueel", fx="beeldende kunst (visual arts)", xt="c"),
+    A("ingrijpend", "drastic; far-reaching; radical", "ingrijpende", "ingrijpender", "meest ingrijpend", "/ˈɪŋɣrɛipənt/", "IN·grij·pend",
+      "Er komen **ingrijpende** veranderingen.", "**Far-reaching** changes are coming.",
+      "Het was een **ingrijpende** gebeurtenis.", "It was a **life-changing** event.",
+      syn="drastisch; verregaand", ant="oppervlakkig", p10=9192),
+    A("competitief", "competitive", "competitieve", "competitiever", "meest competitief", "/kɔmpeːtiˈtif/", "com·pe·ti·TIEF",
+      "Hij is erg **competitief**.", "He is very **competitive**.",
+      "De markt is **competitief**.", "The market is **competitive**.",
+      syn="concurrerend", ant="coöperatief"),
+    A("preventief", "preventive", "preventieve", "-", "-", "/preːvɛnˈtif/", "pre·ven·TIEF",
+      "De politie nam **preventieve** maatregelen.", "The police took **preventive** measures.",
+      "Hij zit in **preventieve** hechtenis.", "He is in **pretrial** detention.",
+      syn="voorkomend", fx="preventieve hechtenis (pretrial detention)", xt="c"),
+    A("selectief", "selective", "selectieve", "selectiever", "meest selectief", "/seːlɛkˈtif/", "se·lec·TIEF",
+      "Hij heeft een **selectief** geheugen.", "He has a **selective** memory.",
+      "De opleiding is erg **selectief**.", "The program is very **selective**.",
+      syn="kieskeurig", ant="willekeurig"),
+]

@@ -184,3 +184,8 @@ gedroogd, veroordeeld: participles
 annex: low value
 koekje: diminutive of koek (added)
 aktief: old spelling of actief
+und: German
+# Added under corrected forms: internetten->internet, faxen->fax, ministerpresident->minister-president,
+# institutionele->institutioneel, secretarisgeneraal->secretaris-generaal, privé-sector->privésector,
+# onderzoekcommissie->onderzoekscommissie, raadlid->raadslid, vice-president->vicepresident,
+# privé-leven->privéleven, christen-democraat->christendemocraat, geavanceerde->geavanceerd, extreem-rechts->extreemrechts
