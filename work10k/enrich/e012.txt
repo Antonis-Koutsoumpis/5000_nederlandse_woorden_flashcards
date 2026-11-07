@@ -55,7 +55,7 @@
 1042-1|stress|ontspanning
 1043-1|werk|rust|c
 1044-1|soort
-1045-1|weggaan; uitdoven|thuisblijven|p;+uitgaan=p|van ~ uitgaan van iets ~ Ik ga ervan uit dat je komt. ~ I'm assuming you'll come.
+1045-1|weggaan; uitdoven|thuisblijven|p;+uitgaan=p|van ~ uitgaan van iets ~ We gaan uit **van** de nieuwste cijfers. ~ We're working from the latest figures.
 1046-1|gesprek; debat
 1047-1|bedrijf
 1048-1|riskant|veilig

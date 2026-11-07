@@ -1,0 +1,100 @@
+1087-1|schema; uitzending
+1088-1|verplicht||p|aan ~ gehouden zijn aan iets ~ Je bent gehouden **aan** de regels. ~ You are bound by the rules.
+1089-1|houden; opslaan|weggooien|c,i
+1090-1|slap; zwakjes|sterk
+1091-1|aanvoerder; chef|volgeling
+1092-1|overhalen||p|van ~ overtuigd zijn van iets ~ Ik ben overtuigd **van** zijn onschuld. ~ I'm convinced of his innocence.
+1093-1
+1094-1|meestal; normaal|zelden
+1095-1||ochtend|c,c
+1096-1|blijkbaar; klaarblijkelijk
+1097-1|geheel; eendracht|verdeeldheid
+1098-1|letterkunde
+1099-1|||p
+1100-1|organisatie; houding||c
+1101-1|||c,i
+1102-1|samenleving
+1103-1
+1104-1|vastmaken; beamen|ontkennen; losmaken
+1105-1|lekker; prachtig|vies; vreselijk
+1106-1|deel; stuk|geheel|p|van ~ onderdeel zijn van iets ~ Dit is een onderdeel **van** het plan. ~ This is part of the plan.
+1107-1|||c
+1108-1|lucht; aroma|stank
+1109-1|optellen||p
+1110-1|maag||c,i
+1111-1|stroom
+1112-1|och
+1113-1|koppelen|scheiden|p|met ~ verbonden zijn met iets ~ Dit huis is verbonden **met** het net. ~ This house is connected to the grid.
+1114-1|werken|haperen
+1115-1|omdat; daar
+1116-1
+1117-1|publiek|privé; geheim|c,c
+1118-1|ook niet
+1119-1|oprecht; rechtvaardig|oneerlijk|c
+1120-1|fout; onjuist|goed; juist|c
+1121-1|vooraf|achteraf|c
+1122-1
+1123-1|stevig; dapper|zwak|c
+1124-1|pluspunt; winst|nadeel|c,c
+1125-1|bedreigen||p|met ~ dreigen met iets ~ Hij dreigde **met** ontslag. ~ He threatened to resign.
+1126-1|||c,c,c
+1127-1|boeiend|saai
+1128-1|wens||c,c
+1129-1|aanmerking||c
+1130-1||prinses
+1131-1||slechtst|c,c
+1131-2|prima; heel||c
+1132-1
+1133-1
+1134-1|ondertussen; inmiddels
+1135-1|macht; autoriteit
+1136-1|||c
+1137-1|formeel|officieus; informeel
+1138-1|chef|werknemer|c
+1139-1
+1140-1||schrijver
+1141-1|toch?; nietwaar?
+1142-1|nog eens doen
+1143-1|psychisch; mentaal|lichamelijk
+1144-1|dalen; vallen|slagen; stijgen|p|voor ~ zakken voor een examen ~ Ze is gezakt **voor** haar examen. ~ She failed her exam.
+1145-1|verslag
+1146-1|||c
+1147-1|wederzijds
+1148-1
+1149-1|besef||c
+1150-1|u
+1151-1
+1152-1|maatstaf||c
+1153-1|schip||i
+1154-1|gelijktijdig
+1155-1|grond|plafond
+1156-1|raam; context||c
+1157-1|||i
+1158-1|voldaan|ontevreden|p|met ~ tevreden zijn met iets ~ Ik ben tevreden **met** het resultaat. ~ I'm satisfied with the result.
+1159-1|snel; binnenkort|laat
+1160-1|||c
+1161-1|comité
+1162-1|bureau||c
+1163-1|deel|geheel
+1164-1|sectie
+1165-1|uitgeven; gebruiken|besparen|p,c|aan ~ tijd besteden aan iets ~ Ik besteed veel tijd **aan** mijn hobby. ~ I spend a lot of time on my hobby.
+1166-1|stap||c
+1167-1|eten
+1168-1|||c
+1169-1|denken; aannemen
+1169-2|idee; verdenking
+1170-1
+1171-1|fantaseren||p|van ~ dromen van iets ~ Ik droom **van** een huis aan zee. ~ I dream of a house by the sea.
+1172-1|bericht||c,c
+1173-1|verwonderen||p|over ~ zich verbazen over iets ~ Ik verbaas me **over** zijn gedrag. ~ I'm amazed at his behavior.
+1174-1|merken; zeggen||;+opmerken=p
+1175-1
+1176-1|sterk|zwak
+1177-1
+1178-1|geregeld|onregelmatig
+1179-1||zomer|c
+1180-1|in brand staan||p
+1181-1|klap; strijd||c,i
+1182-1|blij; opgewekt|somber; treurig
+1183-1|||i
+1184-1|puur; schoon|vuil
