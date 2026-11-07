@@ -1,0 +1,100 @@
+0518-1|||c,c
+0519-1|nuttigen|eten|c
+0520-1|verbinding||p,p|met ~ contact opnemen met iemand ~ Neem contact **met** ons op. ~ Contact us.
+0521-1|simpel; makkelijk|ingewikkeld
+0522-1|ordening|wanorde|c,i,c
+0524-1|taak; baan
+0525-1|vet; breed|dun|i
+0526-1|circa; zowat|precies
+0527-1|prijs||c
+0528-1|heet|koud
+0529-1|||c
+0530-1||nergens|c
+0531-1
+0532-1|raar; onbekend|bekend; gewoon|p
+0533-1|vuren||i,p
+0534-1|spraak||c
+0535-1|vinden|verbergen
+0536-1|praatje||c,c
+0537-1|graad||c,c,c
+0538-1|bevolking; natie
+0539-1|tint||i
+0540-1|beeld||c,c|van ~ onder de indruk zijn van iets ~ Ik ben erg onder de indruk **van** zijn werk. ~ I'm very impressed by his work.
+0541-1|duwen||p,p
+0542-1|omlaag|op|c,p
+0543-1|overlijden|geboren worden|p|aan ~ sterven aan een ziekte ~ Hij stierf **aan** een hartaanval. ~ He died of a heart attack.
+0544-1|zeer||c,c
+0545-1|grond; wereld|hemel|c
+0546-1
+0547-1|stuk; voorwerp
+0548-1|meteen; direct|later
+0549-1|realiteit|droom|c
+0550-1|einde; afstand|begin|c,c,i
+0551-1|privé|zakelijk
+0552-1
+0553-1|plaats; ruimte
+0554-1|opdracht; klus
+0555-1|gebeuren||;+voorkomen=p
+0555-2|verhinderen|toelaten
+0555-3|uiterlijk
+0556-1|inspanning; zorg|gemak|c,c,p|met ~ moeite hebben met iets ~ Ik heb moeite **met** de grammatica. ~ I struggle with the grammar.
+0557-1
+0558-1|wijziging|stilstand
+0559-1|wand
+0560-1|aanpassen; goed staan||p,p|bij ~ passen bij iets ~ Die schoenen passen goed **bij** je jurk. ~ Those shoes go well with your dress.
+0561-1|klank; lawaai|stilte
+0562-1|zijn||c
+0563-1|verplaatsen|stilstaan|c
+0564-1|aanhouden
+0565-1|arts|patiënt
+0566-1|verband; baan||c,p|op ~ betrekking hebben op iets ~ De regel heeft betrekking **op** iedereen. ~ The rule applies to everyone.
+0567-1|houding; manieren
+0568-1|oceaan|land|c,c
+0569-1
+0570-1|als; wanneer
+0571-1|niet meer weten|onthouden
+0572-1|opzettelijk|onbewust|p|van ~ zich bewust zijn van iets ~ Ben je je bewust **van** de risico's? ~ Are you aware of the risks?
+0573-1|advies; tip||c,i
+0574-1|immers
+0575-1|voorschrift; lijn||c,c
+0576-1|opgroeien|krimpen
+0577-1|voor|nadat
+0578-1||plus|c
+0579-1
+0580-1|gehucht|stad
+0581-1|hetzelfde|ongelijk; anders|c,c
+0581-2|meteen
+0581-3||ongelijk|c,c
+0582-1|weergeven
+0583-1|verleden; verhaal|toekomst
+0584-1
+0585-1|sinds||
+0586-1|kil; fris|warm; heet
+0587-1
+0588-1|kopje; hoofd||i,i,i
+0589-1|genoeg|onvoldoende
+0590-1|positie; stand van zaken||c,i,c
+0591-1||nergens|i
+0592-1|serieus|licht
+0593-1|verwanten||p|van ~ familie zijn van iemand ~ Ben jij familie **van** hem? ~ Are you related to him?
+0594-1|bezien; nakijken||c
+0595-1|tamelijk; vrij||c
+0596-1
+0597-1|tijdperk; tijd
+0598-1|trouwens; bovendien
+0599-1|vanaf
+0599-2|vanaf
+0600-1|||i
+0601-1|karakter; soort||c,c
+0602-1|allerhande; diverse
+0603-1|uitkomst|oorzaak
+0604-1|draaien||p,p|tegen ~ zich keren tegen iemand ~ Het volk keerde zich **tegen** de koning. ~ The people turned against the king.
+0605-1|situatie||c
+0606-1|gewoon|abnormaal; vreemd
+0607-1|laten zien|verbergen
+0608-1|||c
+0609-1|wijd|smal
+0610-1|overigens; bovendien
+0611-1|rondom||p,p
+0611-2|bol|hoekig
+0612-1|toekomst|verleden|c

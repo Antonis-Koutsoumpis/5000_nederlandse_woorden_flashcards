@@ -1,0 +1,100 @@
+3142-1
+3143-1|spoedeisend; urgent|niet dringend
+3144-1|griezelig; nauw|ruim; veilig
+3145-1|recept; formulering
+3146-1|balpen||i
+3147-1|redacteuren; bewerking
+3148-1|irritant; saai|leuk; prettig
+3149-1|samenhang; verband
+3150-1|avondeten
+3151-1|zorg
+3152-1|prostituee
+3153-1|schaamte; oneer|eer|c|van ~ schande spreken van iets ~ De oppositie spreekt schande **van** het besluit. ~ The opposition calls the decision a disgrace.
+3154-1|kwade; slechte|goede|i,c
+3155-1|map; archief
+3156-1|toppunt; climax|dieptepunt
+3157-1
+3158-1|ontzegging|toestemming
+3159-1|logisch; geschikt||p|op ~ aangewezen zijn op iemand ~ Oude mensen zijn vaak aangewezen **op** hulp. ~ Elderly people often depend on help.
+3160-1|ter hand nemen; behandelen|laten liggen|c
+3161-1|wanorde; verwarring|orde
+3162-1|inburgering|uitsluiting
+3163-1|naam; faam
+3164-1|doel; eindpunt|vertrekpunt
+3165-1|document; voorraad
+3166-1|commissie
+3167-1|najaar|voorjaar
+3168-1|traag; gemakzuchtig|ijverig; vlijtig|i,c
+3168-2|mensen
+3169-1|receptie; onthaal|verzending|c
+3170-1|teken; sein
+3171-1|deskundige; expert|leek
+3172-1|vroeger; eerder|tegenwoordig
+3173-1|snavel; muil||i,c
+3174-1|spitten; uitgraven|dichtgooien
+3175-1|vullen; opladen|lossen|p,c
+3176-1|groots; massief
+3177-1|oppervlak; vlak
+3178-1|nazaat|voorganger
+3179-1|auw
+3180-1|||i,i
+3181-1|verbond; vakbond
+3182-1|verontschuldiging||c,c
+3183-1|professor
+3184-1|ventje||i
+3185-1|toneelspeler|toeschouwer
+3186-1|verborgen; toegedekt|open; bloot
+3187-1|sparen; uitsparen|verspillen|p|op ~ besparen op iets ~ We besparen **op** energie. ~ We save on energy.
+3188-1|stelsel; systeem
+3189-1|zakelijk|ideëel
+3190-1|gedoe; bedrijvigheid|rust; kalmte|c|over ~ drukte maken over iets ~ Maak niet zoveel drukte **over** niks. ~ Don't make such a fuss about nothing.
+3191-1|precies; nauwkeurig|vaag|c
+3192-1|vesting; burcht
+3193-1|bestuurder
+3194-1|notulist
+3195-1|rechercheur
+3196-1|huilen|lachen
+3197-1|dierentuin
+3198-1|ondersteuning; supervisie
+3199-1|wedijver|samenwerking
+3200-1|kreet; oproep||c|om ~ de roep om iets ~ De roep **om** verandering wordt luider. ~ The call for change is getting louder.
+3201-1|invitatie
+3202-1|cast; bemanning|bevrijding
+3203-1|krant
+3204-1|periode; tijdvak
+3205-1|vermogen; inhoud
+3206-1|vindingrijk; inventief|fantasieloos
+3207-1|wonen; logeren
+3208-1|uitrusting; materieel
+3209-1|explosief||c,i
+3210-1|erop||p
+3211-1|afkeer; weerzin|voorliefde|c|aan ~ een hekel hebben aan iets ~ Ik heb een hekel **aan** regen. ~ I hate rain.
+3212-1|onwettig; clandestien|legaal
+3213-1|breekbaar; gevoelig|sterk; onkwetsbaar
+3214-1
+3215-1|gedrocht; staal
+3216-1|procent; aandeel
+3217-1|bezwaar; verzet|instemming|c
+3218-1
+3219-1|patiënt|gezonde
+3220-1|bal; bloembol||c,c|van ~ bol staan van iets ~ De krant staat bol **van** het nieuws. ~ The paper is full of the news.
+3220-2|bolvormig; rond|hol; plat
+3221-1|toch; niettemin
+3222-1|vracht; last||i
+3223-1|woestenij
+3224-1|braden||i
+3225-1|hoop; massa|beetje|c
+3226-1|keten; halssnoer
+3227-1|smaken; uitproberen
+3228-1|extreem; grens||i,c
+3229-1|truck; vrachtauto
+3230-1|komst|vertrek
+3231-1|keerzijde|voorkant
+3232-1|alsjeblieft
+3232-2|alsjeblieft
+3233-1|aanhouden; oppakken|vrijlaten
+3234-1|been||i
+3234-2|stomp; onbeleefd|scherp; beleefd
+3235-1|talent; geschenk
+3236-1
+3237-1|onderscheidenlijk

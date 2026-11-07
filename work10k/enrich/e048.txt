@@ -1,0 +1,100 @@
+4647-1|achternazitten; vervolgen|ontvluchten
+4648-1|maat; omvang
+4649-1|blussen; dimmen|aansteken
+4650-1|wenken; gebaren maken||c
+4651-1|ruiken; lekker ruiken|stinken|p|naar ~ geuren naar iets ~ De keuken geurt **naar** kaneel. ~ The kitchen smells of cinnamon.
+4652-1|halfwarm; onverschillig|heet; koud
+4653-1|instelling; verzorgingshuis
+4654-1|plotseling; bruusk|geleidelijk
+4655-1|||c,c
+4656-1|edelsteen; parel
+4657-1|peuter; kind|volwassene
+4658-1|strijkstok
+4659-1|omhooggaan; vertrekken|landen
+4660-1|intellectueel|emotioneel
+4661-1|rustig; kalm|onrustig
+4662-1
+4663-1|drie keer||i
+4664-1|ijzig; bevroren|gloeiend heet
+4665-1|kappen; uitspreken||c,c
+4666-1|goddelijk; zalig|aards|c,c
+4667-1|medezeggenschap; inbreng
+4668-1|boord||i
+4669-1|geheimzinnig; raadselachtig|duidelijk
+4670-1|opdagen; verschijnen|verdwijnen
+4671-1|wonderlijk; miraculeus|gewoon
+4672-1|stuk; homp||i,i
+4673-1|steun; greep
+4674-1|genadeloos; wreed|genadig
+4675-1|geest||i
+4676-1|neiging; trend
+4677-1|achterhouden; verbergen|onthullen
+4678-1|huilen; jammeren|lachen
+4679-1|minder belangrijk; bijkomstig|belangrijk
+4680-1|verminderen; terugbrengen|vergroten
+4681-1|eentonigheid|vermaak|i
+4682-1|befaamd; slecht bekend||p|om ~ berucht zijn om iets ~ Deze weg is berucht **om** zijn files. ~ This road is notorious for its traffic jams.
+4683-1
+4684-1|vreemdeling|landgenoot
+4685-1|sterven; overlijden|geboren worden
+4686-1
+4687-1|ommetje||c
+4688-1|uitgelaten; overvloedig|ingetogen
+4689-1|kennelijk; duidelijk
+4690-1|ventileren; uiten||i,i
+4691-1|verhogen; ten tonele brengen|verlagen
+4692-1|respectievelijk
+4693-1|scène; beeld
+4694-1|wegjagen; verdrijven|lokken
+4695-1|hoede
+4696-1|kletsen; praten
+4697-1|beteugelen; inhouden|loslaten
+4698-1|ijs worden|ontdooien
+4699-1|samenwerkingsverband
+4700-1
+4701-1|naaste
+4702-1|||c,c
+4703-1|||c,c
+4704-1|effectief; efficiënt|ondoeltreffend
+4705-1|||i,i
+4706-1|autochtoon; inlands|uitheems
+4707-1|stipt; direct|traag
+4708-1|bevoegd; kundig|onbekwaam
+4709-1|spijt hebben van; jammer vinden|toejuichen
+4710-1|uitwendig|intern
+4711-1|strijder
+4712-1|verzamelen; oppakken||p,c
+4713-1|straf; maatregel
+4714-1|loeren
+4715-1|ondeugend; luchtig|serieus
+4716-1|onwil; weerzin|zin|c
+4717-1|toekijken; letten||p|op ~ toezien op iets ~ Hij ziet toe **op** de veiligheid. ~ He oversees safety.
+4718-1|ruilen; vervangen||i
+4719-1|prominent; toonaangevend|onbekend
+4720-1|ophijsen; optrekken|strijken|i
+4721-1|toelichten; verduidelijken
+4722-1|lopen; paraderen
+4723-1|inleveren; aanvoeren||i
+4724-1|aanzetten; erbij halen|uitschakelen
+4725-1|plakken; hechten||i
+4726-1|overeenstemmend; volgens
+4727-1|opvoedkundig
+4728-1|dompelen; dopen
+4729-1|ergeren||p|aan ~ zich irriteren aan iets ~ Ik irriteer me **aan** zijn gedrag. ~ His behavior irritates me.
+4730-1|schitterend; glanzend|dof; somber
+4731-1|stevig; volhardend|mals; zacht|i,c
+4732-1|ondermijnen; afzwakken|versterken
+4733-1|levenskrachtig; noodzakelijk|zwak
+4734-1|voortbrengen; veroorzaken||c,c
+4735-1|droombeeld; openbaring
+4736-1|stiekem; verborgen|openlijk
+4737-1|||i,i
+4738-1|verhoren
+4739-1|open zijn; nog niet betaald|dicht zijn|p|voor ~ openstaan voor iets ~ Ik sta open **voor** nieuwe ideeën. ~ I'm open to new ideas.
+4740-1|gewoon; gebruikelijk|bijzonder
+4741-1|krijsen; gillen||i
+4742-1|lach; grimas
+4743-1|uitstrooien; sprenkelen||p
+4744-1|klus; taak
+4745-1|schram
+4746-1|van de middeleeuwen|modern

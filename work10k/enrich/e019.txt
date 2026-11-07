@@ -1,0 +1,100 @@
+1664-1|verwondering; verrassing
+1665-1|vertolking; versie||i
+1666-1|scherm
+1667-1|levensbeschouwing
+1668-1|deels|volledig
+1669-1|lokaal|landelijk
+1670-1|verschijnen; kloppen||p,p|voor ~ uitkomen voor iets ~ Hij komt eerlijk **voor** zijn mening uit. ~ He openly states his opinion.
+1671-1|traditioneel|modern
+1672-1|branche; tak
+1673-1|komend||p|uit ~ afkomstig zijn uit een land ~ Deze thee is afkomstig **uit** China. ~ This tea comes from China.
+1674-1|overdwars||p,p
+1675-1|oneindig|kort
+1676-1|gevoelig|nuchter
+1677-1|beethouden; bewaren|loslaten|p,p|aan ~ vasthouden aan iets ~ Hij houdt vast **aan** zijn principes. ~ He sticks to his principles.
+1678-1|zo meteen; direct|later
+1679-1|onderzoeken; leren
+1680-1|doodslag||i
+1681-1|teken; beeld
+1682-1|doos; lijkkist
+1683-1|muur
+1684-1|eindigen; afgaan|beginnen|c
+1685-1|voordelig|duur|i
+1686-1|indeling; ordening|wanorde
+1687-1|doorsturen||p|naar ~ verwijzen naar iets ~ De dokter verwees me **naar** een specialist. ~ The doctor referred me to a specialist.
+1688-1|kapotmaken; vernielen|opbouwen; scheppen
+1689-1|verder gaan; plaatsvinden|stoppen|p,p|met ~ doorgaan met iets ~ Ga gerust door **met** je werk. ~ Feel free to carry on with your work.
+1690-1|bezwaar; aanklacht|compliment|c
+1691-1
+1692-1||mannelijk
+1693-1|||c
+1694-1
+1695-1|overdenken; nadenken over
+1696-1|balans|onevenwicht|c
+1697-1
+1698-1|aansprakelijk|onverantwoordelijk|p|voor ~ verantwoordelijk zijn voor iets ~ Wie is verantwoordelijk **voor** deze fout? ~ Who is responsible for this mistake?
+1699-1|voorbijgaan; inhalen
+1700-1|nat; klam|droog
+1701-1|reden; patroon
+1702-1|wijs; slim|dom; onverstandig
+1703-1|werkplaats
+1704-1|opsomming; kader||c
+1705-1
+1706-1|pracht|lelijkheid
+1707-1|misdaad
+1708-1|vergelijk||c|met ~ in vergelijking met iets ~ In vergelijking **met** vorig jaar is het goedkoop. ~ Compared to last year it's cheap.
+1709-1|grijpen; begrijpen||c,p,c
+1710-1|gebeuren; treffen
+1710-2|overvliegen; lijken
+1711-1|ernstig; oprecht|grappig; luchtig|c
+1712-1||ziekte|c,c
+1713-1|voorbijgaan; rinkelen|aanhouden|p,p|tot ~ overgaan tot iets ~ Ze gaan over **tot** actie. ~ They are proceeding to take action.
+1714-1|uitdrukking||c|aan ~ uiting geven aan iets ~ Hij gaf uiting **aan** zijn woede. ~ He gave expression to his anger.
+1715-1|overweging; bespreking||i
+1716-1|verstandig; begrijpelijk|onlogisch
+1717-1|juf; mevrouw|meneer
+1718-1|teken||c,c
+1719-1|deponeren; neerstorten|opnemen|p|op ~ zich storten op iets ~ Hij stortte zich **op** zijn werk. ~ He threw himself into his work.
+1720-1|beslissen||c|van ~ deel uitmaken van iets ~ Zij maakt deel uit **van** het team. ~ She is part of the team.
+1721-1|hart; essentie|rand|c,c
+1722-1|mam; moeder|papa
+1723-1|onenigheid; conflict|vrede|c,c|met ~ ruzie hebben met iemand ~ Ze heeft ruzie **met** haar zus. ~ She's fighting with her sister.
+1724-1|contact; band||c
+1725-1||meester
+1726-1|ontvluchten|blijven
+1727-1|cel; bajes
+1728-1||zuiden|i
+1729-1
+1730-1|happen||p
+1731-1|bevalling|dood
+1732-1|tip; hint
+1733-1|bedenken; tekenen
+1734-1|bewustzijn||c
+1735-1|opleiding; ontstaan
+1736-1
+1736-2|leerstelling; lessen||c
+1737-1
+1738-1|naderhand|vooraf|c
+1739-1|blinken; stralen|dof zijn
+1740-1|kroeg; bar
+1741-1|bekennen; zwichten|ontkennen; volhouden|p|aan ~ toegeven aan iets ~ Ik gaf toe **aan** de verleiding. ~ I gave in to temptation.
+1742-1
+1743-1
+1744-1|kwart||c
+1745-1|kleding
+1746-1|voorwerp|subject
+1747-1|gemakkelijk; simpel|moeilijk
+1748-1|waarschijnlijk|zeker
+1749-1|bij voorkeur||c
+1750-1
+1751-1|verrast; verwonderd||p|over ~ verbaasd zijn over iets ~ Ik was verbaasd **over** zijn antwoord. ~ I was surprised by his answer.
+1752-1|beschaafd; geleerd|onontwikkeld
+1754-1
+1755-1
+1756-1|vloeien|stilstaan
+1757-1|klaarmaken||p|op ~ zich voorbereiden op iets ~ Ik bereid me voor **op** het examen. ~ I'm preparing for the exam.
+1758-1|kampement||c
+1759-1|verklaren; toelichten
+1760-1|verlagen; afnemen|verhogen; vermeerderen
+1761-1|blijdschap; geluk|verdriet
+1762-1|mager; slank|dik

@@ -1,0 +1,100 @@
+0243-1|||c
+0244-1|knul|meisje
+0245-1|bij; behalve
+0246-1|meid|jongen
+0247-1|schreeuwen|fluisteren|p|om ~ roepen om iets ~ Ze riep **om** hulp. ~ She called for help.
+0248-1|knap; prachtig|lelijk
+0249-1|gegeven||c,c
+0250-1|bodem; reden||c,c
+0251-1|afwachten|vertrekken|p|op ~ wachten op iemand ~ Ik wacht **op** de bus. ~ I'm waiting for the bus.
+0252-1|zinsdeel; trek||c,c,c|in ~ zin hebben in iets ~ Ik heb zin **in** een ijsje. ~ I feel like an ice cream.
+0253-1|beknopt|lang|c,c
+0254-1
+0255-1|studeren; onderwijzen|vergeten|c
+0256-1|spreken|zwijgen|p,p|met ~ praten met iemand ~ Ik moet even **met** je praten. ~ I need to talk with you.
+0257-1|feitelijk
+0258-1||dicht; gesloten|p
+0259-1|kwestie|oplossing
+0260-1|vorm; gedaante
+0261-1|stevig; vaststaand|los|p,c
+0261-2|zeker; waarschijnlijk
+0262-1|uniek
+0262-2|wat; enkele
+0263-1|speuren|vinden|p|naar ~ zoeken naar iets ~ Ik zoek **naar** mijn sleutels. ~ I'm looking for my keys.
+0264-1||iedereen|c
+0265-1|dus; daardoor
+0266-1|meppen; raken||i,c
+0267-1|plaats|platteland|c
+0268-1|ploeg; club
+0269-1|denken; vertrouwen|betwijfelen|p|in ~ geloven in iets ~ Ik geloof **in** jou. ~ I believe in you.
+0270-1|||c,c,c
+0271-1|normaal|bijzonder|c
+0271-2|zomaar; simpelweg
+0272-1|parlement||c,c
+0273-1|jeugdig|oud
+0274-1|beslissen; vaststellen
+0275-1||laat
+0276-1|manier||c,i
+0277-1|bij elkaar|alleen|p
+0278-1|||c,c
+0279-1|blank|zwart
+0280-1|||p
+0281-1|zodanig dat
+0282-1|grinniken|huilen|p|om ~ lachen om iets ~ We lachten **om** zijn grap. ~ We laughed at his joke.
+0283-1|||c,c
+0284-1|voldoende|te weinig
+0285-1|bovendien||c
+0286-1|de Heer||i
+0287-1|ogenblik||c
+0288-1|vervolgens|daarvoor
+0289-1|diverse|
+0290-1|wat; klein beetje||c
+0291-1|naar||c
+0292-1|lijf|geest
+0293-1|zijde||i,c
+0294-1|toestand; land||c
+0295-1
+0296-1|lastig|makkelijk|c
+0297-1||veel
+0297-2||vaak
+0298-1|maat|vijand
+0299-1||ochtend|c,c
+0300-1|||c,c
+0301-1|tillen; aanhebben||c
+0302-1|||c,c
+0303-1|centen||c,c
+0304-1|allemaal|niemand
+0305-1|al|nog niet
+0306-1|onlangs||c,c
+0306-2|vorig|eerste
+0307-1
+0308-1|steunen|tegenwerken|p|met ~ helpen met iets ~ Kun je me **met** mijn huiswerk helpen? ~ Can you help me with my homework?
+0309-1|||p
+0310-1|idee||c,c
+0311-1|willen zeggen
+0312-1||donker|i
+0312-2|licht; gering|zwaar; donker
+0313-1||ondiep
+0314-1|totaal||c,c
+0314-2|helemaal; compleet
+0315-1|maken
+0316-1|deel|geheel|c,c
+0316-2|kapot|heel|c,c
+0317-1|gedurende
+0318-1|helpen; moeten||p,p|als ~ dienen als iets ~ De kerk dient **als** opvangcentrum. ~ The church serves as a shelter.
+0319-1|beroemd; vertrouwd|onbekend|p,p|met ~ bekend zijn met iets ~ Ben je bekend **met** deze regel? ~ Are you familiar with this rule?
+0320-1|zoals
+0321-1||dag|c,c,c
+0322-1|met plezier|ongaarne|c
+0323-1|betekenis||c,c
+0324-1|voorbij
+0324-2|||p,p
+0325-1|allebei
+0326-1
+0326-2
+0327-1|begeleiden; besturen|volgen|p|tot ~ leiden tot iets ~ Dat leidt **tot** problemen. ~ That leads to problems.
+0328-1|opkomen; beginnen|verdwijnen
+0329-1|nu; wel||c,c
+0330-1|groei; vooruitgang
+0331-1|los; onafhankelijk|bezet|c,c
+0331-2|tamelijk; nogal

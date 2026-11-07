@@ -1,0 +1,100 @@
+4847-1|verpesten; rotten|verbeteren|i
+4848-1|ontwikkelen; uitvouwen||p
+4849-1|essay; werkstuk
+4850-1|rijkelijk; ruim|schaars
+4851-1|weergeven; voorstellen
+4852-1|god
+4853-1|verdelen; rangschikken
+4854-1|wiegen; fluctueren
+4855-1|familieband; affiniteit
+4856-1|nodig; vereist|overbodig
+4857-1|pleiten voor; verdedigen|bestrijden
+4858-1|graven; ontginnen||i
+4859-1|voorvader|nazaat
+4860-1|citeren; knuffelen|losmaken|i
+4861-1|stabiel; harmonieus|onevenwichtig
+4862-1|verkennen||p|op ~ zich oriënteren op iets ~ Ik oriënteer me **op** een nieuwe baan. ~ I'm exploring a new job.
+4863-1|verantwoording||c,c|van ~ zich rekenschap geven van iets ~ Hij gaf zich rekenschap **van** het gevaar. ~ He realized the danger.
+4864-1|spetteren; barsten||c
+4865-1|volgens; naar blijkt uit
+4866-1|definitief; onvermijdelijk|herroepbaar
+4867-1|schaduw; geest
+4868-1|muisstil|luidruchtig
+4869-1|hulpeloos; kwetsbaar|gewapend
+4870-1|opvliegend; heetgebakerd|kalm
+4871-1|weggaan; sterven|komen
+4872-1|vlijtig; noest|lui
+4873-1|openen|dichtdoen
+4874-1|geeuwen||c
+4875-1|gluren; spieden||p,i|op ~ loeren op iets ~ De kat loert **op** de muis. ~ The cat is lying in wait for the mouse.
+4876-1|klagen; brommen
+4877-1|stuiteren; ontslaan||c,c
+4878-1|kerkvergadering
+4879-1|goed zijn; in orde zijn
+4880-1
+4881-1|krabben
+4882-1|uitleg; betoog
+4883-1
+4884-1|totaal; volledig|gedeeltelijk
+4885-1|bars; nors|vriendelijk
+4886-1|elegant; gracieus|lomp
+4887-1|wetsvoorstel
+4888-1|bouwen; opzetten|afbreken
+4889-1
+4890-1|vrouwtje|mannetje
+4891-1|voorzichtig; omzichtig|roekeloos
+4892-1|ingebeeld; fictief|echt
+4893-1|deelnemer
+4894-1
+4895-1|talloos|telbaar
+4896-1|bovennatuurlijk
+4897-1|en passant; zijdelings|uitdrukkelijk
+4898-1|binnenkant van de hand
+4899-1|kreukel; vouw||i,i
+4900-1|kalmeren; gerust stellen|verontrusten
+4901-1|vakbonden
+4902-1|stukscheuren
+4903-1|bureaucratisch; officieel
+4904-1|kalmeren; tot rust komen|opwinden
+4905-1|rommelen; vallen||i,i
+4906-1|basaal; fundamenteel|gevorderd
+4907-1|universeel
+4908-1|geforceerd; verkrampt|ontspannen
+4909-1|leunstoel
+4910-1|afvallige|gelovige|i
+4911-1|gillen; schreeuwen
+4912-1|narcotiseren; versuffen
+4913-1|dreunen; kloppen
+4914-1|bont; kleurrijk|kleurloos
+4915-1
+4916-1|nonchalant; onoplettend|zorgvuldig
+4917-1|aanmatiging; aanspraak|bescheidenheid
+4918-1|verbeteren; bijschaven
+4919-1|schommelen; deinen||c
+4920-1|zoemen; mopperen
+4921-1|bevruchting; opvatting
+4922-1|fantast|realist
+4923-1|bukken||c
+4924-1|ober
+4925-1|verstandelijk
+4926-1|brommen
+4927-1|medelijden hebben; klagen||p|over ~ zich beklagen over iets ~ Ze beklaagde zich **over** de service. ~ She complained about the service.
+4928-1|gevoel; sensatie
+4929-1|jurk
+4930-1|kenschetsen; karakteriseren
+4931-1|boos; kwaad|vrolijk
+4932-1|sceptisch; wantrouwig|gelovig; goedgelovig
+4933-1|inhouden; met zich meebrengen
+4934-1|verlangen naar; willen hebben
+4935-1|bars; stuurs|vriendelijk
+4936-1|diep; hartelijk|oppervlakkig
+4937-1|huiveren; beven||c
+4938-1|veroorzaken; bewerkstelligen
+4939-1|draaien; slingeren
+4940-1|ontbreken; schelen||c
+4941-1|blind maken
+4942-1|resultaat; conclusie||c
+4943-1|beloven; uitbannen||c
+4944-1
+4945-1|slok||i
+4946-1|plooi; golfje

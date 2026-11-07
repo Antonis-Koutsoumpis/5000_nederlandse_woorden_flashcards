@@ -1,0 +1,100 @@
+1376-1|top||i
+1377-1|schoonmaken|vuilmaken|p,p
+1378-1|noodlot; bestemming||i
+1379-1|bui|zon|i
+1380-1|afspraak; voorziening||c
+1381-1|zakken; afnemen|stijgen
+1382-1
+1382-2|deftig; belangrijk|eenvoudig
+1383-1|klant
+1384-1|aan de andere kant|enerzijds|c
+1385-1|doel
+1386-1|antwoorden op|vragen
+1387-1|aan de kant||p
+1388-1|verlof|werk|c
+1389-1|order; opdracht||c
+1390-1|inspectie; toezicht||c
+1391-1|twijg; afdeling
+1392-1|verwachten
+1392-2|leveren; uitrusten||p,i|van ~ voorzien van iets ~ Alle kamers zijn voorzien **van** wifi. ~ All rooms are equipped with wifi.
+1393-1|bewerken; aanpakken
+1394-1
+1395-1|gewend raken||p,c|aan ~ wennen aan iets ~ Ik moet nog wennen **aan** het klimaat. ~ I still have to get used to the climate.
+1396-1|verloren; weg|gevonden|c,p
+1397-1|binnengaan; betreden|vertrekken; weggaan
+1398-1|onderzoek
+1399-1|optillen|laten zakken|c,p
+1400-1|smart; droefheid|vreugde; geluk|c
+1401-1|||p,c
+1402-1|fatsoenlijk; flink|onbehoorlijk
+1403-1|bang zijn voor||p|voor ~ vrezen voor iets ~ Ze vrezen **voor** hun baan. ~ They fear for their jobs.
+1404-1|beven; schudden
+1405-1|steunen op; accepteren||p,p|op ~ berusten op iets ~ Dit verhaal berust **op** een misverstand. ~ This story is based on a misunderstanding.
+1406-1|vlakbij|ver weg
+1407-1|reden; bewijs
+1408-1|vorderen; vragen|aanbieden
+1409-1|ongunstig|positief
+1410-1|||i
+1411-1|doormaken; ervaren
+1411-2|zinken; vergaan|opkomen
+1412-1|gewijd|werelds
+1413-1|verstevigen|verzwakken
+1414-1|meebrengen|achterlaten
+1415-1|afspraakje; overeenkomst||c,i
+1416-1
+1417-1|stimuleren|belemmeren
+1418-1|ruimte
+1419-1|mirakel||i,i
+1420-1|beide|geen van beide
+1421-1|naam
+1422-1|voorwaarts|achteruit|p,c
+1423-1|bult|dal
+1424-1|beoefenen||c,c|op ~ druk uitoefenen op iemand ~ Ze oefenen druk uit **op** de regering. ~ They put pressure on the government.
+1425-1|kijk; mening
+1426-1
+1427-1|verschrikkelijk; afschuwelijk|geweldig
+1428-1|houvast||c,c|op ~ greep krijgen op iets ~ We krijgen geen greep **op** het probleem. ~ We can't get a grip on the problem.
+1429-1|aankleden|uitkleden|p,p
+1430-1|karakter
+1431-1|gebeuren
+1432-1|oever|binnenland|c
+1433-1|hoogleraar|student
+1434-1|bedanken||p,c|aan ~ iets te danken hebben aan iemand ~ Ik heb mijn succes te danken **aan** mijn ouders. ~ I owe my success to my parents.
+1435-1
+1436-1|verschijnen; opstaan|ondergaan|p,c|voor ~ opkomen voor iemand ~ Hij komt altijd **voor** zijn vrienden op. ~ He always stands up for his friends.
+1437-1|demonstreren; gebeuren||p
+1438-1|gedupeerde|dader
+1439-1|breed; ruim|nauw; smal|i
+1440-1|kwaad; nijdig|blij; vrolijk|p,c|op ~ boos zijn op iemand ~ Ik ben boos **op** mijn broer. ~ I'm angry with my brother.
+1441-1|benaderen|zich verwijderen
+1442-1
+1443-1|boeien|vervelen|p,p|in ~ geïnteresseerd zijn in iets ~ Ik ben geïnteresseerd **in** geschiedenis. ~ I'm interested in history.
+1444-1|neiging; aandrang
+1445-1
+1446-1|logisch; natuurlijk|onverwacht
+1447-1|ontwijken|opzoeken
+1448-1|deze avond
+1449-1|rust|oorlog|c,i|met ~ vrede hebben met iets ~ Ik heb vrede **met** de beslissing. ~ I've made peace with the decision.
+1450-1|heftig; zwaar|licht; zwak
+1451-1|opgemerkt worden|wegvallen
+1452-1|toestel
+1453-1
+1454-1|eigenschap; kenmerk
+1455-1|religie; geloof
+1456-1|||i
+1457-1|langzaam|plotseling
+1458-1|nakijken; checken
+1459-1|vanwege; door
+1460-1|onderwerp; beroep||c,c
+1461-1|bloot|gekleed
+1462-1|||c
+1463-1|tevredenstellen; betalen||p|aan ~ voldoen aan iets ~ Het huis voldoet **aan** alle eisen. ~ The house meets all requirements.
+1464-1|kust
+1465-1|bijvoorbeeld
+1466-1|gevaar|zekerheid|c,c
+1467-1|samenspel; coöperatie|tegenwerking|c|met ~ in samenwerking met iemand ~ Dit project is opgezet in samenwerking **met** de gemeente. ~ This project was set up in cooperation with the council.
+1468-1|||c
+1469-1
+1470-1|achterna zitten||p|op ~ jagen op iets ~ De leeuw jaagt **op** zebra's. ~ The lion hunts zebras.
+1471-1|voorzitter
+1472-1|aanspannen|ontspannen

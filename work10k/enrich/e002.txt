@@ -1,0 +1,100 @@
+0072-1|ginds|hier|c
+0073-1|opnieuw; nogmaals
+0073-2|||i
+0074-1||voor|c,c
+0074-2||voor
+0075-1|vinden; menen||p,p|aan ~ denken aan iets ~ Ik denk vaak **aan** mijn oma. ~ I often think of my grandma.
+0076-1|persoon
+0077-1|toch wel; alsnog
+0078-1|destijds|nu
+0078-2|
+0079-1|schenken|nemen; krijgen|c,p|om ~ geven om iemand ~ Hij geeft veel **om** zijn familie. ~ He cares a lot about his family.
+0080-1|||c,c
+0081-1|verblijven|vertrekken; gaan|c,c
+0082-1|momenteel|toen|c,c
+0083-1|fors; reusachtig|klein
+0084-1|menen; ontdekken|verliezen|p,c|van ~ iets vinden van iets ~ Wat vind je **van** mijn nieuwe fiets? ~ What do you think of my new bike?
+0085-1|zien|wegkijken|p,c|naar ~ kijken naar iets ~ We kijken **naar** een film. ~ We're watching a movie.
+0086-1|heer; echtgenoot|vrouw
+0087-1|achter|voor|c,c
+0088-1
+0089-1||daar|c
+0090-1
+0091-1|vasthouden; bewaren|loslaten|c,p|aan ~ zich houden aan iets ~ Je moet je **aan** de regels houden. ~ You have to stick to the rules.
+0091-2|graag mogen|haten|p|van ~ houden van iemand ~ Ik hou **van** jou. ~ I love you.
+0092-1|||c,c,c
+0093-1|ontvangen|geven|c,c
+0094-1||staan|c,c
+0095-1|beneden|boven|c,c
+0096-1|pakken|geven|c,c
+0097-1|||i,c
+0098-1|groot|kort
+0098-2||kort|c
+0099-1|||c
+0100-1|want; doordat
+0101-1||staan|p,c|aan ~ liggen aan iets ~ Het ligt niet **aan** jou. ~ It's not your fault.
+0102-1|kleintje|volwassene
+0103-1|ooit||p,c|met ~ het eens zijn met iemand ~ Ik ben het **met** je eens. ~ I agree with you.
+0104-1||nacht|c,c
+0104-2|hallo; doei
+0105-1|||i
+0106-1|klaar|aan|c,c
+0107-1|zoals bijvoorbeeld
+0108-1|dame; echtgenote|man
+0109-1||niets|c,c
+0109-2|een beetje
+0110-1||laatste|c,c
+0111-1||met|c
+0112-1|slechts; enkel||c
+0112-2|eenzaam|samen
+0113-1|meenemen|halen|c,c
+0114-1|starten|stoppen; eindigen|p|met ~ beginnen met iets ~ We beginnen **met** de les. ~ We're starting the lesson.
+0115-1|wandelen; rennen|stilstaan
+0116-1||open|c,c,c
+0117-1|||i,i
+0118-1|omdat
+0119-1|||c,c,c
+0120-1||altijd|c
+0121-1|vragen stellen|antwoorden|p,p|om ~ vragen om iets ~ Hij vroeg **om** hulp. ~ He asked for help.
+0122-1||alles|c,c
+0123-1
+0124-1|luisteren||p,p|bij ~ horen bij iets ~ Dit deksel hoort **bij** die pan. ~ This lid goes with that pan.
+0125-1|steeds|nooit|c,c
+0126-1|vers; modern|oud
+0127-1|daarom
+0128-1|schepsel
+0128-2|zijn
+0129-1|persoonlijk|vreemd|i
+0130-1||vroeg|c,c
+0131-1|erg; zeer
+0131-2|compleet; geheel|kapot|c,c
+0132-1|eventjes||c
+0132-2||oneven
+0133-1
+0134-1|kunnen|moeten
+0135-1|aanvoelen||c,c
+0136-1|altijd; telkens|nooit|c,c
+0137-1|plek; stad||c,c,c
+0138-1
+0139-1|||c,c,c,c
+0140-1|wellicht; mogelijk|zeker
+0141-1||niets|c,c
+0142-1|samen||p,p
+0143-1|veel mensen|weinigen
+0144-1|plaatsen; zetten||c,i,c|op ~ prijs stellen op iets ~ Ik stel je hulp erg **op** prijs. ~ I really appreciate your help.
+0145-1|bestaan|sterven|p|van ~ leven van iets ~ Hij leeft **van** zijn pensioen. ~ He lives on his pension.
+0145-2|bestaan|dood|c,i
+0146-1|woning||c,c
+0147-1|terwijl juist; hoewel
+0148-1|neervallen|opstaan|c,p
+0149-1|verder; op een andere manier|zo|c,c
+0150-1|ma; mam|vader
+0151-1|praten|zwijgen|p,i|over ~ spreken over iets ~ We spreken **over** het weer. ~ We're talking about the weather.
+0152-1|term||i,c
+0153-1||nee|c
+0154-1
+0154-2|als; zodra
+0155-1|pa; papa|moeder
+0156-1|||p,c
+0157-1|baan; arbeid|vrije tijd|c,i
+0158-1

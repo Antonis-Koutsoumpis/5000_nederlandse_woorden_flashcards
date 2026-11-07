@@ -1,0 +1,100 @@
+0708-1|||c
+0709-1|verwachting|wanhoop|c,c
+0709-2|stapel; massa||c
+0710-1|kapotmaken|maken; repareren|c
+0711-1
+0712-1|werkelijkheid|leugen|c
+0713-1|minstens
+0714-1|mooi; schitterend|lelijk
+0715-1|grenslijn; limiet||c
+0716-1|||c
+0717-1|vak; baan||p,c|op ~ een beroep doen op iemand ~ Ik doe een beroep **op** je hulp. ~ I'm appealing to you for help.
+0718-1|||c
+0719-1|daarna
+0720-1|bries|windstilte|c,i
+0721-1|||c
+0722-1|situatie
+0723-1|ophouden; beëindigen|beginnen|p|met ~ stoppen met iets ~ Hij is gestopt **met** roken. ~ He has quit smoking.
+0724-1||tante
+0725-1|||i
+0726-1|proef||c
+0727-1|reden|gevolg
+0728-1|weggaan uit|blijven|p|op ~ zich verlaten op iemand ~ Je kunt je **op** hem verlaten. ~ You can rely on him.
+0728-2|leeg|druk
+0729-1|plat; glad|bergachtig
+0729-2|vlakbij; direct||c,c
+0730-1|wijk; omgeving||c
+0731-1|gegevens; inlichtingen
+0732-1|opvatting; visie||c,c
+0733-1|groot|krap|c
+0733-2|meer dan|nauwelijks
+0734-1|werkwijze; manier
+0735-1|werpen|vangen|p
+0736-1
+0737-1|plaats; stand
+0738-1|terugkennen|
+0739-1|iedereen|niemand
+0740-1|roepen; gillen|fluisteren
+0741-1|familie
+0742-1||gisteren|c,c
+0742-2|ochtend|avond|c,c
+0743-1|wenen|lachen
+0744-1|behoedzaam|roekeloos
+0745-1|reusachtig; gigantisch|klein
+0746-1|krijgen|geven; sturen
+0747-1|vaak|zelden
+0748-1|plaatje||c
+0749-1|speelfilm
+0750-1|bezigheid
+0751-1|hedendaags|ouderwets
+0752-1|proberen; pogen
+0753-1|vreugde; mazzel|pech; verdriet|c,c
+0754-1|besluit||c
+0755-1|ten slotte; eindelijk|aanvankelijk
+0756-1|grondslag; fundament||p,c|van ~ op basis van iets ~ We beslissen op basis **van** de feiten. ~ We decide on the basis of the facts.
+0757-1|peil; hoogte||c
+0758-1|terug||c
+0759-1|kans; moment||c,c
+0760-1|nodig; onmisbaar|overbodig
+0761-1|zus; verpleegster|broer
+0762-1|tonen; laten zien|verbergen
+0763-1|streep||c,i
+0764-1|optreden; doen||p,p|over ~ handelen over iets ~ Het boek handelt **over** de oorlog. ~ The book deals with the war.
+0765-1||slapend|c,c
+0766-1||oom
+0767-1|duwen||p
+0768-1|present|afwezig
+0769-1|gelukkig; vrolijk|verdrietig|p|met ~ blij zijn met iets ~ Ik ben blij **met** het cadeau. ~ I'm happy with the present.
+0770-1|brand; vlam||c,i
+0771-1|kosten; beloning||p,i
+0772-1|verloop; looppas||c,c
+0774-1|vriendelijk; lief|onaardig|p|tegen ~ aardig zijn tegen iemand ~ Ze is altijd aardig **tegen** iedereen. ~ She's always nice to everyone.
+0775-1|met recht|onterecht|p,c
+0776-1|ouderdom||c
+0777-1|bonzen; juist zijn|niet kloppen|p|op ~ kloppen op iets ~ Iemand klopt **op** de deur. ~ Someone is knocking on the door.
+0778-1|antwoord; respons||p
+0779-1|steeds; elke keer||c,c
+0780-1|verhandelen|kopen
+0781-1|ook; evenzeer
+0782-1|gelijktijdig|na elkaar
+0783-1|materiaal; materie
+0783-2|||c
+0784-1|werkelijkheid|theorie|c,c
+0785-1|lucht|hel|i,c
+0786-1
+0787-1|opbellen; telefoneren||p,p
+0788-1|ondoenlijk|mogelijk
+0789-1|fenomeen
+0790-1|teweegbrengen|voorkomen
+0791-1|zenden; besturen|ontvangen|p,p
+0792-1|rust|lawaai|c
+0793-1|tijdens
+0794-1|begrip; kennis
+0795-1|grond; gebied
+0796-1|opening||i,i
+0797-1|verzorging
+0798-1|vorst|koningin
+0799-1|voorbeeld; type
+0800-1|landbouwer
+0801-1
+0802-1

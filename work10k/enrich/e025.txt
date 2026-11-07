@@ -1,0 +1,100 @@
+2322-1|stuk; akte
+2323-1|lichamelijk|geestelijk
+2324-1|vorst||i
+2325-1|professional|amateur
+2326-1|professor
+2327-1|moment; ogenblik
+2328-1|schoppen; fietsen||p,i
+2329-1|ontwikkeling; verbetering|achteruitgang|c
+2330-1|belevenis
+2331-1|eten; maal
+2332-1|uitrusten|inspannen|p
+2332-2|relaxed; kalm|gespannen
+2333-1|oprichten; beginnen|afbreken|c,p|tegen ~ iemand opzetten tegen iemand ~ Ze zette de kinderen op **tegen** hun vader. ~ She turned the children against their father.
+2334-1
+2335-1|deel; portie||c
+2336-1|bevechten; betwisten|steunen
+2337-1|begroeten||c,c|aan ~ de groeten doen aan iemand ~ Doe de groeten **aan** je moeder! ~ Say hello to your mother!
+2338-1|onwaarheid|waarheid|i
+2339-1
+2340-1|training; opdracht
+2341-1|schuldeloos; onschadelijk|schuldig
+2342-1|bij dag|'s nachts
+2343-1|verplichting; taak|recht|c
+2344-1|planning; diagram||c
+2345-1|knal; scheidingswand||i,i
+2346-1|ontwikkeling; gang||c,c|van ~ na verloop van tijd ~ Na verloop **van** tijd wende ze eraan. ~ After a while she got used to it.
+2347-1|wettig; legaal|onwettig
+2348-1|meetlint
+2349-1|meestal; gewoonlijk|zelden
+2350-1|verafschuwen|houden van
+2351-1|wettelijk; rechtskundig
+2352-1|||i,i
+2353-1|uitmaken; verschillen||c
+2354-1|teraardebestelling
+2355-1|schotel; rechtbank||c
+2356-1|gedetineerde|vrije man
+2357-1|zin; voordeel|nadeel|c,c
+2358-1|naslaan; bezoeken
+2359-1|akkoord; eensgezindheid|onenigheid|c,c|met ~ in overeenstemming met iets ~ Dit is in overeenstemming **met** de regels. ~ This is in accordance with the rules.
+2360-1|appreciëren; schatten|minachten
+2361-1|terug|vooruit|p
+2362-1|fataal; levensgevaarlijk|onschuldig
+2363-1|||i
+2364-1|doder; killer
+2365-1|afbeelding
+2366-1|schets
+2367-1|bedenken; fantaseren||c
+2368-1|eten; voedsel
+2369-1|gek; verzot||p,c,i|op ~ dol zijn op iets ~ Ik ben dol **op** ijs. ~ I'm crazy about ice cream.
+2370-1|appartement
+2371-1|opzijleggen; verzamelen|uitgeven|p,c|voor ~ sparen voor iets ~ We sparen **voor** een nieuwe auto. ~ We're saving for a new car.
+2372-1|paardenstaart|kop
+2373-1|verzet|medewerking|c
+2374-1|nuchter; professioneel|persoonlijk
+2375-1|schaars; uitzonderlijk|gewoon; veelvoorkomend
+2376-1
+2377-1|gezag; deskundige
+2378-1|klaar; af|onaf|c,c
+2379-1|hevig; fel|zacht; mild
+2380-1|klok
+2381-1|ordening; verdeling
+2382-1
+2383-1|toezegging||c
+2384-1|nederig; eenvoudig|arrogant; opschepperig
+2385-1|kring; rondje||c
+2386-1|||i
+2387-1|onecht; gemeen|echt|c,c
+2388-1|zorgen voor|verwaarlozen
+2389-1|vorig|volgend
+2390-1|prettig; plezierig|onaangenaam|c
+2391-1
+2392-1|samen|uit elkaar|p,c
+2393-1|omheining||i
+2394-1|warmte|kou|c
+2395-1|opbouw; compositie
+2396-1|pikken; jatten||i
+2397-1|||c
+2398-1|afgevaardigde; verkoper
+2399-1|smerig; walgelijk|schoon|p,c|van ~ vies zijn van iets ~ Ik ben vies **van** spinnen. ~ I find spiders disgusting.
+2400-1|verstandig|dom|i,p
+2400-2|melodie; manier||i,i
+2401-1|verstand|domheid|i
+2402-1|vergadering; zitvlak||c|in ~ zitting hebben in iets ~ Zij heeft zitting **in** de raad. ~ She sits on the council.
+2403-1|eerlijk; solide|onbetrouwbaar
+2404-1|lap; vod||i
+2404-2|scherm||c
+2405-1|||c
+2406-1|koude|warmte|c,i
+2407-1|bouwen; opzetten|afbreken
+2408-1|merkwaardig; opvallend|gewoon
+2409-1|plotseling|geleidelijk
+2410-1|crew
+2411-1|vrijlating|bezetting|c
+2412-1|dichtkunst|proza
+2413-1|verdorie
+2414-1|chaos; onduidelijkheid|duidelijkheid
+2415-1|bevallen; aanstaan||p
+2416-1|||i
+2417-1|bekend; vermaard|onbekend|p|om ~ beroemd zijn om iets ~ Gouda is beroemd **om** zijn kaas. ~ Gouda is famous for its cheese.
+2418-1|kromming; draai||i,i

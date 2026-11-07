@@ -1,0 +1,100 @@
+0803-1|volledig; perfect|onvolledig
+0804-1|echt; bruiloft|scheiding|c
+0805-1|beschaving
+0806-1|||i
+0807-1|antwoorden||p|op ~ reageren op iets ~ Hij reageerde niet **op** mijn bericht. ~ He didn't respond to my message.
+0808-1|plezier hebben|lijden|p|van ~ genieten van iets ~ We genieten **van** de zon. ~ We're enjoying the sun.
+0809-1|aanvoerder
+0810-1|vorige; laatste|volgend
+0811-1|uitleg; verklaring||c
+0812-1|geschiedenis|toekomst|c,c
+0812-2|vorig|volgend
+0813-1|visite||c,c|aan ~ een bezoek brengen aan iemand ~ Ze bracht een bezoek **aan** haar oma. ~ She paid a visit to her grandma.
+0814-1|pakken|loslaten|i
+0815-1|tocht||c
+0816-1
+0817-1|vol; hectisch|rustig|c
+0817-2|spanning||c,c
+0818-1|||c,c
+0819-1|turen||p|naar ~ staren naar iets ~ Hij staarde **naar** het plafond. ~ He stared at the ceiling.
+0820-1|antwoord|probleem
+0821-1|vinden; respecteren|minachten|c
+0822-1|kwijt zijn; mislopen|hebben
+0823-1|onderdeel||i
+0824-1|omdat
+0825-1|hunkeren; eisen||p|naar ~ verlangen naar iets ~ Ik verlang **naar** de zomer. ~ I long for summer.
+0825-2|wens
+0826-1|omvatten; begrijpen
+0827-1|probleem|gemak|c
+0828-1|snel|traag
+0829-1
+0830-1|fout; verantwoordelijkheid||c,c|aan ~ de schuld geven aan iemand ~ Hij geeft de schuld **aan** zijn broer. ~ He blames his brother.
+0831-1|accepteren|weigeren|c
+0832-1
+0833-1
+0834-1|nu; momenteel|vroeger
+0835-1|gezellig; leuk|saai|c
+0836-1|ook; eveneens
+0837-1|bestuderen
+0838-1|willen; verlangen||i
+0839-1|geheugen||c
+0840-1|huwen|scheiden|p|met ~ trouwen met iemand ~ Ze trouwt **met** haar jeugdliefde. ~ She is marrying her childhood sweetheart.
+0841-1|wat
+0842-1
+0843-1|verder; vooruit||p,c,p
+0844-1|elke dag|bijzonder
+0845-1
+0846-1|element
+0847-1|maken|afbreken|p|op ~ bouwen op iemand ~ Je kunt **op** haar bouwen. ~ You can rely on her.
+0848-1|meteen als
+0849-1|start; aanvang|einde|c,c
+0850-1|triomf|mislukking|c
+0851-1|thema
+0852-1|interesse|onverschilligheid|p|voor ~ belangstelling hebben voor iets ~ Ik heb belangstelling **voor** kunst. ~ I'm interested in art.
+0853-1|eten||c,c
+0854-1|bijna; nagenoeg
+0855-1|milieu
+0856-1|dokter|patiënt|c
+0857-1
+0858-1|zachtjes praten|schreeuwen
+0859-1
+0860-1|begrijpen; horen||p|onder ~ verstaan onder iets ~ Wat versta je **onder** geluk? ~ What do you mean by happiness?
+0861-1|samenbrengen|scheiden|c
+0862-1|staat
+0863-1|krijgen; waard zijn|uitgeven
+0864-1|dol; gek||p|op ~ gesteld zijn op iemand ~ Ik ben erg **op** haar gesteld. ~ I'm very fond of her.
+0865-1|prettig; leuk|vervelend|c
+0866-1|opleiding
+0867-1|tellen||p,c|op ~ rekenen op iemand ~ Je kunt **op** mij rekenen. ~ You can count on me.
+0868-1|aardig; lief|onvriendelijk|c
+0869-1||rechts|c,i
+0870-1|kant
+0871-1|toevoegen||p,c|bij ~ zich voegen bij iemand ~ Hij voegde zich **bij** de groep. ~ He joined the group.
+0872-1|signaal
+0873-1|gestalte||i
+0874-1|missen|aanwezig zijn
+0875-1|landelijk|internationaal
+0876-1|raken; ontmoeten|missen|c,i
+0876-2|ontmoeting; wedstrijd
+0877-1|klank||i
+0878-1|plaats||c
+0879-1
+0880-1||meter
+0881-1|ongesteld; zieke|gezond|c
+0882-1|niets|alles
+0883-1|kennelijk
+0884-1|mevrouw|heer
+0885-1|||c
+0886-1|geven; gieten||c|aan ~ aandacht schenken aan iets ~ We moeten meer aandacht schenken **aan** veiligheid. ~ We must pay more attention to safety.
+0887-1|plattegrond; kaartje||c,i
+0888-1|begrip; woord
+0889-1|kantoor||c,c
+0890-1|taak; order||c
+0891-1|inzien; begrijpen
+0892-1|zogeheten|echt
+0893-1|weinig|vaak
+0894-1
+0895-1|hollen|wandelen
+0896-1|verzinnen||c
+0897-1|creëren|vernietigen
+0897-2|opscheppen||i

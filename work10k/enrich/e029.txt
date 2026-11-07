@@ -1,0 +1,100 @@
+2711-1|tekenen; uittekenen
+2712-1|trekken; razen|plakken; naaien
+2713-1|terugkomen|vertrekken
+2714-1|gaan||p,i|naar ~ zich begeven naar een plek ~ De gasten begaven zich **naar** de zaal. ~ The guests made their way to the hall.
+2715-1|waardering|minachting
+2716-1|breken; piepen||i,c
+2717-1|spanning; onrust|kalmte
+2718-1|bezwaar maken|instemmen|p|tegen ~ protesteren tegen iets ~ Ze protesteren **tegen** de bezuinigingen. ~ They protest against the cuts.
+2719-1|belichten; verzachten|verduisteren; verzwaren
+2720-1|kwalijk nemen|prijzen|c
+2721-1|gehoorzaam; netjes|stout; ondeugend
+2722-1|onderhemd; overhemd||i,i
+2723-1|effect; verwerking||c|op ~ uitwerking hebben op iets ~ Het medicijn heeft geen uitwerking **op** hem. ~ The medicine has no effect on him.
+2724-1|voorkomen; beletten|mogelijk maken
+2725-1|doorgaan met; vervolgen|stoppen|c
+2726-1
+2726-2|zeewier
+2727-1|afleiden; concluderen||p,c|uit ~ iets afleiden uit iets ~ Ik leid het af **uit** zijn gedrag. ~ I infer it from his behavior.
+2728-1|plaatsvinden; afdraaien||p
+2729-1|overleg; recensie
+2730-1|maatstaf; norm
+2731-1|controleren; nakijken||i
+2732-1|afschaffen; optillen|invoeren; instellen
+2733-1|doorgeven; overdragen||c
+2734-1|treurig; dramatisch|komisch
+2735-1|levering; missie
+2736-1|abnormaliteit; defect|norm|c|van ~ in afwijking van iets ~ In afwijking **van** de regel mag dit wel. ~ Contrary to the rule, this is allowed.
+2737-1|medicijn
+2738-1|bevestigen; belang hechten||p,p|aan ~ gehecht zijn aan iets ~ Ik ben erg gehecht **aan** mijn oude fiets. ~ I'm very attached to my old bike.
+2739-1|waardevol; duur|goedkoop
+2740-1|eindeloos; grenzeloos|eindig|c
+2741-1|oprichten; veroorzaken|opheffen|c,c
+2742-1|methodisch; planmatig|willekeurig
+2743-1|breken; verbinding verbreken|herstellen|c,c
+2744-1
+2745-1|niet dronken; realistisch|dronken|i
+2746-1|scheef; hellend|recht|c,i
+2747-1|nuttig; zinnig|zinloos
+2748-1|beroeren; aankomen
+2749-1|scheikundig||c
+2750-1|liefhebben; voeden||c,c
+2751-1|verband; coherentie|onsamenhangendheid|c|met ~ in samenhang met iets ~ Dit moet je zien in samenhang **met** de rest. ~ You have to see this in connection with the rest.
+2752-1|afdekken; toedekken|blootleggen|i
+2753-1|verstandelijk|lichamelijk
+2753-2|denker; geleerde
+2754-1|ingrijpend; extreem|gematigd
+2755-1|vernieuwend|conservatief
+2756-1|naar achteren|voorover|p,i
+2757-1|oudere; senior|jongere
+2758-1|krijsen; schreeuwen|fluisteren|i
+2759-1|trappen||i,c
+2760-1|zwak; losjes|strak; sterk|c,i
+2761-1|||i,c
+2762-1
+2763-1|droog maken|nat maken|p,p
+2764-1|gladstrijken; strelen|hijsen|i,p
+2765-1|weerspiegelen; afbeelden
+2766-1|ervandoor gaan||p|met ~ weglopen met iets ~ Hij liep weg **met** de prijs. ~ He walked away with the prize.
+2767-1|pieper
+2768-1|||p,i
+2769-1|glooiing; berghelling||i
+2770-1|aanwijzing; opdracht
+2771-1|neerzetten; deponeren|oppakken|i,c|bij ~ zich ergens bij neerleggen ~ Ik leg me **bij** de beslissing neer. ~ I accept the decision.
+2772-1||zuidelijk
+2773-1|bedwingen; verdrukken|bevrijden
+2774-1|kwesties; problemen
+2775-1|raam
+2776-1|bekijken; beschouwen||i,c
+2777-1|uitleggen; verklaren
+2778-1|telen; fokken
+2779-1|stijgen; kloppen|ondergaan|p,c|in ~ opgaan in iets ~ Hij ging helemaal op **in** zijn werk. ~ He was completely absorbed in his work.
+2780-1|geestelijk; mentaal|lichamelijk
+2781-1|vol; gevuld|leeg|p|van ~ vervuld zijn van iets ~ Ze was vervuld **van** vreugde. ~ She was filled with joy.
+2782-1|uitdrukkelijk|terloops
+2783-1|bezorgd; onrustig|gerust|c
+2784-1|aandikken|bagatelliseren
+2785-1|overeind|plat
+2786-1|hinderen; lastigvallen||p|aan ~ zich storen aan iets ~ Ik stoor me **aan** zijn gedrag. ~ His behavior annoys me.
+2787-1|toewijden; opdragen||p|aan ~ zich wijden aan iets ~ Ze wijdt zich **aan** haar studie. ~ She devotes herself to her studies.
+2788-1|falen|slagen; lukken
+2789-1|zich verstoppen||p,p|voor ~ schuilen voor de regen ~ We schuilen **voor** de regen. ~ We're sheltering from the rain.
+2790-1|bespotten; spot||p,i|met ~ spotten met iets ~ Je moet niet **met** zijn gevoelens spotten. ~ You shouldn't mock his feelings.
+2791-1|uitdiepen||p,c|in ~ zich verdiepen in iets ~ Ik verdiep me **in** de geschiedenis. ~ I'm delving into history.
+2792-1|aanname; vermoeden|zekerheid
+2793-1|faciliteit; regeling
+2794-1|bang; ongerust|moedig; rustig
+2795-1|donker; obscuur|helder; licht
+2795-2|duisternis|licht|i
+2796-1|ophijsen; versnellen||p,c|met ~ optrekken met iemand ~ Ik trek veel op **met** mijn neef. ~ I hang out a lot with my cousin.
+2797-1|eerst; voornaamst|secundair|c
+2798-1|gewestelijk|landelijk|c
+2799-1|kwestie; probleem
+2800-1|hekel; walging|voorliefde|c|van ~ een afkeer hebben van iets ~ Ik heb een afkeer **van** geweld. ~ I have an aversion to violence.
+2801-1|schenken; begieten||i,c
+2802-1|dwingen|vrijstellen|p|tot ~ zich verplichten tot iets ~ Hij verplichtte zich **tot** betaling. ~ He committed himself to payment.
+2803-1|aanstaren||i,p
+2804-1
+2805-1|geluid; toon
+2806-1|leraar; meester|leerling
+2807-1|bidden; soebatten||p|om ~ smeken om iets ~ Hij smeekte **om** genade. ~ He begged for mercy.

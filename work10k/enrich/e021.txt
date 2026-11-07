@@ -1,0 +1,100 @@
+1862-1|vaart; tempo|traagheid
+1863-1|wip; stap
+1864-1|grens; handicap|vrijheid
+1865-1|buik||i
+1866-1|vals; gemeenschappelijk|aardig; lief|c|met ~ iets gemeen hebben met iemand ~ Ik heb veel gemeen **met** mijn zus. ~ I have a lot in common with my sister.
+1867-1
+1868-1|gebieden; opdragen|gehoorzamen
+1869-1|toespraak; verstand||i,i
+1870-1
+1871-1|handig; zinvol|nutteloos
+1872-1|hoewel; alhoewel
+1873-1|beschrijven; definiëren
+1874-1|beschadiging; nadeel|voordeel|c,i
+1875-1|verschillende; enkele
+1876-1|priester; dominee|leek
+1877-1||westen|c
+1878-1|juist niet
+1879-1|letterkundig
+1880-1|dier
+1881-1|stuk; doodmoe|heel|p,p|van ~ kapot zijn van iets ~ Ik ben er helemaal kapot **van**. ~ I'm completely devastated by it.
+1882-1
+1883-1|keuren; inschatten
+1884-1|beveiliging|bedreiging|c
+1885-1|meenemen; met zich meebrengen|achterlaten
+1886-1|ruilen; veranderen||c
+1887-1|behoefte|overbodigheid
+1888-1|dood lichaam
+1889-1|spijtig; zonde|gelukkig
+1890-1|overpakken; kopiëren|overdragen
+1891-1|eerbied; aanzien|schande|c,c
+1891-2|voordat
+1892-1|mooi; prachtig|lelijk
+1893-1|schijf; plaatje||i
+1894-1|strak; houterig|soepel|p|van ~ stijf staan van iets ~ Het rapport staat stijf **van** de fouten. ~ The report is full of mistakes.
+1895-1
+1896-1|representeren; symboliseren
+1897-1|||c,c
+1898-1|komend|vroeger; voormalig
+1899-1|drankje||c
+1900-1
+1901-1|||c,c
+1902-1|blad; magazine
+1903-1|delen; spreiden|verzamelen
+1904-1|vanzelf|handmatig
+1905-1|kist; doosje
+1906-1|zodat
+1907-1|etage; uitdieping
+1908-1|aanlokkelijk; mooi|onaantrekkelijk
+1909-1|trekken||i
+1910-1|hij
+1911-1|plan; onderneming
+1912-1|uitzonderlijk; bijzonder|gewoon
+1913-1|vorming; educatie
+1914-1|kloppen||p,c
+1915-1|afweging||c
+1916-1|vijand; concurrent|medestander; bondgenoot
+1917-1|stevig; betrouwbaar|ondeugdelijk|c
+1918-1|hutje; huisje
+1919-1|fruit; resultaat||i
+1920-1|zo erg||c
+1921-1
+2001-1|allemaal||c,c
+2002-1|schaal; schotel
+2003-1|berichten||c
+2004-1|weg; kwijt|gevonden|c,p
+2004-2|zoektocht||c,c|naar ~ op zoek zijn naar iets ~ Ik ben op zoek **naar** mijn sleutels. ~ I'm looking for my keys.
+2005-1|een
+2006-1
+2007-1
+2008-1|o; ach
+2009-1|gewenst|ongewenst|c,c
+2010-1|fout; verkeerd|goed; raak|p,c
+2010-2
+2011-1|plegen; beoefenen
+2012-1|verscheidene; diverse|enkel
+2013-1|reeks
+2014-1|paar||c
+2015-1|lesuur||c,c,i
+2016-1|bladzijde
+2017-1|smak; valstrik|opstand|i
+2018-1|sekse; soort
+2019-1|afkeer; hekel|liefde
+2020-1|plantsoen
+2021-1|||c
+2022-1|bewaker||c,c
+2023-1
+2024-1|brieven; positie||c,c
+2025-1|volmaakt; uitstekend|onvolmaakt
+2026-1|achting; eerbied|minachting|c|voor ~ respect hebben voor iemand ~ Ik heb veel respect **voor** haar. ~ I have a lot of respect for her.
+2027-1|samenvatting; lijst
+2028-1|ingang; entree||c,c|tot ~ toegang hebben tot iets ~ Iedereen heeft toegang **tot** de bibliotheek. ~ Everyone has access to the library.
+2029-1|privé|openbaar|c
+2030-1|loven; ophemelen|bekritiseren|c
+2031-1|belletje||i
+2032-1|fonds; instelling
+2033-1|||c,c
+2034-1|wit; bleekjes|rood; gebruind
+2035-1|intussen; inmiddels
+2036-1|op weg
+2037-1|jurist|aanklager|i

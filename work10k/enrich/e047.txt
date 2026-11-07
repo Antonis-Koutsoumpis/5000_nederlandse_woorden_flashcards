@@ -1,0 +1,100 @@
+4547-1|rinkelen; blunderen||p,i|op ~ afgaan op iets ~ Ik ga af **op** mijn gevoel. ~ I go by my gut feeling.
+4548-1|verdovend middel
+4549-1|vaart||c
+4550-1|steen; kanjer||i,c
+4551-1|controleren; beoordelen||i
+4552-1|waarneming
+4553-1|uitdoen; reserveren|aantrekken|p|voor ~ tijd uittrekken voor iets ~ Trek er een uur **voor** uit. ~ Allow an hour for it.
+4554-1|rechtvaardigen; verklaren
+4555-1|ondervraging
+4556-1|vervangen; moderniseren|laten verouderen
+4557-1|||i
+4558-1|bacil
+4559-1|energiek; levendig|statisch
+4560-1|scheiding|huwelijk
+4561-1
+4562-1|tanden||c
+4563-1|rangorde
+4564-1|veranderen; uitvoeren||p,c|in ~ iets omzetten in iets ~ Zet je plannen om **in** daden. ~ Turn your plans into action.
+4565-1|braken; capituleren|vechten|p,p|aan ~ zich overgeven aan iets ~ Ze gaf zich over **aan** haar verdriet. ~ She gave in to her grief.
+4566-1|kiezen; uitzoeken
+4567-1|uren
+4568-1
+4569-1|innemend; lief|onaardig
+4570-1
+4571-1
+4572-1|bord; gerecht||c,c
+4573-1|naar; griezelig|prettig
+4574-1|ingewikkeld; complex|simpel
+4575-1|stemming; bui||c
+4576-1|doek; stuk||i,i,c
+4577-1|||i
+4578-1|overhandigen; doorgeven|behouden
+4579-1
+4580-1|tekening; ontwerp
+4581-1|bijkomstig; ondergeschikt|primair
+4582-1|||i,i
+4583-1|afstemming; organisatie
+4584-1|inkopen; raken||c,i
+4585-1|bekend||c
+4586-1||rechterhand|i
+4587-1|wijsje; deuntje
+4588-1|verstikken; naaien||i,c,c
+4589-1|optocht
+4590-1|kiezen; selecteren
+4591-1
+4592-1|beleefd; vriendelijk|onbeleefd
+4593-1|aanrijden; in conflict komen
+4594-1|materiaal
+4595-1|verlangen||p|naar ~ heimwee hebben naar iets ~ Ik heb heimwee **naar** huis. ~ I'm homesick.
+4596-1|||i,i
+4597-1|haperen; afvallen||p,c|tegen ~ uitvallen tegen iemand ~ Hij viel uit **tegen** zijn collega. ~ He snapped at his colleague.
+4598-1|waarde; inkomsten
+4599-1|vernietigen; kapotmaken|herstellen
+4600-1|zelfstandigheid; onafhankelijkheid|afhankelijkheid
+4601-1|vervullen; overtrekken
+4602-1|uitstalling||c
+4603-1|gevoel; instinct
+4604-1
+4605-1|zeeman
+4606-1|machinaal; werktuiglijk|handmatig
+4607-1|verachting; geringschatting|bewondering; respect
+4608-1|zinnebeeldig|letterlijk
+4609-1|wei; grasland
+4610-1|kus
+4611-1
+4612-1|per dag||c
+4613-1|kelner|klant
+4614-1|onopgemerkt|opvallend
+4615-1|haasten; vorderen|treuzelen|p,i|met ~ goed kunnen opschieten met iemand ~ Ik kan goed opschieten **met** mijn baas. ~ I get along well with my boss.
+4616-1|oplossing; ontsnapping
+4617-1|moeheid|energie
+4618-1|plan; besluit||c,c
+4619-1|aanhanger|ongelovige
+4620-1|veel; heel wat|weinig
+4621-1|bedriegen; om de tuin leiden
+4622-1|natuurlijk; biologisch|anorganisch
+4623-1
+4624-1|tarten; provoceren
+4625-1|werkzoekende|werknemer
+4626-1|Christus
+4627-1|natuurlijk; ingeboren|aangeleerd
+4628-1|herstellen; bijgevoegd worden|flauwvallen|c
+4629-1|bekwaam; vakkundig|ondeskundig
+4630-1|te boven gaan; oversteken
+4631-1|aardig; innemend|onsympathiek
+4632-1|vredig; rustig|agressief; gewelddadig
+4633-1|opvreten; verslinden||c,i
+4634-1|toeschouwer; observator
+4635-1
+4636-1|eind; punt|begin|i
+4637-1|zelfstandig; onafhankelijk|afhankelijk
+4638-1|bestelen; ontnemen||p,i|van ~ iemand beroven van iets ~ Ze beroofden hem **van** zijn geld. ~ They robbed him of his money.
+4639-1|vooral; in de eerste plaats
+4640-1|lot; fatum
+4641-1|aanhoudend; ononderbroken|onderbroken
+4642-1|dom; naïef|slim|i
+4643-1||westelijk
+4644-1|verslaan; overstijgen
+4645-1|vooruitstrevend|conservatief
+4646-1|totaal; volkomen

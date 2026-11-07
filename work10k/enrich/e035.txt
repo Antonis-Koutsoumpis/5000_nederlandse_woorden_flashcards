@@ -1,0 +1,100 @@
+3338-1|transporteren
+3339-1|ontdekken; uitzoeken
+3340-1|sturen; leiden
+3341-1|enthousiast; gespannen|kalm; rustig
+3342-1|opruimen; ontruimen||p,i
+3343-1|lijn; streek||i,i
+3344-1|eensgezindheid; fanfare|onenigheid
+3345-1|staak; mast||i,i
+3346-1||weduwnaar
+3347-1|ongeveer; bijna
+3348-1|dun; mager|dik|c,c
+3349-1
+3350-1|||i
+3351-1|opbrengst
+3352-1|eroverheen||c,p
+3353-1|rondwandelen; ronddwalen||p
+3354-1|overschakelen; versnellen||p,p
+3355-1|doorzetten; uithouden|opgeven
+3356-1
+3357-1|grandioos; indrukwekkend|bescheiden
+3358-1|||i
+3359-1|controleur
+3360-1
+3361-1|gêne; schande|trots
+3362-1|kussen
+3363-1|zurig; zuurachtig|zoet|c,i
+3364-1|service
+3365-1|houwen; kappen||i
+3366-1|voornamelijk; vooral
+3367-1|samenwerking; hulp|tegenwerking|c|aan ~ zijn medewerking verlenen aan iets ~ Hij verleende zijn medewerking **aan** het onderzoek. ~ He cooperated with the investigation.
+3368-1|beschrijving; definitie
+3369-1|toelage; steun
+3370-1|vliering|kelder
+3371-1|zakenwereld
+3372-1|hol
+3373-1||kip|i
+3374-1|tegenover; ten opzichte van
+3375-1|bijna; vrijwel
+3376-1|kat||i
+3377-1|publiceren; lanceren||c
+3378-1|kade; oever||i,c
+3379-1|voorspoed; rijkdom|armoede
+3380-1|rad||i,i
+3381-1|geweld; vijandigheid|vriendelijkheid
+3382-1|ik; zelfbeeld
+3383-1|praatje; roddel|feit
+3384-1|bewoner|bezoeker
+3385-1|onpartijdig|partijdig
+3386-1|uitnodigen
+3387-1|nootje; toon||i,c
+3388-1|beoordelen||p|over ~ oordelen over iets ~ Je mag niet **over** anderen oordelen. ~ You shouldn't judge others.
+3389-1|stoppen; verhinderen|doorlaten
+3390-1|steun; geruststelling||i
+3391-1|dus; zo
+3392-1
+3393-1|overeenkomen; afspreken||c,p|met ~ afspreken met iemand ~ Ik heb afgesproken **met** een vriendin. ~ I've arranged to meet a friend.
+3394-1
+3395-1|voorgevel
+3396-1|introduceren; importeren|afschaffen; exporteren
+3397-1||prooi
+3398-1|redenering
+3399-1|sfeer; dampkring
+3400-1|voorwaarde; fitheid||c
+3401-1|medicijnen
+3402-1|uiterst; zeer||c
+3403-1|vastknopen|losknopen|p,p
+3404-1||meerderheid
+3405-1|ziener
+3406-1|halen; scheppen||p|uit ~ putten uit iets ~ Ze put kracht **uit** haar geloof. ~ She draws strength from her faith.
+3407-1|||i,c
+3408-1|verhoging
+3409-1|best; ideaal|slecht
+3410-1|heersen; besturen||i
+3411-1|vechten; kampen||p|met ~ worstelen met iets ~ Hij worstelt **met** zijn gezondheid. ~ He's struggling with his health.
+3412-1|||i,i
+3413-1|volgeling; fan|tegenstander
+3414-1|drankje||p,c
+3415-1|barmhartigheid; gratie|wreedheid|c,c
+3416-1|rondom||p
+3417-1|ontvangkamer
+3418-1|informatie
+3419-1|kostbaar|waardeloos
+3420-1|nutteloos; zinledig|zinvol|c
+3421-1|korf||i
+3422-1|nadelig; slecht|onschadelijk; gezond
+3423-1|cadeau
+3424-1|inwendig; binnen|extern
+3425-1|spleet; verschil
+3426-1
+3427-1|beroven; verrassen
+3428-1|buit||i|aan ~ ten prooi vallen aan iets ~ Hij viel ten prooi **aan** wanhoop. ~ He fell prey to despair.
+3429-1|rechtsgang
+3430-1|belangrijk; ter zake|irrelevant
+3431-1|ceintuur; lijn||i,i
+3432-1|opdienen
+3433-1|ontgoocheling|blije verrassing
+3434-1|razend; kwaad|kalm
+3435-1|kwaal; ziekte
+3436-1|voltooien; afwerken|beginnen|i
+3437-1|binnengaan; binnentreden|verlaten

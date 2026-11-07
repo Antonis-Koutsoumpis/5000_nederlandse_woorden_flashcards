@@ -1,0 +1,100 @@
+4149-1||neef
+4150-1|bestelling; bevel
+4151-1|heimelijk; geniepig|openlijk
+4152-1|stroompje; riviertje
+4153-1|geschiedenis; verhaal
+4154-1|afnemer; klant|verkoper
+4154-2
+4155-1|opbergen; wegruimen|rommel maken|i,c
+4156-1|vrijwillige medewerker|betaalde kracht
+4157-1|hoewel; ofschoon
+4158-1|uniek; zonder|inclusief
+4159-1|gemotiveerd; bevlogen|ongemotiveerd
+4160-1|||i
+4161-1|uitstraling
+4162-1|hogeschool
+4163-1|speelhuis
+4164-1|ziekenhuis
+4165-1|kracht; macht|zwakte|c
+4166-1|sorteren; uitpluizen||i
+4167-1|zelfverzekerdheid|onzekerheid
+4168-1|koop; aanschaf|verkoop
+4169-1|vriendschappelijk|vijandig|p|met ~ bevriend raken met iemand ~ Ik raakte bevriend **met** mijn buurman. ~ I became friends with my neighbor.
+4170-1|even; kort|lang
+4171-1|afkomst; oorsprong
+4172-1|meesterwerk
+4173-1|zitplaats; hoofdkantoor
+4174-1
+4175-1|gezantschap
+4176-1
+4177-1|ketting; reeks
+4178-1|geldstuk; valuta||i,i
+4179-1|rekken; vernieuwen|verkorten
+4180-1|tocht; ontdekkingsreis
+4181-1|bespotting; schijnwerper
+4182-1|versteviging; hulptroepen|verzwakking
+4183-1|boze droom|droom
+4184-1|rede; speech||c
+4185-1|stijging; koorts|verlaging
+4186-1|verkoopster; handelaar|koper
+4187-1|afdeling
+4188-1|vermengd; gevarieerd|zuiver; puur
+4189-1
+4190-1|aanvullen; opvullen||p|voor ~ voor iemand invullen ~ Je kunt niet **voor** een ander invullen. ~ You can't decide for someone else.
+4191-1|schatje; vriendinnetje
+4192-1|in de war; warrig|helder; geordend|c
+4193-1|zegening|vloek|i
+4194-1|regering; heerschappij||c
+4195-1|leefregel||c
+4196-1|waarborg; zekerheid
+4197-1|heilig; toegewijd|ontheiligd
+4198-1|hoofdkantoor
+4199-1|snoer; leiding
+4200-1|zangkoor||c
+4201-1|eindredacteur; bewerker
+4202-1|voorraad; reservespeler||c,c,c
+4203-1|polis; zekerheid||c
+4204-1|producent; maker|consument
+4205-1|valhelm
+4206-1|wisselwerking
+4207-1|sage; mythe
+4208-1|||i
+4209-1|klep; deurtje
+4210-1
+4211-1|code
+4212-1|werkplaats; studio
+4213-1|herhaling; golflengte
+4214-1|links|rechter
+4215-1|laatste wil
+4216-1|weerklank; echografie
+4217-1|wisselen; omruilen||i
+4218-1|plak; schijfje||i
+4219-1
+4220-1|||c,c
+4221-1|meelijwekkend; triest|grappig
+4222-1|aan de achterkant|voorin
+4223-1|nalatenschap; erfgoed
+4224-1|verdomme
+4225-1|overleggen; marchanderen||p|over ~ onderhandelen over iets ~ We onderhandelen **over** de prijs. ~ We're negotiating the price.
+4226-1|eerbiedigen; waarderen|minachten
+4227-1
+4228-1|aanhanger; pleitbezorger|tegenstander|p|van ~ voorstander zijn van iets ~ Ik ben voorstander **van** het plan. ~ I'm in favor of the plan.
+4229-1|bezorgd; meelevend|onverschillig|p|met ~ begaan zijn met iemand ~ Ze is erg begaan **met** de daklozen. ~ She cares a lot about the homeless.
+4230-1|onderzoeken; aftasten||c
+4231-1|bemind; populair|gehaat; impopulair
+4232-1|aansluiten; opzetten|verwijderen
+4233-1|dapper; heldhaftig|laf
+4234-1
+4235-1
+4236-1
+4237-1|zetel||c
+4238-1|hoffelijk; vriendelijk|onbeleefd; brutaal
+4239-1|||i
+4240-1|meerderheid|minderheid|c
+4241-1|overbodig; nodeloos|noodzakelijk
+4242-1|overgave; overhandiging
+4243-1|voorvaderen|nakomelingen
+4244-1|ondernemer
+4245-1|aristocratie|volk
+4246-1|zaak; verhouding
+4247-1|eerzucht; streven

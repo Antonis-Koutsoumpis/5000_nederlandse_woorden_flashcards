@@ -1,0 +1,100 @@
+1473-1
+1474-1|rede; intelligentie|domheid|p,i|van ~ verstand hebben van iets ~ Hij heeft verstand **van** auto's. ~ He knows about cars.
+1475-1|basis; fundament||p|aan ~ ten grondslag liggen aan iets ~ Dit idee ligt ten grondslag **aan** het plan. ~ This idea underlies the plan.
+1476-1|zo; dermate
+1476-2|zulk||c
+1477-1
+1478-1|draaien; rijden
+1479-1|automatisch; uiteraard||c
+1480-1|klinken; zijn||i
+1481-1|nastreven; mikken||p|naar ~ streven naar iets ~ We streven **naar** een betere wereld. ~ We strive for a better world.
+1481-2|ambitie; doel
+1482-1
+1483-1|accent; klemtoon||c|op ~ de nadruk leggen op iets ~ De docent legt de nadruk **op** grammatica. ~ The teacher puts emphasis on grammar.
+1484-1|trek|verzadiging|c,c
+1485-1|verschil|overeenkomst|c|tussen ~ onderscheid maken tussen dingen ~ Je moet onderscheid maken **tussen** feiten en meningen. ~ You must distinguish between facts and opinions.
+1486-1|beschermen|aanvallen
+1487-1|klassiek; ouderwets|modern
+1488-1|besluit||c,c
+1489-1|geloof; mening|twijfel
+1490-1|opnieuw; weer
+1491-1|verven
+1492-1|koper; cliënt|verkoper
+1493-1|eisen; vergen
+1494-1|||i
+1495-1|offensief|verdediging|c
+1496-1|opmaken; neerzetten||p
+1497-1|proef; test
+1498-1|daarom||c
+1499-1|wezenlijk; essentieel|oppervlakkig
+1500-1|inwendig|uiterlijk
+1501-1
+1502-1|ongeval; pech|geluk|c,c
+1503-1|zeggen; uiten|verzwijgen|p|over ~ zich uitspreken over iets ~ De minister sprak zich uit **over** het plan. ~ The minister spoke out about the plan.
+1504-1|vergissing; fout||c
+1504-2|onjuist; verkeerd|goed; juist|c
+1505-1|lef; durf|lafheid|c,c
+1506-1|raad||c,c
+1507-1|direct|indirect
+1508-1|aandoen; lokken|uittrekken; afstoten|p,p|van ~ zich iets aantrekken van iemand ~ Hij trekt zich niets aan **van** kritiek. ~ He doesn't care about criticism.
+1509-1|||c|tot ~ de sleutel tot iets ~ Geduld is de sleutel **tot** succes. ~ Patience is the key to success.
+1510-1|stom; dwaas|slim; verstandig|i
+1511-1|klauteren|dalen
+1512-1|kenmerkend; vreemd|ongewoon
+1513-1|afzonderlijk; bijzonder|gewoon
+1514-1|optreden||p
+1514-2|waardig
+1515-1|eigenlijk; echt
+1516-1|mantel
+1517-1|manier; trant
+1518-1|som
+1519-1|piek|bodem|i,i
+1520-1|doorslikken||i
+1521-1|gewoonte; gebruik
+1522-1|||i
+1523-1|steunen||p,c
+1524-1|aanleggen; plaatsen|verwijderen
+1525-1|vaarwel|begroeting|c
+1526-1|ergens anders|hier
+1527-1|club; bond
+1528-1
+1529-1|fantastisch; enorm|vreselijk
+1530-1|warm|koud
+1531-1|organisatie||c
+1532-1|psychisch
+1533-1|periode||c
+1534-1|fier|beschaamd|p|op ~ trots zijn op iemand ~ Ik ben trots **op** jou. ~ I'm proud of you.
+1534-2|eergevoel|schaamte
+1535-1|hulp||p|van ~ met behulp van iets ~ Met behulp **van** een ladder kwam hij boven. ~ With the help of a ladder he got up.
+1536-1|weghalen; wissen|toevoegen|p
+1537-1
+1538-1|alinea; hoofdstuk
+1539-1
+1540-1|vertrekken|komen; blijven
+1541-1|grond; ondergrond|top|i
+1542-1||docent
+1543-1|huis; verblijf||c,c
+1544-1|beleven; ervaren
+1545-1||noorden
+1546-1|geëngageerd|onverschillig|p|bij ~ betrokken zijn bij iets ~ Ze is nauw betrokken **bij** het project. ~ She is closely involved in the project.
+1547-1|betrekkelijk|absoluut
+1548-1|||i
+1549-1|soort; klasse
+1550-1|akkoord; gelijkenis|verschil|c
+1551-1|lief|zuur|c,c
+1552-1|rijwiel||c
+1553-1|rustig; bedaard|zenuwachtig|c
+1554-1|helemaal; totaal
+1555-1|aflopen; stoppen|beginnen
+1556-1|||i
+1557-1|splitsen; uit elkaar gaan|verbinden; samenvoegen|c
+1558-1|oprichten; zich nestelen||c|op ~ de aandacht vestigen op iets ~ Hij vestigde de aandacht **op** het probleem. ~ He drew attention to the problem.
+1559-1|langsgaan
+1560-1|verkrijgbaar; vrij|bezet
+1561-1|leider; president
+1562-1|waren; producten
+1563-1|dun; schraal|dik; vet
+1564-1|show; idee||c|van ~ zich een voorstelling maken van iets ~ Ik kan me er geen voorstelling **van** maken. ~ I can't imagine it.
+1565-1|kiezen||p,c|op ~ stemmen op een partij ~ Ik stem **op** de groenen. ~ I vote for the Greens.
+1566-1|duidelijk; openhartig|vaag
+1567-1|omschrijving; beeld

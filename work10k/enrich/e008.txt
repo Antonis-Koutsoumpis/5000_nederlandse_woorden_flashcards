@@ -1,0 +1,100 @@
+0613-1|God
+0614-1|aspect||c,c
+0615-1|instelling
+0616-1|bijzonder|gewoon
+0617-1|hebben; bezit hebben|missen
+0618-1|zieke|dokter
+0619-1|broeder|zus
+0620-1|plotseling; ineens|geleidelijk
+0621-1|buurt; omgeving||p|van ~ in de omgeving van een stad ~ Hij woont in de omgeving **van** Utrecht. ~ He lives near Utrecht.
+0622-1|mening; visie
+0623-1|bezorgen; geven|ontvangen|c,p|op ~ kritiek leveren op iets ~ Ze leverde kritiek **op** het plan. ~ She criticized the plan.
+0624-1|wensen|vrezen|p|op ~ hopen op iets ~ We hopen **op** mooi weer. ~ We're hoping for nice weather.
+0625-1|compleet; volledig|gedeeltelijk
+0625-2|som|deel|c
+0626-1|mensen
+0627-1
+0628-1|regering; staat|burger
+0629-1|zich bevinden; zijn||c
+0630-1|eind|nabijheid|c,p|van ~ afstand doen van iets ~ Hij deed afstand **van** de troon. ~ He gave up the throne.
+0631-1|daarna; toen
+0632-1|kennis|bijgeloof
+0633-1|weggaan|aankomen
+0634-1|ondanks het feit dat||c
+0635-1|lef hebben
+0636-1|afrekenen|ontvangen|p|voor ~ betalen voor iets ~ Ik betaal **voor** het eten. ~ I'll pay for the food.
+0637-1|ten slotte; uiteindelijk
+0638-1|onafhankelijkheid|slavernij
+0639-1|hol|vol
+0640-1
+0641-1|aardig; schattig|gemeen|c,c
+0642-1|af; gereed|bezig|p,p|met ~ klaar zijn met iets ~ Ben je al klaar **met** je huiswerk? ~ Are you done with your homework yet?
+0643-1|ontplooien||c
+0644-1|pas||c,i
+0645-1|||c,c
+0646-1|naar boven|omlaag|p
+0647-1|aard; persoonlijkheid
+0648-1|feit||c
+0649-1|stil zijn|praten|p|over ~ zwijgen over iets ~ Hij zweeg **over** zijn verleden. ~ He kept quiet about his past.
+0650-1|uitleggen; verkondigen
+0651-1|introduceren; voorstellen||c,c;+voorstellen=p
+0652-1|kwaal|gezondheid
+0653-1|duwen||p,c
+0654-1|lengte|diepte|c,c
+0655-1||praktijk|c
+0656-1|||c
+0657-1|politiek
+0658-1|gevecht|vrede|p|met ~ in strijd met iets ~ Dat is in strijd **met** de wet. ~ That is against the law.
+0659-1|zorg; bezorgdheid||c,c,c
+0660-1|snel; binnenkort|laat|c
+0661-1|beslissen|twijfelen
+0662-1||slechter|c,c
+0663-1||zoon
+0664-1|lopen||p,p
+0665-1|wens|werkelijkheid
+0666-1|auteur|lezer
+0667-1|maar
+0668-1
+0669-1|samenleving; bedrijf
+0670-1|onderneming; firma||c
+0671-1
+0672-1|huppen||i
+0673-1|||i,i
+0674-1||boven|c
+0674-2|onder|boven
+0675-1|||c
+0676-1|maatschappij
+0677-1|||
+0678-1|langs||p
+0678-2|afgelopen
+0679-1|dagblad
+0680-1|steun||c,i
+0681-1|relatie; proportie||p|tot ~ in verhouding tot iets ~ Het loon is laag in verhouding **tot** het werk. ~ The pay is low relative to the work.
+0682-1||perifeer|c
+0683-1|tegenkomen; zien
+0684-1|attitude
+0685-1|risico|veiligheid|c,c
+0686-1
+0687-1|restant; overschot
+0688-1|kabinet
+0689-1
+0690-1|gooien||c|op ~ een blik werpen op iets ~ Hij wierp een blik **op** de klok. ~ He glanced at the clock.
+0691-1|puntig|bot
+0692-1|stappen||c,c,c
+0693-1|keer||c
+0693-2|maaltijd
+0694-1|opendoen|sluiten
+0695-1|dol; raar|verstandig|p,c|op ~ gek zijn op iets ~ Ik ben gek **op** chocola. ~ I'm crazy about chocolate.
+0695-2|dwaas||i
+0696-1|sofa
+0697-1|blaadje; tijdschrift
+0698-1|boot
+0699-1|wedstrijd||i,c
+0700-1|nota||p,c|met ~ rekening houden met iets ~ Houd rekening **met** vertraging. ~ Allow for delays.
+0701-1|||c,c,c,c
+0702-1
+0703-1|||c,i
+0704-1|aannemen||c,c;+opnemen=p
+0705-1|||c
+0706-1|militair
+0707-1|aanpakken; verzorgen

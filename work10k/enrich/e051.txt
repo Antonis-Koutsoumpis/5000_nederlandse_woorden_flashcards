@@ -1,0 +1,32 @@
+4947-1|galmen; weergalmen|verstommen
+4948-1|genoemd; voornoemd|onderstaand
+4949-1|pijnigen; teisteren|verlichten
+4950-1|kloppen; bonken
+4951-1|kletteren; kwebbelen
+4952-1|raken; aangrijpen|onberoerd laten
+4953-1|ordenen; indelen
+4954-1|zegevierend|verslagen
+4955-1|overblijven
+4956-1|sloffen
+4957-1|||c
+4958-1|tiener; puber|volwassene
+4959-1|missionaris
+4960-1|doorgaan; verdergaan|stoppen
+4961-1
+4962-1|bulderen; huilen||c
+4963-1|kuieren; drentelen|haasten
+4964-1|doorgeven; overdragen||p|aan ~ overgeleverd zijn aan iemand ~ We zijn overgeleverd **aan** zijn grillen. ~ We are at the mercy of his whims.
+4965-1|dun|dicht|i
+4966-1|rommelen; galmen||p
+4967-1|moreel; fatsoenlijk|onzedelijk
+4968-1|||i
+4969-1|bekijken; observeren
+4970-1|uitleggen; verklaren
+4971-1|ritselen; suizen
+4972-1|uiten; uitstoten||c,c
+4973-1|huilen; wenen|lachen|i
+4974-1|stukje; fragment||i
+4975-1|verlichten|bezwaren
+4976-1|stotteren|vloeiend spreken
+4977-1|doen schrikken; bang maken|geruststellen
+4978-1|aanzienlijk; lang|kort|c

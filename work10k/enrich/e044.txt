@@ -1,0 +1,100 @@
+4248-1|microchip; friet
+4249-1|verblijf; schuilplaats||c
+4250-1|inbreuk; overschrijding
+4251-1|reclame; voorlichting
+4252-1|dressing
+4253-1|slaafsheid|vrijheid|c
+4254-1|pil; tablet-pc
+4255-1|achterin; aan het eind|vooraan|i
+4256-1|werktuigen
+4257-1|allee||i
+4258-1|jatten; accepteren||c,c
+4259-1|tactisch
+4260-1|inschakelen; aansporen|uitzetten|p|tot ~ iemand aanzetten tot iets ~ Hij zette haar aan **tot** actie. ~ He spurred her into action.
+4261-1|agent
+4262-1|hoeveelheid; portie
+4263-1|foto's maken
+4264-1|gematigd; middelmatig|overmatig; uitstekend
+4265-1|projectiel
+4266-1|peddelen||i
+4267-1|troep; bende|orde
+4268-1|begroeting||c,c|aan ~ de groeten doen aan iemand ~ Doe de groeten **aan** je vader. ~ Say hi to your father.
+4269-1|overval; ingeving||c
+4270-1|tovenarij
+4271-1|||c
+4272-1|plaatsing; standpunt
+4273-1|saamhorigheid|egoïsme
+4274-1
+4275-1|krankzinnigheid; onzin|verstand
+4276-1|evenals; en ook
+4277-1|ondergrens|maximum
+4278-1
+4279-1|nuchter; reëel|onrealistisch
+4280-1|vakantie; toestemming
+4281-1|naam; term
+4282-1|tegenstelling; verschil|overeenkomst
+4283-1|tirannie|democratie
+4284-1|onweer||i,i
+4285-1|domoor||i
+4286-1|ontsteking
+4287-1|figuur; rol
+4288-1|mogelijk; eventueel
+4289-1|fabrikant; maker|consument
+4290-1|uitweg; uitgang|ingang
+4291-1|ontrouw; landverraad|trouw
+4292-1|werelddeel
+4293-1|twaalf uur 's nachts|middag
+4294-1|flank; kant
+4295-1|functie; post||c
+4296-1|enorm; reusachtig|piepklein
+4297-1|vakvereniging
+4298-1|opheffen; afschaffen|invoeren
+4299-1|||c
+4300-1|verdragen; doorkomen||i
+4301-1|droogte||c,c
+4302-1|hiel||i,i
+4303-1|voorbereiden; bereiden
+4304-1|geurtje
+4305-1|plaag; ellende||i,i,i
+4306-1|vangst; roof||p
+4307-1|lof; complimentje|belediging; kritiek
+4308-1|teleurstelling; ergernis|voldoening
+4309-1|babbelen; roddelen|zwijgen
+4310-1|tap; hijskraan||c
+4311-1|onwel; walgelijk|lekker|i
+4312-1|goedgelovig; onschuldig|slim; wantrouwend
+4313-1|doodmoe; afgemat|uitgerust
+4314-1
+4315-1|doelmatig; effectief|inefficiënt
+4316-1|stukje; deel|geheel
+4317-1|houding; instelling
+4318-1|poel; plasje||c
+4319-1|vocht|vaste stof
+4320-1|onzinnig; belachelijk|logisch
+4321-1|aanhaling
+4322-1|technicus
+4323-1|inpassen; samenvoegen|uitsluiten
+4324-1|typerend; karakteristiek|atypisch
+4325-1|pak; uitdossing
+4326-1|eis; voorwaarde
+4327-1|plank; staaf||i
+4328-1|aanstelling; nominatie|ontslag
+4329-1|geniaal; schitterend|middelmatig
+4330-1|vernieuwing; reorganisatie
+4331-1|broeikas; kassa||i,c
+4332-1|huidig; doorlopend||c,c
+4333-1|beraadslagen; bespreken||p|met ~ overleggen met iemand ~ Ik moet eerst overleggen **met** mijn partner. ~ I need to consult my partner first.
+4334-1|beurs; portemonnee
+4335-1|meertje||c
+4336-1|verwijderen; wegnemen|neerzetten
+4337-1|vrouw
+4338-1|fraude; misleiding|eerlijkheid|c
+4339-1|binnenzijde|buitenkant
+4340-1|toondichter
+4341-1|verbruik; drankje|productie
+4342-1|zonlicht|duisternis|i
+4343-1|stevig; innig|los; zwak
+4344-1|verbinden; combineren|ontkoppelen; scheiden|p|aan ~ iets koppelen aan iets ~ Het salaris is gekoppeld **aan** de prestaties. ~ The salary is linked to performance.
+4345-1|regel; voorschrift
+4346-1|bond; alliantie
+4347-1|schilderen; kleuren

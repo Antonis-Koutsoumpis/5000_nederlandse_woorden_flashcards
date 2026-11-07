@@ -1,0 +1,100 @@
+4447-1|slinken; kleiner worden|groeien; uitzetten|c
+4448-1|overspringen; missen||p
+4449-1|waarvandaan; waarom
+4450-1|spaarzaam; economisch|verkwistend|p,c|op ~ zuinig zijn op iets ~ Wees zuinig **op** je spullen. ~ Take good care of your things.
+4451-1|koren
+4452-1|antieke tijd|moderne tijd
+4453-1|niveau; hoogte||c,i,c
+4454-1
+4455-1
+4456-1|sensueel; zinnelijk
+4457-1|elegantie; genade||i,i
+4458-1|samen|uiteen|p,p
+4459-1|kap
+4460-1|hoge leeftijd|jeugd
+4461-1|verlokking; bekoring
+4462-1|overleving|ondergang
+4463-1|commissie; seminar
+4464-1|stimuleren; aansporen|ontmoedigen
+4465-1|adviseren; aanbevelen|afraden|c
+4466-1|stortbui; humeur||i
+4467-1
+4468-1|waakzaamheid||c|op ~ op zijn hoede zijn ~ Wees **op** je hoede voor zakkenrollers. ~ Be on your guard against pickpockets.
+4469-1|handschrift
+4470-1|standpunt; gezichtspunt||c
+4471-1|leegeten; verorberen
+4472-1|passagier
+4473-1|smeren; invetten||i,i
+4474-1|paar; duo
+4475-1|||i
+4476-1|afwijzing|instemming
+4477-1|tot stand brengen; bewerken
+4478-1|erfelijk
+4479-1|geschut
+4480-1|behoudend; traditioneel|progressief
+4481-1|bevrijding; gelijkstelling|onderdrukking
+4482-1|scholen; trainen||c
+4483-1|bovenlijf; scheepsromp
+4484-1|nonchalant; rommelig|netjes; zorgvuldig|c
+4485-1|stagnatie; stilte|vooruitgang
+4486-1|afstappen; eruit gaan|instappen
+4487-1|ravijn; kloof
+4488-1|bestijgen; opklimmen|afdalen
+4489-1|||i,i
+4490-1|samenhangend; principieel|inconsequent
+4491-1|ingewanden
+4492-1|bereid; vatbaar|ongeneigd|p|tot ~ geneigd zijn tot iets ~ Hij is geneigd **tot** overdrijving. ~ He is inclined to exaggerate.
+4493-1|vastzitten; breien||p
+4494-1|koopman; dealer|klant
+4495-1
+4496-1|oriëntering; richting
+4497-1|eerder; vroeger|nadien
+4498-1|bekoring; aantrekkingskracht
+4499-1|kooi; schuur
+4500-1|spot; sarcasme
+4501-1|wal; kaai
+4502-1|verliezen; verspelen|vinden
+4503-1
+4504-1|||i,c
+4505-1|tegenhouden; verbieden|toelaten|p
+4506-1
+4507-1|ontroerd; roerig|onbewogen; kalm
+4508-1|twaalf
+4509-1|proberen; uittesten
+4510-1|dodelijk; noodlottig|onschuldig
+4511-1|wonderkind; meesterbrein|domoor
+4512-1|haard||i
+4513-1|kloosterling|non
+4514-1|glas; ruitvorm||c,c
+4515-1|verwijderen; eruit halen||c,c,p|naar ~ uithalen naar iemand ~ Hij haalde uit **naar** de pers. ~ He lashed out at the press.
+4516-1|gebeurtenis; incident
+4517-1|transpireren
+4518-1|hokje; cockpit
+4519-1|label; plakkertje
+4520-1|overeenkomst; parabel|verschil
+4521-1|interventie; operatie
+4522-1|goedkeuring; toestemming|afwijzing
+4523-1
+4524-1|opofferen; schenken||p,p|voor ~ zich opofferen voor iemand ~ Ze offert zich op **voor** haar kinderen. ~ She sacrifices herself for her children.
+4525-1|directeur; schoolhoofd
+4526-1|heet; warm|arctisch
+4527-1|woede; ergernis|instemming
+4528-1
+4529-1|kuchen
+4530-1|stemmer|kandidaat
+4531-1|eerlijk; billijk|onrechtvaardig
+4532-1|kunstje; foefje
+4533-1|academisch||c
+4534-1|onder water raken; omkomen
+4535-1|tegenhouden; beletten|aansporen|p|van ~ iemand weerhouden van iets ~ Niets kan hem weerhouden **van** zijn plan. ~ Nothing can keep him from his plan.
+4536-1|matroos
+4537-1|gebouw; constructie
+4538-1|van buiten|van binnenuit|c
+4539-1|toch; net zo goed
+4540-1|schittering; luister|dofheid|c
+4541-1|vriendelijkheid; deugd|slechtheid|i
+4542-1||kapitalisme
+4543-1|solide; massaal|hol
+4544-1|onderwaarderen|overschatten
+4545-1|opwinding; ophef
+4546-1|vastberaden; resoluut|besluiteloos

@@ -1,0 +1,100 @@
+3238-1|prachtig; geweldig|lelijk; waardeloos
+3239-1|vechten; wedijveren||p|voor ~ strijden voor iets ~ Ze strijden **voor** gelijke rechten. ~ They fight for equal rights.
+3240-1|bedroefd; treurig|blij; vrolijk
+3241-1|groep; troep|orde
+3242-1|toestemming; instemming|afkeuring
+3243-1|pachten; inhuren|verhuren
+3244-1|zoen
+3245-1|voordracht; versie
+3246-1
+3247-1|vergelding|vergeving|c|op ~ wraak nemen op iemand ~ Hij nam wraak **op** zijn vijand. ~ He took revenge on his enemy.
+3248-1|halen; winnen|verliezen
+3249-1|congres
+3250-1|geestdrift; vuur|onverschilligheid
+3251-1|verdriet; lijden|vreugde|c
+3252-1|eerlijk; gemeend|onoprecht; vals
+3253-1|voordeel halen||p|van ~ profiteren van iets ~ We profiteren **van** het mooie weer. ~ We're making the most of the nice weather.
+3254-1|reservoir
+3255-1|ton||c,i
+3256-1|doorbladeren||p|door ~ bladeren door een boek ~ Ze bladerde **door** het tijdschrift. ~ She leafed through the magazine.
+3257-1|poetsen; reinigen|vervuilen
+3258-1|||c
+3259-1|annonce
+3260-1
+3261-1|winst; inkomsten|kosten
+3262-1|voorstellen; aanbieden||p
+3263-1|bewind; stelsel
+3264-1|toestemming; licentie|verbod
+3265-1|uit vrije wil|verplicht; gedwongen
+3266-1|stoppen; afsluiten|beginnen
+3267-1|ministerie
+3268-1|overhandigen; doorsturen|achterhouden
+3269-1|repetitie||i
+3270-1|applaudisseren; knallen||i,i
+3271-1|||c
+3272-1|onrustigheid; beroering|rust
+3273-1|loods
+3274-1|monster||c
+3275-1
+3276-1|||i,i
+3277-1|boekhouding
+3278-1|bouwwerk; structuur
+3279-1|herkennen||p
+3280-1|meeleven; mededogen|leedvermaak|p|met ~ medelijden hebben met iemand ~ Ik heb medelijden **met** hem. ~ I feel sorry for him.
+3281-1
+3282-1|oppervlakte
+3283-1|vlieger
+3284-1|land|stad
+3285-1|stalling
+3286-1|sweater||c
+3287-1|verlopen; aftakelen|opbloeien|p|in ~ vervallen in iets ~ Hij verviel **in** oude gewoontes. ~ He fell back into old habits.
+3288-1
+3289-1|hedendaags; huidig|verouderd
+3290-1|buur
+3291-1|samenvoegen; koppelen|scheiden
+3292-1|verschijnsel
+3293-1|reisgids; leidsman||c
+3294-1|bezielen||p
+3295-1|toeschouwer; verrekijker||i
+3296-1|mombakkes
+3297-1|tafereel
+3298-1|rangschikking; reeks
+3299-1|koffers
+3300-1|vergoeding; prijs|straf
+3301-1|||p|met ~ gepaard gaan met iets ~ Ziekte gaat vaak gepaard **met** koorts. ~ Illness is often accompanied by fever.
+3302-1|deinen
+3303-1|daarna; later|vooraf
+3304-1|||i,i
+3305-1|aandacht; focus|afleiding
+3306-1|gesprek|monoloog
+3307-1|bedreiging
+3308-1
+3309-1|structuur; samenstelling|afbraak
+3310-1|hemel|hel
+3311-1|vastleggen; noteren
+3312-1|rechtop|zittend; liggend|c,p,c
+3313-1|overzicht; schema
+3314-1|resultaat; redding
+3315-1|huiskamer
+3316-1|kerst
+3317-1|wachten op; aankijken||c
+3318-1|predikant; pastor||i
+3319-1|inleveren; aanbieden||c
+3320-1|verlangen; plezier|afkeer|i,i
+3321-1|doodshoofd
+3322-1|vaak; frequent|zelden
+3323-1|banen|werkloosheid
+3324-1|filmzaal
+3325-1|ontwikkeling
+3326-1|bedrukt; somber|vrolijk
+3327-1|aangekleed; chic|naakt
+3328-1|||i,i
+3329-1
+3330-1|veestapel
+3331-1|uitspraak; oordeel
+3332-1|stel; paar
+3333-1|middel; helderziende
+3334-1|neerzetten||c
+3335-1|welvaart; vermogen|armoede
+3336-1|ophouden; in staking gaan|doorgaan|c
+3337-1|rekenschap||c

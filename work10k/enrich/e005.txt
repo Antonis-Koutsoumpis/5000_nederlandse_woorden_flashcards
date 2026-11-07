@@ -1,0 +1,100 @@
+0332-1|||c
+0333-1|stoppen; prikken||c,c
+0334-1|||c,c
+0335-1|zo veel||c
+0336-1|gewaarwording||c
+0337-1|weggaan|verschijnen
+0338-1|||c
+0339-1|aanwijzen||p,c|op ~ wijzen op iets ~ Hij wees **op** een fout. ~ He pointed out a mistake.
+0340-1|||c,c
+0341-1||onder
+0341-2||beneden|c,c
+0342-1|gewoon; algemeen|bijzonder|c
+0343-1|beleid
+0343-2
+0344-1|||c,c
+0345-1|regio; terrein||c
+0346-1|speciaal; uitzonderlijk|gewoon|c
+0347-1|moeten
+0348-1||binnen
+0348-2||binnen|c,c
+0349-1|menen
+0350-1|kindje|volwassene
+0351-1
+0352-1|halen; behalen|missen
+0353-1|wijzigen|blijven
+0354-1|vertelling||i
+0355-1|net; slechts||c
+0355-2|kaart; stap||i
+0356-1|overleden|levend
+0356-2|overlijden|leven
+0357-1|ofschoon
+0358-1|draaien; ronddraaien|stilstaan|p,i|om ~ het draait om iets ~ Het draait allemaal **om** geld. ~ It's all about money.
+0359-1||asociaal
+0360-1|aanspraak|onrecht|p,c|op ~ recht hebben op iets ~ U hebt recht **op** een uitkering. ~ You are entitled to a benefit.
+0360-2|rechtdoor|krom|c,c
+0361-1|lastig|licht|c
+0362-1|lijken; stralen
+0363-1|stevig; luid|zacht|c,c
+0364-1|deelnemer||p|van ~ lid worden van iets ~ Hij wordt lid **van** de club. ~ He's becoming a member of the club.
+0365-1|resultaat|oorzaak|c,c
+0366-1
+0367-1|||c
+0368-1|||c,p
+0369-1
+0370-1|exact; juist
+0371-1|toestand
+0372-1|||i
+0373-1|weer; nogmaals
+0374-1|toen; destijds|nu
+0375-1|daarnaast; ook
+0376-1|kans
+0377-1|hulpmiddel||c
+0378-1|oorzaak||c,c
+0379-1|vroeger|later|c
+0380-1|||c,i
+0381-1|||p,c
+0382-1|treffen||c,p,p|aan ~ gewend raken aan iets ~ Ik raak gewend **aan** het weer. ~ I'm getting used to the weather.
+0383-1|zeker; specifiek|onbepaald|c
+0384-1|opmerken||p,c|aan ~ iets merken aan iemand ~ Ik merkte **aan** zijn gezicht dat hij boos was. ~ I could tell from his face that he was angry.
+0385-1|uit
+0386-1|tegenover|naast
+0387-1|gedachte; plan
+0388-1|vader; moeder|kind
+0388-2||jonger
+0389-1|aangaan||c
+0390-1|sterkte; macht|zwakte|c
+0391-1|verblijven
+0392-1|meneer|dame|c
+0393-1|toepassing; gewoonte||c,c
+0394-1|direct; onmiddellijk|later
+0395-1|functie||c
+0396-1|eens|nooit
+0397-1
+0398-1|reactie|vraag|c
+0399-1|stip; kwestie||c
+0400-1|wagen
+0401-1|reageren|vragen|p|op ~ antwoorden op iets ~ Hij antwoordde niet **op** mijn vraag. ~ He didn't answer my question.
+0402-1|rusten|wakker zijn|c,p
+0403-1|gesloten|open|c,c,p
+0404-1|||c
+0405-1
+0406-1|heer|mevrouw
+0408-1|studie||p
+0409-1|verplaatsing|stilstand|c
+0410-1|kijk||c
+0410-2
+0411-1|besturen||c,c
+0412-1|mogelijkheid||c,c
+0413-1|vermoedelijk|onwaarschijnlijk
+0414-1|voornemen||c
+0415-1|moment||c
+0416-1|||c,c
+0417-1
+0418-1|belangstelling||c
+0419-1|traag|snel
+0420-1|kant||c,c
+0421-1|van toepassing zijn||p|als ~ gelden als iets ~ Hij geldt **als** de beste speler. ~ He is considered the best player.
+0422-1|afwijken|overeenkomen|p|van ~ verschillen van iets ~ Mijn mening verschilt **van** de jouwe. ~ My opinion differs from yours.
+0423-1|echt
+0424-1|ziel; spook|lichaam|i
