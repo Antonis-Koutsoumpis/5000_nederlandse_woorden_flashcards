@@ -64,3 +64,27 @@ verrassende: inflected form
 ein: German
 voorop: in list as part of other entries? (skipped: low value)
 ge: dialect/abbreviation
+degeen: lemmatizer artefact (degene in list)
+luiken: plural of luik (in list)
+onverwachten: inflected form of onverwacht (in list)
+geconsolideerde: inflected participle (finance jargon)
+poten: plural of poot / verb 'poten' (low value)
+ruwen: inflected form of ruw (in list)
+afgewerkt: participle of afwerken
+écht: emphatic spelling of 'echt'
+desingel: name (deSingel arts center)
+schreef: past of schrijven (in list)
+produkt: old spelling of product
+onroerende: inflected form (onroerend handled separately)
+ekonomische: old spelling of economisch
+eine: German
+bvba: Belgian company-form abbreviation
+penny: British coin
+gekende: Flemish participle ('known')
+uitoefenprijs: finance jargon (strike price)
+luchtvaartmaatschappij: duplicate candidate (already added)
+cc: abbreviation
+knappen: low value (lemmatizer form; knap in list)
+daß: German
+intercommunale: Belgian administrative jargon
+afgebroken: participle of afbreken (in list)
