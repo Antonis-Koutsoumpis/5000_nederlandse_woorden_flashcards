@@ -88,3 +88,9 @@ knappen: low value (lemmatizer form; knap in list)
 daß: German
 intercommunale: Belgian administrative jargon
 afgebroken: participle of afbreken (in list)
+mik: form of mikken (added)
+échte: emphatic inflected spelling
+waaieren: lemmatizer artefact
+parlementverkiezing: corrected to parlementsverkiezing
+spelletje: diminutive of spel (in list)
+del: Spanish/Italian article
