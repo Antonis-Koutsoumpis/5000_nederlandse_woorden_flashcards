@@ -1,0 +1,100 @@
+0991-1|actueel; tegenwoordig|vroeger
+0992-1|toenemen; omhooggaan|dalen|p
+0993-1|||i
+0994-1|beslissing||c,c
+0995-1|onduidelijk|duidelijk
+0996-1|toeschouwers
+0996-2|openbaar|privé
+0997-1|tijdelijk|definitief
+0998-1|toegegeven
+0999-1||nationaal
+1000-1|tekort; mankement|overvloed|p,c|aan ~ gebrek aan iets ~ Er is een gebrek **aan** leraren. ~ There's a shortage of teachers.
+1001-1|stevig; flink|zwak; slap|c
+1002-1|toezeggen
+1003-1
+1004-1|contrast|overeenkomst|p|tot ~ in tegenstelling tot iets ~ In tegenstelling **tot** zijn broer is hij rustig. ~ Unlike his brother, he's calm.
+1005-1|drukken|trekken
+1006-1|mening||c,c
+1007-1|voorkeur||i
+1008-1|beginsel||c
+1009-1|||c
+1010-1|reeks; file||c,c
+1011-1|onzekerheid|zekerheid|c,c
+1012-1|leraar; baas|leerling
+1013-1|leger-|burger-
+1013-2|soldaat|burger
+1014-1|lach
+1015-1|zo; dus
+1016-1|twijfelen|beslissen
+1017-1|klasse|kwantiteit
+1018-1|ook
+1019-1|vol doen|legen|p
+1020-1|alleen; enkel
+1021-1|krommen; neigen|strekken|p|over ~ zich buigen over iets ~ De commissie buigt zich **over** het probleem. ~ The committee is looking into the problem.
+1022-1|verdelen||p|door ~ delen door een getal ~ Tien gedeeld **door** twee is vijf. ~ Ten divided by two is five.
+1023-1|gebruik||c
+1024-1|persoon|groep
+1025-1|geest|lichaam|i
+1026-1|beweging
+1027-1|besluiten; bepalen|twijfelen|p|over ~ beslissen over iets ~ Wie beslist **over** het budget? ~ Who decides on the budget?
+1028-1|misschien; mogelijk|zeker
+1029-1|door; wegens
+1030-1|doctor
+1031-1|schuiven; slippen||p
+1032-1|functioneren||c,c
+1033-1|waarmaken; uitvoeren
+1034-1|lint; binding||i
+1034-2|groep
+1035-1|zetten; leggen|weghalen|c
+1036-1|||c
+1037-1|zeer; buitengewoon||i
+1038-1|tegenwerping|instemming|p,c|tegen ~ bezwaar hebben tegen iets ~ Ik heb geen bezwaar **tegen** het plan. ~ I have no objection to the plan.
+1039-1|wakker maken; opwekken||c
+1040-1|overleggen; reserveren
+1041-1|groeien; stijgen|afnemen|;+toenemen=p
+1042-1|stress|ontspanning
+1043-1|werk|rust|c
+1044-1|soort
+1045-1|weggaan; uitdoven|thuisblijven|p;+uitgaan=p|van ~ uitgaan van iets ~ Ik ga ervan uit dat je komt. ~ I'm assuming you'll come.
+1046-1|gesprek; debat
+1047-1|bedrijf
+1048-1|riskant|veilig
+1049-1|peuk
+1050-1|stad
+1051-1|werk; rijstrook||i
+1052-1|verstoppen|tonen|p
+1053-1|rails; perron||c,i
+1054-1
+1055-1|rechtbank
+1055-2||linker
+1056-1|docent; onderwijzer|leerling
+1057-1|commentaar|lof|p|op ~ kritiek hebben op iets ~ Hij heeft kritiek **op** de regering. ~ He criticizes the government.
+1058-1|beveiligen|aanvallen|p|tegen ~ iemand beschermen tegen iets ~ Een helm beschermt je **tegen** letsel. ~ A helmet protects you against injury.
+1059-1|origineel|nagemaakt
+1060-1|nu; momenteel|vroeger
+1061-1|bevrijden||p
+1062-1|hebben||p|over ~ beschikken over iets ~ Het hotel beschikt **over** een zwembad. ~ The hotel has a swimming pool.
+1063-1|volkomen; beslist|relatief|c
+1064-1
+1065-1|getal; liedje||c
+1066-1|onzelfstandig|onafhankelijk|p|van ~ afhankelijk zijn van iets ~ We zijn afhankelijk **van** het weer. ~ We depend on the weather.
+1067-1|zich bevinden; omgaan||c
+1068-1|aanvullend
+1069-1|probleem; gewicht||p,i|van ~ last hebben van iets ~ Ik heb last **van** mijn rug. ~ My back is bothering me.
+1070-1|vriendinnetje
+1071-1|opletten||p|op ~ letten op iets ~ Let goed **op** het verkeer! ~ Watch the traffic!
+1072-1|garantie; veiligheid|onzekerheid|c
+1073-1|nauw|breed
+1074-1|reden||c
+1075-1|eind; sluiting|begin|c,c,i
+1076-1
+1077-1|bestuur; buis||c,c
+1078-1|poes||i
+1079-1
+1080-1
+1081-1|stadium
+1082-1
+1083-1|gunstig|negatief
+1084-1|een beetje|helemaal
+1085-1|||c
+1086-1|krijgsmacht
