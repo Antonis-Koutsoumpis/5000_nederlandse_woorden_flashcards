@@ -166,7 +166,7 @@ ROWS = [
       "De partij luistert naar haar **achterban**.", "The party listens to its **grassroots**.",
       "De vakbond raadpleegt de **achterban**.", "The union consults its **rank and file**.",
       syn="aanhang; leden"),
-    A("verregaand", "far-reaching; extensive", "verregaande", "verregaander", "meest verregaand", "/ˈvɛrɣaːnt/", "VER·gaand",
+    A("verregaand", "far-reaching; extensive", "verregaande", "verregaander", "meest verregaand", "/ˈvɛrəɣaːnt/", "VER·re·gaand",
       "Dit heeft **verregaande** gevolgen.", "This has **far-reaching** consequences.",
       "Ze werken **verregaand** samen.", "They cooperate **extensively**.",
       syn="ingrijpend; vergaand"),
