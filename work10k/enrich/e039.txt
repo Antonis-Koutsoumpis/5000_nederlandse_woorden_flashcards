@@ -1,0 +1,100 @@
+3733-1
+3734-1|op schrift|mondeling
+3735-1|woonkamer
+3736-1|oversteken; snijden
+3737-1|waarnemen; bekijken
+3738-1|pesten; kwellen
+3739-1|betoog; argumentatie
+3740-1|ontwikkelen; uitdiepen
+3741-1|wetgevende macht
+3742-1|bloed verliezen||i
+3743-1|woede; aandrift|kalmte
+3744-1|verstandelijk; redelijk|irrationeel; emotioneel
+3745-1|bemoedigen; steunen|kwetsen
+3746-1|verandering; verplaatsing
+3747-1|kunstzinnig
+3748-1|onderdeel; bestanddeel|geheel
+3749-1|brein||i
+3750-1|mist; damp
+3751-1|noteren; neerschrijven
+3752-1|omkomen; rotten||p,c|van ~ vergaan van de honger ~ Ik verga **van** de honger. ~ I'm starving.
+3753-1|binnenkort; spoedig|later
+3754-1|een eed afleggen; ontsteken||p|bij ~ zweren bij iets ~ Mijn moeder zweert **bij** groene thee. ~ My mother swears by green tea.
+3755-1|verbeteren
+3756-1|sierlijk; stijlvol|lomp
+3757-1
+3758-1|gat; put||i
+3759-1|beminnen|haten
+3760-1|verblijden; uitkijken||p|op ~ zich verheugen op iets ~ Ik verheug me **op** de vakantie. ~ I'm looking forward to the holiday.
+3761-1|afschuwelijk; vreselijk|prachtig
+3762-1|homo|heteroseksueel
+3762-2|homo|heteroseksueel
+3763-1|ondiep; vluchtig|diepgaand; grondig
+3764-1
+3765-1|hulpje; instrument
+3766-1|bedaren; geruststellen|opwinden
+3767-1|levend wezen
+3768-1|dienaar; arbeider|meester
+3769-1|nadrukkelijk; expliciet|impliciet
+3770-1|realiseren; uitvoeren
+3771-1|beheersen; overheersen|ondergaan
+3772-1|begerig; enthousiast|ongeïnteresseerd|c
+3773-1|onbeschoft; vrijpostig|beleefd; verlegen
+3774-1|transparant; helder|ondoorzichtig
+3775-1|algemeen; ruw|gedetailleerd; precies
+3776-1|zorgverlener; helper
+3777-1|onecht; synthetisch|natuurlijk; echt
+3778-1|afpakken; beroven|geven
+3779-1|bekendmaken; melden
+3780-1|veld
+3781-1|knagen||c
+3782-1|handelaar|klant
+3783-1|godgeleerdheid
+3784-1|opwarmen; stoken|afkoelen
+3785-1|vijandelijk; onvriendelijk|vriendelijk
+3786-1|dom; gek|wijs
+3787-1|ambtenaar; beambte
+3788-1|machteloos; weerloos|zelfredzaam
+3789-1|kijker; omstander|deelnemer
+3790-1
+3791-1|||i
+3792-1|maximaal; hooguit|minstens
+3793-1|prefereren; kiezen||p|boven ~ iets verkiezen boven iets ~ Ik verkies thee **boven** koffie. ~ I prefer tea to coffee.
+3794-1|kleineren; beschamen|eren
+3795-1|productief|onvruchtbaar
+3796-1|klingelen; bellen
+3797-1
+3798-1|hinderen; tegenhouden|bevorderen
+3799-1|toebehoren; bereiken||p,c|aan ~ toekomen aan iets ~ Ik kom niet toe **aan** lezen. ~ I don't get round to reading.
+3800-1|zicht; aanzien
+3801-1|afstappen; kwijtraken||p,c,i|op ~ afkomen op iets ~ Veel mensen kwamen **op** het feest af. ~ Many people came to the party.
+3802-1|bezwaren; beladen|ontlasten|p|met ~ belast zijn met iets ~ Zij is belast **met** de organisatie. ~ She is in charge of the organization.
+3803-1|beargumenteren; demonstreren
+3804-1|mensen
+3805-1|streven naar
+3806-1|geven; uitreiken|ontvangen
+3807-1|destijds; van toen|huidig
+3808-1|bepalen; opleggen
+3809-1|toezien; letten||p,p|over ~ waken over iemand ~ De moeder waakt **over** haar kind. ~ The mother watches over her child.
+3810-1|aanraden|afraden
+3811-1|||i
+3812-1|verplaatsen; uitstellen
+3813-1|stappen||i
+3814-1|meneer
+3815-1|gewenst; raadzaam|ongewenst
+3816-1|modern; huidig|ouderwets; historisch
+3817-1|koud; fris|warm
+3818-1
+3819-1|achterwerk||i,i
+3820-1|typerend; kenmerkend|ongewoon
+3821-1|ontsnappen; losbarsten||c,c
+3822-1|bedenken; ontdekken
+3823-1|eerder; liever
+3824-1|afwijzen; weigeren|aannemen
+3825-1|activiteit; werk|nietsdoen
+3826-1|helemaal niet|zeker
+3827-1|blazen||i
+3828-1|bijvullen; completeren
+3829-1|kortom; nou ja
+3830-1|overleg; gesprek
+3831-1
