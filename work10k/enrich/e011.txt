@@ -1,0 +1,100 @@
+0898-1|mijn
+0899-1|Brits
+0899-2
+0900-1|uitwerking; gevolg|oorzaak
+0901-1|kant; zoom|midden|c
+0902-1|bouwwerk; pand
+0903-1|begrenzen|uitbreiden|p|tot ~ zich beperken tot iets ~ Ik beperk me **tot** de feiten. ~ I'll stick to the facts.
+0904-1|asem||c,c
+0905-1|tenminste
+0906-1|vel
+0907-1|opschrikken||p,c|van ~ schrikken van iets ~ Ik schrok **van** het geluid. ~ I was startled by the noise.
+0908-1|natuurlijk; vanzelfsprekend
+0909-1|woud; bundel
+0910-1|gewas
+0911-1|doen; verrichten|invoeren|c;+uitvoeren=p
+0912-1|kalmte; stilte|onrust; drukte|c,c
+0913-1|artikel; voortbrengsel
+0914-1|beleven; meemaken
+0914-2|bedreven|onervaren
+0915-1|voorval
+0916-1|nachtrust||i,c
+0917-1|zegswijze
+0918-1|||c
+0919-1|boos|blij|p,c|op ~ kwaad zijn op iemand ~ Ze is kwaad **op** haar broer. ~ She's angry with her brother.
+0919-2|slechtheid|goed|c,i
+0920-1|strekking; volume||c
+0921-1|terwijl
+0922-1|plotseling; opeens|geleidelijk
+0923-1|smakelijk; heerlijk|vies|c
+0924-1|centrum|rand|c,c
+0925-1|tekstje
+0926-1|stellen; zeggen|ontkennen
+0927-1
+0928-1|||c
+0929-1|mobiel||c
+0930-1|kosten; waard zijn||c
+0930-2|uitgaven|opbrengsten|c
+0931-1|doel; plan
+0932-1|spelen; ingrijpen||p;+optreden=p|tegen ~ optreden tegen iets ~ De politie trad op **tegen** de relschoppers. ~ The police took action against the rioters.
+0932-2|voorstelling; actie
+0933-1|klein; weinig|groot
+0934-1
+0935-1|persoonlijk|collectief
+0936-1|opbouw
+0937-1|boek
+0938-1|lukken; halen|zakken; mislukken|p,p|voor ~ slagen voor een examen ~ Hij is geslaagd **voor** zijn rijexamen. ~ He passed his driving test.
+0939-1|waarneembaar|onzichtbaar
+0940-1|inwoners; volk
+0941-1|inwoner|soldaat
+0942-1|cirkel||c
+0943-1|grauw
+0944-1|meemaken; ervaren
+0945-1|naast elkaar zetten||p|met ~ iets vergelijken met iets ~ Je kunt appels niet **met** peren vergelijken. ~ You can't compare apples with oranges.
+0946-1|leiding; directie
+0947-1|zaak; vraag||c,c
+0948-1|religie; vertrouwen|ongeloof
+0949-1|afwijzen|aannemen; accepteren
+0950-1|mogelijk; desnoods
+0951-1|half||c
+0952-1|poëet|
+0953-1|keus||c
+0954-1|kant||c
+0955-1|uitgezonderd||c
+0956-1|verplichten
+0957-1|uitvoeren; doen
+0958-1|spoed|rust|c,c
+0958-2|bijna
+0959-1|arriveren|vertrekken; afvallen|p,c;+aankomen=p|op ~ het komt aan op iets ~ Het komt **op** goede samenwerking aan. ~ It comes down to good cooperation.
+0960-1
+0961-1|eis; conditie||c,c
+0962-1|geloven; rekenen op|wantrouwen|p|op ~ vertrouwen op iemand ~ Ik vertrouw **op** jou. ~ I'm counting on you.
+0962-2|geloof|wantrouwen|p,c
+0963-1|||c
+0964-1|grijpen; pakken|missen; loslaten
+0965-1|net als; zoals
+0966-1|handig; zo goed als|onpraktisch
+0967-1|aantonen|weerleggen|c
+0968-1|erbij halen; intrekken||p|bij ~ iemand betrekken bij iets ~ We betrekken de bewoners **bij** het plan. ~ We're involving the residents in the plan.
+0969-1|duidelijk; licht|vaag; troebel
+0970-1|zo meteen; later|eerder
+0971-1||winter|c
+0972-1|uitlating; vonnis||c
+0973-1|vereiste; verlangen||c
+0974-1||overal|c
+0975-1|morgen|avond|c,c
+0976-1|gebied; truc||i
+0977-1|zegevieren|verliezen
+0978-1|bepalen; constateren||;+vaststellen=p
+0979-1|fit; wel|ziek; ongezond
+0980-1|suggestie||c
+0981-1|slagen|mislukken
+0982-1|accepteren; aanstellen|weigeren|c;+aannemen=p
+0983-1|zweven; voeren|zinken|c,c
+0984-1|aantal; hoeveelheid
+0985-1|noemen
+0986-1|dankbaarheid|ondank|c,c
+0987-1|besluit; slot||c
+0988-1|zuigeling
+0989-1|zeker|gevaarlijk; onveilig
+0990-1
