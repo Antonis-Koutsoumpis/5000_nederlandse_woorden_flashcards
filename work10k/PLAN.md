@@ -32,3 +32,5 @@ Progress log at bottom.
 - Follow-up scheduled: trig_01Ybi5hbMBF7ZTaao3nK4Woe at 2026-11-07T21:08Z. Push works (branch wip-10k-expansion).
 - App updated (YouGlish, expression labels, synonyms/antonyms, Fixed prepositions tab) — committed on wip branch; app tolerates missing new columns.
 - enrich e001 done (format: id|syn|ant|types|prep ~ phrase ~ nl ~ en; check with enrichlib.py check N; save with ./save.sh)
+- 2026-11-07: ENRICHMENT COMPLETE — e001..e051 all validated and pushed (all 5,032 existing rows).
+- Next: new 10k lemmas (Task 12) -> work10k/newwords/, then assemble.py (Task 13).
