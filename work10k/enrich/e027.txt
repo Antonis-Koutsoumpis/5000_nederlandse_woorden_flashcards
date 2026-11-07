@@ -1,0 +1,100 @@
+2516-1|zich mengen in||p|met ~ zich bemoeien met iets ~ Bemoei je niet **met** mijn zaken! ~ Mind your own business!
+2517-1|verder lopen; doornemen|stoppen
+2518-1|mislukken; tekortschieten|slagen
+2519-1|glibberig; effen|stroef; ruw|c,c
+2520-1
+2521-1|minpunt; schaduwkant|voordeel|c,c|van ~ ten nadele van iemand ~ Dat is ten nadele **van** de klant. ~ That is to the customer's disadvantage.
+2522-1|begrijpen; vatten
+2523-1|twee keer|eenmaal
+2524-1|gewelddadig; vijandig|vreedzaam
+2525-1|duidelijk; logisch|onbegrijpelijk
+2526-1
+2527-1|ruw; onbeleefd|fijn; beleefd|c,c
+2528-1|gast|gastheer
+2529-1|plezier; vreugde|ergernis|p,c|met ~ genoegen nemen met iets ~ Ik neem genoegen **met** een tweede plaats. ~ I'll settle for second place.
+2530-1|verstand|domheid
+2531-1|stijgen; toenemen|dalen|c,c
+2532-1|||i,i
+2533-1|nerveus; gespannen|kalm; rustig
+2534-1|wit|zwart; gekleurd|c
+2535-1|bestuur; leiding|personeel
+2536-1
+2537-1|slim; verstandig|dom
+2538-1|geneesmiddel; medicament||c
+2539-1||vloer
+2540-1|buitengewoon; uniek|gewoon
+2541-1|definitief; voor altijd|tijdelijk
+2542-1|voorzeggen; verwachten
+2543-1|transpiratie||c
+2544-1|volbrengen; doen||c,p|tegen ~ het afleggen tegen iemand ~ Hij legde het af **tegen** zijn rivaal. ~ He lost to his rival.
+2545-1
+2546-1|einder
+2547-1|hulp; zorg
+2548-1|introductie; voorwoord|slot; conclusie
+2549-1|volk; land
+2550-1|treurig; ongelukkig|gelukkig; blij|c
+2551-1|streng; nauwgezet|soepel; los|c
+2552-1|afwisselen; verschillen
+2553-1|verplaatsen; uitstellen||p,i|tegen ~ zich verzetten tegen iets ~ Ze verzetten zich **tegen** het plan. ~ They resist the plan.
+2554-1|oma|kleindochter
+2555-1|tussenbeide komen|toekijken
+2556-1|||i,i
+2557-1|stoffelijk|geestelijk
+2557-2|uitrusting
+2558-1|buis||i,i
+2559-1|sentimenteel|zakelijk
+2560-1|staf; paal||i,i|met ~ het aan de stok hebben met iemand ~ Hij heeft het aan de stok **met** de buren. ~ He's at odds with the neighbors.
+2561-1|koord||i,c
+2562-1|innovatie; renovatie|verouderen
+2563-1|innemen; winnen|verliezen
+2564-1|voordat; eer|nadat
+2565-1|vergezellen; leiden
+2566-1|focussen||p|op ~ zich concentreren op iets ~ Ik concentreer me **op** mijn werk. ~ I concentrate on my work.
+2567-1||dictatoriaal
+2568-1|komen; raken
+2569-1|massa; mensenmassa
+2570-1|andersom; ondersteboven|normaal|c
+2571-1|publiekelijk; open|heimelijk; stiekem
+2572-1|privé|openbaar; publiek
+2572-2|burger|bedrijf
+2573-1|vergroten; verbreden|inkrimpen
+2574-1|uitdrukken; zeggen|verzwijgen|p
+2575-1|tenue
+2575-2|eenvormig; gelijk|gevarieerd
+2576-1|hevig; diep|oppervlakkig
+2577-1|andere kant
+2578-1|lijmen|losmaken|c,c
+2579-1|proeven||p,i|naar ~ smaken naar iets ~ Dit smaakt **naar** aardbeien. ~ This tastes of strawberries.
+2580-1|ontmoeten; aantreffen
+2581-1|behalve||p|van ~ afgezien van iets ~ Afgezien **van** het weer was het leuk. ~ Apart from the weather it was fun.
+2582-1|wijzen; interpreteren||p,p|op ~ duiden op iets ~ Alles duidt **op** een ongeluk. ~ Everything points to an accident.
+2583-1|neutraal; zakelijk|subjectief
+2584-1|pakketje; kostuum||c
+2585-1|||i,i
+2586-1|vreselijk; afgrijselijk|prachtig
+2587-1|natuurlijk; bio|kunstmatig
+2588-1|afknippen||c,p|voor ~ geknipt zijn voor iets ~ Jij bent geknipt **voor** deze baan. ~ You're perfect for this job.
+2589-1|rond; ongeveer
+2590-1|psychotherapeut
+2591-1|gelovig; vroom|wereldlijk; ongelovig
+2592-1|hoop; berg||c,c
+2593-1|verklikken; prijsgeven|trouw blijven
+2594-1|Nederlands
+2595-1|bureaucratisch
+2596-1|nederzetting
+2597-1|rommel; dingen
+2598-1|vuur||c
+2599-1||achterdeur
+2600-1|aanspreken; naderen|vermijden
+2601-1|vermogen; geld
+2602-1|verouderd|modern
+2603-1|hartslag||i
+2604-1|ademhalen||p
+2605-1|drup||i
+2606-1|etcetera
+2607-1|officieel; vormelijk|informeel
+2608-1|netjes; verzorgd|slordig|c
+2609-1|viriel|vrouwelijk
+2610-1|onnodig; nutteloos|noodzakelijk
+2611-1
+2612-1

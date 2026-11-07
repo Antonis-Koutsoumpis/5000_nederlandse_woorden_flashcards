@@ -80,7 +80,7 @@
 2495-1|personeel; stok
 2496-1|aarzelen|zeker zijn|p|aan ~ twijfelen aan iets ~ Ik twijfel **aan** zijn eerlijkheid. ~ I doubt his honesty.
 2497-1|eten geven; voeden|uithongeren|c,p
-2498-1|zuiden-|noordelijk
+2498-1||noordelijk
 2499-1|gemeenschappelijk|individueel
 2500-1|logboek
 2501-1|||p,i
