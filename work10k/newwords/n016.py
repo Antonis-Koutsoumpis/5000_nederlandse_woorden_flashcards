@@ -175,7 +175,7 @@ ROWS = [
       "De oorlog leidde tot de **vernietiging** van de stad.", "The war led to the **destruction** of the city.",
       "De **vernietiging** van het regenwoud gaat door.", "The **destruction** of the rainforest continues.",
       syn="verwoesting", ant="opbouw"),
-    N("universum", "universe", "het", "universums", "/ynivɛrsʏm/", "u·ni·VER·sum",
+    N("universum", "universe", "het", "universums", "/yniˈvɛrsʏm/", "u·ni·VER·sum",
       "Het **universum** is oneindig groot.", "The **universe** is infinitely large.",
       "Hij leeft in zijn eigen **universum**.", "He lives in his own **world**.",
       syn="heelal; kosmos"),
