@@ -57,3 +57,10 @@ mm: abbreviation
 produktie: old spelling of productie (in list)
 hét: emphatic spelling of 'het'
 ruimtelijke: ruimtelijk already in list
+steeg: past of stijgen (in list)
+kg, cp: abbreviations
+zelfstandigen: plural noun of zelfstandig (in list)
+verrassende: inflected form
+ein: German
+voorop: in list as part of other entries? (skipped: low value)
+ge: dialect/abbreviation
