@@ -1,0 +1,100 @@
+2227-1|dreiging|bescherming
+2228-1|voorkant|achterkant|i
+2229-1|omvang; maat
+2230-1|nationaal; plattelands|stedelijk; internationaal
+2231-1|plaatselijk|landelijk
+2231-2|klaslokaal; zaal
+2232-1|vreemd; onbekend|bekend|p|met ~ onbekend zijn met iets ~ Ik ben onbekend **met** deze regels. ~ I'm unfamiliar with these rules.
+2233-1|herkomst; bron|einde
+2234-1|echtscheiding; splitsing|huwelijk; vereniging
+2235-1|verblijfplaats; logies
+2236-1|vanaf nu|vroeger
+2237-1|aangaande; over
+2238-1||ziend|c,c
+2239-1|toen; vroeger|nu
+2240-1|ehm
+2241-1|||c,p
+2242-1|twijfelachtig; onzeker|zeker
+2243-1|hemellichaam
+2244-1|||i
+2245-1|angst|moed|c|voor ~ uit vrees voor iets ~ Hij zweeg uit vrees **voor** straf. ~ He kept quiet for fear of punishment.
+2246-1|kameraadschap|vijandschap|c
+2247-1|hoop; rommel||c,c,i
+2248-1|jacht; achtervolging||c,c|op ~ jacht maken op iemand ~ De politie maakt jacht **op** de dief. ~ The police are hunting the thief.
+2248-2|zeiljacht
+2249-1|keuze; optie||c
+2250-1|soort; stam
+2251-1|heiligdom
+2252-1|kroeg; zaak||i
+2253-1|optrekken; vermeerderen|verlagen
+2254-1|gezondheid; geluk|ellende
+2255-1|waardering; acceptatie|miskenning
+2256-1|afgunstig|tevreden|p|op ~ jaloers zijn op iemand ~ Hij is jaloers **op** zijn broer. ~ He is jealous of his brother.
+2257-1|bedoeling; plan|toeval|c,c
+2258-1|bewering; these||c|tegen ~ stelling nemen tegen iets ~ De bewoners nemen stelling **tegen** het plan. ~ The residents take a stand against the plan.
+2259-1|geluk; samenloop|opzet|c
+2260-1
+2261-1|baas|werknemer
+2262-1|einde; uitslag|begin|c,c
+2263-1|beschonken|nuchter
+2264-1|kwetsbaar; teer|ongevoelig|p|voor ~ gevoelig zijn voor iets ~ Ze is gevoelig **voor** kritiek. ~ She is sensitive to criticism.
+2265-1|zittend|staand
+2266-1|grafsteen
+2267-1|brein
+2268-1|toets; schakelaar
+2269-1|vorstelijk
+2270-1|glimlach|traan|i
+2271-1|ontlenen; uitlenen||p,p|van ~ iets lenen van iemand ~ Mag ik een pen **van** je lenen? ~ Can I borrow a pen from you?
+2272-1|mensen
+2273-1|koekenpan||i
+2274-1|aanmoedigen; prikkelen|ontmoedigen; remmen
+2275-1|uitbreiden; vermeerderen|verkleinen
+2276-1|sluiten; beëindigen|openen|c
+2277-1|baas; leider|ondergeschikte|c
+2278-1|kopie; stuk
+2279-1|inlichten; navragen||p|naar ~ informeren naar iets ~ Ze informeerde **naar** de prijs. ~ She asked about the price.
+2280-1|noodzaak; ellende|overvloed|c,c
+2281-1|vooruitzicht; standpunt
+2282-1|nieuw; onlangs|oud
+2283-1|dom; suf|slim|i
+2284-1|snelheid; vaart||c
+2285-1|van tevoren|achteraf
+2286-1|bouw; talent||c|voor ~ aanleg hebben voor iets ~ Hij heeft aanleg **voor** talen. ~ He has a gift for languages.
+2287-1|toestel; machine
+2288-1|doeltreffend|ineffectief
+2289-1
+2290-1
+2291-1|gang; zaal
+2292-1|warm; vriendelijk|koel; afstandelijk|c
+2293-1|herinneren; achterhouden|vergeten|p|van ~ zich onthouden van iets ~ Hij onthield zich **van** commentaar. ~ He refrained from comment.
+2294-1|doek; schildering
+2295-1
+2296-1
+2297-1|bevelhebber
+2298-1|vierde||c
+2299-1|opgeven; staken|volhouden|p,c|voor ~ zich opgeven voor iets ~ Ik heb me opgegeven **voor** de cursus. ~ I've signed up for the course.
+2300-1|test; experiment||c,i
+2301-1|wijzigen; passen||p|aan ~ zich aanpassen aan iets ~ Ik moet me aanpassen **aan** de nieuwe regels. ~ I have to adapt to the new rules.
+2302-1|||c
+2303-1|speler; kandidaat|toeschouwer
+2304-1|imposant|onbeduidend
+2305-1
+2306-1|vlak; ordinair|bol|c,p
+2307-1|snelheid; vaarweg||c,c,c
+2308-1|nieuw|oud; bedorven|i
+2308-2|strofe||c
+2309-1|reserve||c,c
+2310-1|||i
+2310-2|zilt|zoet
+2311-1|benieuwd|onverschillig|p|naar ~ nieuwsgierig zijn naar iets ~ Ik ben nieuwsgierig **naar** het einde. ~ I'm curious about the ending.
+2312-1|schema; rooster
+2313-1|werkwijze; gang van zaken
+2314-1|kosten; editie|inkomst
+2315-1|verschuiven; uitstellen||p,p
+2316-1|smerig; vies|schoon
+2316-2|afval; viezigheid||c,c
+2317-1|erkenning; beoordeling|minachting
+2318-1|wisseling; oversteek
+2319-1|lente|najaar
+2320-1|tochtje||c
+2321-1|||c,c
