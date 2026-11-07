@@ -140,3 +140,15 @@ doorgedreven: Flemish participle (thorough)
 sind: German
 afgewerkte, intensieve, geblokkeerd, voorgenomen: inflected forms/participles
 potten, kwartetten: plural/verb artefacts
+groeipotentieel, emissieprijs, boekwaarde, afloopdatum: jargon
+ondermeer: variant of 'onder meer'
+verlengd, exacte, onderste: inflected forms / participles
+website: duplicate candidate
+denn, bei, um, jetzt, zum, nur: German
+wijl: archaic
+zélf: emphatic spelling
+kleintje, plaatje: diminutives
+gedetineerden: plural noun
+nakende, eender: Flemish (imminent / any)
+reglementering: jargon
+chique: added as chic
