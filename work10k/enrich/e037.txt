@@ -1,0 +1,100 @@
+3536-1|wagen; karretje||i
+3537-1|bepleiten; verdedigen||p|voor ~ pleiten voor iets ~ Dit pleit **voor** een nieuwe aanpak. ~ This argues for a new approach.
+3538-1|ceremonie; gebruik
+3539-1|uiterlijk; geest
+3540-1|kwadraat|rond|c,i
+3541-1|methode; aanpak
+3542-1|toeschrijven; de schuld geven||p,p|aan ~ te wijten zijn aan iets ~ De vertraging is te wijten **aan** het weer. ~ The delay is due to the weather.
+3543-1|vrijzinnig; ruimdenkend|conservatief
+3544-1|ach||c
+3545-1|||i
+3546-1|kleed; vloerkleed
+3547-1|oppassen; verlangen||p,p|naar ~ uitkijken naar iets ~ Ik kijk uit **naar** de zomer. ~ I'm looking forward to the summer.
+3548-1|uitsturen; zenden||c
+3549-1|zoenen; minnen||p
+3550-1|achterdocht; argwaan|vertrouwen
+3551-1|bouwen; afmeren||i,i
+3552-1|gekwalificeerd; gemachtigd|onbevoegd
+3553-1|kleurig; veelkleurig|eenkleurig|i,i
+3553-2|pels
+3554-1|navolgen; vervangen
+3555-1||dwerg|c
+3556-1|sproeien; injecteren
+3557-1
+3558-1|pluim; springveer||i,i
+3558-2|pont; veerboot
+3559-1|eer; trots|vernedering
+3560-1|gezelschap; bedrijf
+3561-1|goede eigenschap|ondeugd|i,i
+3562-1|moraal; zedenleer
+3563-1|verlichting|spanning
+3564-1||linkerhand
+3565-1|fundamenteel; blijvend|incidenteel
+3566-1|zwijn||i
+3567-1|diversiteit; variatie|eenvormigheid
+3568-1|storen; onderbreken
+3569-1|voordeel; nut|schade|c,c|bij ~ baat hebben bij iets ~ Ik heb baat **bij** deze therapie. ~ This therapy benefits me.
+3570-1|terechtkomen; uitkomen
+3571-1|beklemtonen; onderstrepen|bagatelliseren
+3572-1|wetenschapper; onderzoeker|leek|i
+3573-1|tovenares||c
+3574-1|betoverend|alledaags
+3575-1|wegsturen; ontheffen|aannemen|p
+3576-1|schoonmaken; borstelen||i
+3577-1|maken; samenvoegen||p|uit ~ samengesteld zijn uit iets ~ Het team is samengesteld **uit** experts. ~ The team is made up of experts.
+3578-1|vies; vuil|schoon
+3579-1|prognose; verwachting
+3580-1
+3581-1|oorkonde; document||c
+3582-1|knecht; medewerker|baas
+3583-1|aanklacht; verwijt
+3584-1|innemen; vullen|vrijlaten; ontruimen
+3585-1|krijgen; verwerven||c,c
+3586-1|zegel||c|op ~ zijn stempel drukken op iets ~ Zij drukte haar stempel **op** het project. ~ She left her mark on the project.
+3587-1|verwachting; perspectief||c
+3588-1|zonneschijn|duisternis
+3589-1|advies; voordracht||c
+3590-1
+3590-2|heel; geheel
+3591-1|afzonderen; afschermen|verbinden
+3592-1|werking; systeem
+3593-1|uitrekenen; aanrekenen||p
+3594-1|teken; bewijs||c|van ~ blijk geven van iets ~ Hij gaf blijk **van** veel moed. ~ He showed great courage.
+3595-1|langdurig; aanhoudend|acuut
+3596-1|lankmoedig|ongeduldig|i
+3597-1|gelijk; precies hetzelfde|verschillend
+3598-1|buurt; omgeving|verte
+3599-1|priester
+3600-1|platform
+3601-1
+3602-1|terugkrijgen; herkennen|verliezen|p|in ~ zich terugvinden in iets ~ Ik vind me terug **in** zijn verhaal. ~ I recognize myself in his story.
+3603-1|belicht; opgelucht|donker
+3604-1|permitteren||c
+3605-1|gebruiken; aanwenden|verspillen
+3606-1|nationaal; inlands|buitenlands
+3607-1|en dergelijke
+3608-1|redding; welzijn|onheil|i,i
+3609-1|zijdelings|direct
+3610-1|beweeglijk; kleurrijk|saai; dof
+3611-1|meekomen; duren|thuisblijven|p
+3612-1|onder de grond|bovengronds
+3613-1
+3614-1|ongewild; onwelkom|gewenst
+3615-1|bekendmaken; blootleggen|verbergen; verhullen
+3616-1|zeldzaam; karig|overvloedig
+3617-1|uitdrukkelijk; duidelijk|impliciet
+3618-1|||c
+3619-1|open haard||i
+3620-1|troep; groep
+3621-1|spijker||i
+3622-1|noodzakelijk; essentieel|overbodig
+3623-1|vermijden; ontlopen|opzoeken
+3624-1|vrolijk; monter|somber
+3625-1|genegenheid; meeleven|antipathie
+3626-1|droevig; verdrietig|vrolijk
+3627-1|uitzetten; afleveren|aanzetten|p,c|tegen ~ zich afzetten tegen iets ~ Jongeren zetten zich af **tegen** hun ouders. ~ Young people rebel against their parents.
+3628-1
+3629-1|||i
+3630-1
+3631-1|toch; echter
+3632-1|stoppen; overdenken|bewegen|p,i|bij ~ stilstaan bij iets ~ We moeten even **bij** dit punt stilstaan. ~ We need to dwell on this point for a moment.
