@@ -1,0 +1,100 @@
+1185-1
+1186-1|boosheid; razernij|kalmte
+1187-1|verlangen||c
+1188-1
+1189-1
+1190-1|stemming
+1191-1|oorsprong||c
+1192-1|welgesteld|arm|p|aan ~ rijk zijn aan iets ~ Sinaasappels zijn rijk **aan** vitamine C. ~ Oranges are rich in vitamin C.
+1193-1|pils||c
+1194-1|steeds; aldoor|af en toe
+1195-1|rechtop||p,p
+1196-1|afreis; kamer|aankomst
+1197-1||nat|c
+1198-1|medewerker
+1199-1|stoppen; tegenhouden|doorgaan|p;+ophouden=p|met ~ ophouden met iets ~ Hou op **met** zeuren! ~ Stop whining!
+1200-1|bij toeval|opzettelijk
+1201-1|prima; voortreffelijk|slecht
+1202-1|eerst|uiteindelijk
+1203-1|aanwijzing; bewijsstuk||c,c
+1204-1|bekijken; houden voor||p;+aanzien=p|voor ~ iemand aanzien voor iemand anders ~ Ik zag hem aan **voor** zijn broer. ~ I mistook him for his brother.
+1204-2|prestige; status||c,c
+1205-1
+1206-1|daad; campagne||c,c
+1207-1|plaat; bordje||c
+1208-1|groep||c
+1209-1|terugkeren|weggaan|p;+terugkomen=p|op ~ terugkomen op iets ~ Ik kom later **op** die vraag terug. ~ I'll come back to that question later.
+1210-1|jonge jaren|ouderdom|c
+1211-1|lol; genoegen|verdriet|c,c
+1212-1|voorliefde||c,c|aan ~ de voorkeur geven aan iets ~ Ik geef de voorkeur **aan** thee. ~ I prefer tea.
+1213-1|hakken||p
+1214-1|net; proper|vies|p,i
+1215-1
+1216-1|ondergrond|voorgrond|c
+1217-1
+1218-1
+1219-1|fysiek|geestelijk
+1220-1|begaan; doen||c,c
+1221-1|plicht||c
+1222-1|kenmerk; trek
+1223-1|methode; technologie
+1224-1|strijden||p,p|tegen ~ vechten tegen iets ~ Hij vecht **tegen** kanker. ~ He's fighting cancer.
+1225-1
+1226-1
+1227-1|weg; paadje||c
+1227-2
+1228-1|alarmeren||p,c|voor ~ waarschuwen voor iets ~ Ze waarschuwde me **voor** de hond. ~ She warned me about the dog.
+1229-1|eigendom||c
+1230-1|geldelijk
+1231-1|schetsen; ondertekenen||p
+1232-1|klaarmaken; koken
+1233-1|||c,i
+1234-1|gebeuren||;+plaatsvinden=p
+1235-1|sturen; bewerken
+1236-1|daad; actie
+1237-1|bedrijvig|passief; lui
+1238-1|sparen; bijeenbrengen|verspreiden|p
+1239-1|vent
+1240-1|auto; kar
+1240-2|durven||p,p|aan ~ zich wagen aan iets ~ Ik waag me niet **aan** die klus. ~ I won't venture into that job.
+1241-1|draaien||p|tot ~ zich wenden tot iemand ~ U kunt zich wenden **tot** de balie. ~ You can contact the desk.
+1242-1|onbekende|bekende|i
+1243-1|tastbaar; specifiek|abstract; vaag
+1244-1|werkman|werkgever
+1245-1|kostuum; pakket||i,i
+1246-1
+1247-1|enzovoort
+1248-1|fijn; aangenaam|onaangenaam
+1249-1
+1250-1|||c
+1250-2|verborgen|openbaar; bekend
+1251-1|baar
+1251-2
+1252-1|vers
+1253-1|toestel||c
+1254-1|lichaam||i
+1255-1|helder; heftig|zacht; dof|c
+1256-1|toename|krimp
+1257-1|weerstand|instemming|c
+1258-1|terugkomen|vertrekken|;+terugkeren=p
+1259-1|kracht
+1260-1|vochtig|droog
+1261-1
+1262-1|kostbaar|goedkoop
+1262-2|tijdsduur||c,c
+1263-1|fuif||c
+1264-1|zeilen||i
+1265-1|tegenstander|vriend
+1266-1|hoop||i,c
+1267-1|eerder
+1268-1|geven; toekennen|weigeren|c,c
+1269-1|principe||c
+1270-1|ondertussen; intussen
+1271-1|ruilen; vervangen
+1272-1|zeker; beslist|twijfelachtig
+1273-1|prevelen|roepen
+1274-1|bijeenkomst; overleg
+1275-1|aanwijzen; geven||c;+aangeven=p
+1276-1|commercie||c,c
+1277-1|||i
+1278-1|zaak||c
