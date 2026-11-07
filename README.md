@@ -1,8 +1,8 @@
 # 5000 Nederlandse woorden — flashcards
 
-A Streamlit app for practicing the 5,000 most frequent Dutch words with flashcards.
+A Streamlit app for practicing the most frequent Dutch words with flashcards.
 
-The word list is based on the Hazenberg & Hulstijn frequency list. Every entry has an English translation, grammar information, IPA pronunciation, and two example sentences with translations.
+The word list started from the Hazenberg & Hulstijn frequency list (5,000 words) and is ordered by the [10,000 most used words in Dutch](https://github.com/Fonzie-byte/10_000-most-used-words-in-Dutch) list, which also supplied new words. Every entry has an English translation, grammar information, IPA pronunciation, two example sentences with translations, and, where they exist, easy synonyms and antonyms.
 
 The repository is linked with the Streamlit app [5000 Nederlandse woorden](https://5000-nederlandse-woorden-flashcards.streamlit.app/).
 
@@ -17,9 +17,13 @@ The repository is linked with the Streamlit app [5000 Nederlandse woorden](https
   - nouns: de/het and plural
   - adjectives: -e form, comparative, superlative
   - verbs: present (ik), past (ik), past participle with hebben/zijn
-  - fixed combinations and er/het expressions
+  - fixed combinations, each labeled as an idiom, phrasal verb or collocation, and er/het expressions
+  - the fixed preposition, if the word has one (e.g. *deelnemen **aan** iets*)
+  - up to two easy Dutch synonyms and antonyms
   - pronunciation (IPA + stressed syllable)
   - two example sentences with the target word in **bold** in both Dutch and English
+- **Hear it in real conversations:** every card links to [YouGlish](https://youglish.com/dutch) with Netherlands (NL) pronunciation, for the word and for each fixed expression. YouGlish works best for single words; for phrases the results may be inaccurate, and the card says so.
+- **Fixed prepositions exercise:** a separate tab with multiple-choice questions. Each question shows the expression with a blank (e.g. *deelnemen ___ iets*), its English meaning and an example sentence with the same blank, plus four prepositions to choose from. *Check answers* shows your score and the correct answers; *New exercise* draws new questions. The exercise uses the frequency range and filters from the sidebar.
 - **Search:** type any Dutch word (e.g. *voorkomen*) to look it up in the full list. Inflected forms also work (*liep* finds *lopen*, *huizen* finds *huis*), accents are optional, and you can tick *Also English* to search the translations. Search ignores the practice filters; clear the box to return to your flashcards.
 - **Filters:** estimated level (one or more), grammatical function (one or more), de/het nouns, regular/irregular verbs, separable or reflexive verbs, words with a fixed combination, expressions with er/het, and an option to hide offensive words.
 
@@ -33,7 +37,7 @@ The level is **not** stored in the CSV; the app derives it from the frequency ra
 | A2 | 751–1500 |
 | B1 | 1501–2500 |
 | B2 | 2501–3750 |
-| C1 | 3751 and higher |
+| C1 | 3751 and higher (everything above the B2 cutoff, including all words beyond the original 5,000) |
 
 This is a rough guide, not an official CEFR classification. Frequency and difficulty don't always match: some everyday words are relatively rare in corpora (e.g. *ontbijt*, rank 2103, B1), and some frequent words are formal (e.g. *derhalve*). The level filter is combined with the frequency range, so choose *All words* as the range to filter on level alone. To change the cutoffs, edit `LEVEL_CUTOFFS` in `app.py`.
 
@@ -56,39 +60,51 @@ The app opens at http://localhost:8501.
 2. Go to [share.streamlit.io](https://share.streamlit.io), click **Create app**, and choose this repository.
 3. Set the main file path to `app.py` and deploy.
 
+## How the list is ordered
+
+1. **10k list position.** Each word is placed at its position in the 10k list. The 10k list contains word forms, not dictionary forms, so the forms were lemmatized (with [simplemma](https://github.com/adbar/simplemma)) and a word gets the *best* position of any of its forms (*liep*, *lopen* and *loopt* all count for *lopen*). Where the 5000 list and the 10k list disagree, the 10k list wins.
+2. **Words not in the 10k list** (about a quarter of the original words) are kept. Their position is estimated from their old rank: a word gets the typical 10k position of words that had a similar old rank. This keeps, for example, everyday words that are rare in the news-based 10k list in a sensible place instead of moving them all to the end.
+3. **New words** from the 10k list that were not in the 5000 list are added at their 10k position. Names, brands, foreign words, abbreviations of web addresses and single letters were left out.
+4. All words are then numbered 1, 2, 3, … The column `source` tells you which list(s) a word comes from.
+
+The 10k list was built from Belgian (Flemish) newspaper and financial texts, so business and news vocabulary ranks higher than in everyday speech. That is why the estimated level is only a rough guide.
+
 ## Project structure
 
 ```
 .
-├── app.py              # Streamlit interface
+├── app.py              # Streamlit interface (flashcards tab and fixed-prepositions tab)
 ├── vocab.py            # loading, filtering, sampling, bolding (no Streamlit)
-├── merge_batches.py    # combines data/batches/*.csv into data/5000_woorden.csv
 ├── data/
-│   ├── 5000_woorden.csv   # the merged word list (see below)
-│   ├── codebook.md        # what every column in 5000_woorden.csv means
-│   └── batches/           # batch_001.csv = ranks 1-100, batch_002.csv = 101-200, ...
+│   ├── woorden.csv     # the word list (see below)
+│   └── codebook.md     # what every column in woorden.csv means
+├── work10k/            # scripts and source files used to build woorden.csv
+│   ├── PLAN.md         # decisions and progress log
+│   ├── base_5000.csv   # the original 5000 list (frozen copy)
+│   ├── build_rank.py, estimate.py, filter_new.py   # 10k positions and new-word candidates
+│   ├── enrich/         # synonyms, antonyms, expression types, prepositions for existing words
+│   ├── newwords/       # full entries for new words from the 10k list
+│   └── assemble.py     # builds data/woorden.csv
 ├── requirements.txt
 └── README.md
 ```
 
-## Adding new batches
-
-Put new batch files in `data/batches/` and run:
+## Rebuilding the data file
 
 ```bash
-python merge_batches.py
+python work10k/assemble.py
 ```
 
-This rebuilds `data/5000_woorden.csv` (sorted by rank, checked for duplicate ids). To use another output name: `python merge_batches.py data/other_name.csv`.
+This merges the original list, the enrichment files and the new words, orders everything as described above, renumbers ranks and ids, and writes `data/woorden.csv`. It stops with an error message if a source file is inconsistent.
 
 ## The data file
 
 The app reads the first file it finds, in this order:
 
-1. `data/5000_woorden.csv` (the full list)
+1. `data/woorden.csv` (the full list)
 2. `data/dutch_vocab_pilot.csv` (the small pilot file, used only as a fallback)
 
-The pilot file is no longer needed once `data/5000_woorden.csv` is in place.
+The original 5000 list is kept as `work10k/base_5000.csv`.
 
 The file is comma-separated UTF-8 with a BOM, so it opens correctly in Excel. It has 4,839 words in 5,032 rows. Every column is described in [`data/codebook.md`](data/codebook.md).
 
@@ -96,4 +112,4 @@ A word with several grammatical functions or meanings has one row per function, 
 
 ## Credits
 
-Word list based on the frequency list by Suzanne Hazenberg and Jan Hulstijn. Translations, grammar, pronunciation and example sentences were generated with Claude and may contain occasional errors. Corrections are welcome via issues or pull requests.
+Word list based on the frequency list by Suzanne Hazenberg and Jan Hulstijn, and ordered and extended with the [10,000 most used words in Dutch](https://github.com/Fonzie-byte/10_000-most-used-words-in-Dutch) list. Listening examples are links to [YouGlish](https://youglish.com/dutch). Translations, grammar, pronunciation, example sentences, synonyms, antonyms, expression labels and prepositions were generated with Claude and may contain occasional errors. Corrections are welcome via issues or pull requests.

@@ -13,6 +13,7 @@ import pandas as pd
 
 # The app uses the first file that exists.
 DATA_CANDIDATES = [
+    "data/woorden.csv",
     "data/5000_woorden.csv",
     "data/dutch_vocab_pilot.csv",
 ]

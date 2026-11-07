@@ -10,7 +10,7 @@ One line per row:  id|synonyms|antonyms|types|prep ~ prep_phrase ~ prep_ex_nl ~ 
 Usage: python3 enrichlib.py show N | check N
 """
 import sys, re, pandas as pd
-CSV='/home/claude/5000_nederlandse_woorden_flashcards/data/5000_woorden.csv'
+CSV='/home/claude/5000_nederlandse_woorden_flashcards/work10k/base_5000.csv'
 CODES={'i':'idiom','c':'collocation','p':'phrasal verb'}
 
 def load():
@@ -43,11 +43,11 @@ def parse_types(code, fc):
     codes=[c.strip() for c in main.split(',') if c.strip()]
     if len(codes)!=len(items):
         raise ValueError(f"{len(codes)} codes for {len(items)} items")
-    out=[f"{e} = {CODES[c]}" for e,c in zip(items,codes)]
+    out=dict(zip(items,[CODES[c] for c in codes]))
     for x in [x.strip() for x in ext.split(';') if x.strip()]:
         e,_,c=x.lstrip('+').rpartition('=')
-        out.append(f"{e.strip()} = {CODES[c.strip()]}")
-    return ' | '.join(out)
+        out[e.strip()]=CODES[c.strip()]
+    return ' | '.join(f"{e} = {t}" for e,t in out.items())
 
 def parse_file(n):
     sub=rows(n); fc=dict(zip(sub.id,sub.fixed_combination))

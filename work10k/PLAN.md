@@ -34,3 +34,8 @@ Progress log at bottom.
 - enrich e001 done (format: id|syn|ant|types|prep ~ phrase ~ nl ~ en; check with enrichlib.py check N; save with ./save.sh)
 - 2026-11-07: ENRICHMENT COMPLETE — e001..e051 all validated and pushed (all 5,032 existing rows).
 - Next: new 10k lemmas (Task 12) -> work10k/newwords/, then assemble.py (Task 13).
+- assemble.py written: builds data/woorden.csv (renamed from 5000_woorden.csv; original frozen at work10k/base_5000.csv,
+  enrichlib reads the frozen copy). README.md and data/codebook.md are GENERATED from work10k/templates/*.tmpl
+  (WORDS_N/ROWS_N filled in) — edit the templates, not the outputs.
+- New words: newwords/nNNN.py with ROWS built by newlib helpers (N/V/A/O + syn/ant/fx/xt/fp/p10/sense);
+  check: python3 newlib.py check N ; then rerun assemble.py and commit.
