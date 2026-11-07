@@ -88,7 +88,7 @@
 1460-1|onderwerp; beroep||c,c
 1461-1|bloot|gekleed
 1462-1|||c
-1463-1|voldoen; betalen||p|aan ~ voldoen aan iets ~ Het huis voldoet **aan** alle eisen. ~ The house meets all requirements.
+1463-1|tevredenstellen; betalen||p|aan ~ voldoen aan iets ~ Het huis voldoet **aan** alle eisen. ~ The house meets all requirements.
 1464-1|kust
 1465-1|bijvoorbeeld
 1466-1|gevaar|zekerheid|c,c
