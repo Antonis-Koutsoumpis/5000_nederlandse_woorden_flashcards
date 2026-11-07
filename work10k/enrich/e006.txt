@@ -1,0 +1,100 @@
+0425-1|Hollands
+0425-2
+0426-1|plaatje; afbeelding||c,c
+0427-1|dichtdoen|openen|c,c
+0428-1|rekenen op; voorzien
+0429-1|sturen; mikken||p,p|op ~ zich richten op iets ~ We richten ons **op** jonge mensen. ~ We're focusing on young people.
+0430-1|strijd|vrede|c
+0431-1|opeten|drinken|c
+0431-2|voedsel; maaltijd
+0432-1|zachtjes; mild|hard
+0433-1|doorgaans; vaak|zelden
+0434-1|weg||c
+0435-1|mens; individu||c
+0436-1|amper; bijna niet|ruim
+0437-1|gelijk|anders
+0438-1|kracht; gezag|onmacht|c
+0439-1|||i
+0440-1|lijken||p|als ~ klinken als iets ~ Dat klinkt **als** een goed plan. ~ That sounds like a good plan.
+0441-1|horen||p|naar ~ luisteren naar iemand ~ Luister **naar** mij! ~ Listen to me!
+0442-1|uiteindelijk
+0443-1||onmenselijk
+0444-1|effect||c,p|op ~ invloed hebben op iets ~ Het weer heeft invloed **op** mijn humeur. ~ The weather affects my mood.
+0445-1|||i,i
+0446-1|langs; door
+0447-1||dochter
+0448-1|hal; gerecht||c,c,i
+0449-1|||i
+0450-1|beroerd|goed
+0451-1|namelijk; toch
+0452-1|druk|vrij|p|met ~ bezig zijn met iets ~ Ze is **met** een project bezig. ~ She's working on a project.
+0453-1|||c
+0453-2||rijk
+0454-1
+0455-1|regel||c
+0456-1||vast|p,c
+0457-1|angstig|dapper|c|voor ~ bang zijn voor iets ~ Ik ben bang **voor** honden. ~ I'm afraid of dogs.
+0458-1|samenhang||c|met ~ verband houden met iets ~ Dit houdt verband **met** de crisis. ~ This is connected with the crisis.
+0459-1|||c,c,c
+0460-1|||c
+0461-1|beest
+0462-1|zien als; bekijken||p|als ~ iets beschouwen als iets ~ Ik beschouw hem **als** een vriend. ~ I consider him a friend.
+0463-1|onthouden|vergeten|c,p|aan ~ iemand herinneren aan iets ~ Herinner me **aan** de afspraak! ~ Remind me about the appointment!
+0464-1|hemel; geur||c,i
+0465-1|aanbieden|weigeren|c,i
+0466-1
+0467-1|||i
+0468-1|ineens; opeens|geleidelijk
+0469-1|verzorgen||p,c|voor ~ zorgen voor iemand ~ Zij zorgt **voor** haar moeder. ~ She takes care of her mother.
+0470-1|vanwege||c
+0470-2|geliefd|onbemind
+0471-1|precies; zeker
+0472-1|sociaal||c
+0473-1|uitkiezen; stemmen||p,c|voor ~ kiezen voor iets ~ Ik kies **voor** de trein. ~ I choose the train.
+0474-1|wetenschap; bekende|onwetendheid|p,c
+0475-1|makkelijk; eenvoudig|moeilijk
+0476-1|vrees; schrik|moed|c
+0477-1|horen; moeten||p|tot ~ behoren tot iets ~ Hij behoort **tot** de beste spelers. ~ He is one of the best players.
+0478-1||hoog
+0478-2
+0479-1|duister|licht
+0479-2|duisternis|licht
+0480-1|onderscheid|overeenkomst|c
+0481-1|blij; tevreden|ongelukkig
+0481-2|gelukkig maar|helaas
+0482-1|opdagen; uitkomen|verdwijnen
+0483-1|venster
+0484-1
+0485-1|zin; belang
+0486-1|groep; kant||c
+0487-1|genegenheid|haat|c
+0488-1|||p|met ~ ervaring hebben met iets ~ Ik heb ervaring **met** kinderen. ~ I have experience with children.
+0489-1|||p,p|aan ~ lijden aan een ziekte ~ Hij lijdt **aan** kanker. ~ He suffers from cancer.
+0490-1|enkele|alle
+0491-1|grijpen; nemen|loslaten|c
+0492-1|meteen; rechtstreeks|later
+0493-1|||c
+0494-1|eten geven; leiden||c,c
+0495-1|verhouding; band
+0496-1|inzicht; idee|onbegrip|p|voor ~ begrip hebben voor iets ~ Ik heb begrip **voor** je situatie. ~ I understand your situation.
+0497-1|dame|meneer
+0498-1|lachen|fronsen|p|naar ~ glimlachen naar iemand ~ Ze glimlachte **naar** me. ~ She smiled at me.
+0499-1|komend|vorig
+0500-1|methode
+0501-1|rustig; kalm|luid; druk|p,c
+0502-1|ja knikken|nee schudden
+0503-1|bedoeling; streven||c,c
+0504-1|hulp||c,c
+0505-1|aanschaffen|verkopen
+0506-1|verloop; rechtszaak
+0507-1|compleet; vol|onvolledig
+0508-1|anders; uiteenlopend|gelijk
+0509-1|scholing||c
+0510-1|kwijtraken|winnen; vinden
+0511-1|donker|wit
+0512-1|denken; bedoelen
+0513-1|zodra|voordat
+0514-1|nood||p|aan ~ behoefte hebben aan iets ~ Ik heb behoefte **aan** rust. ~ I need some rest.
+0515-1|kalm; stil|druk|c
+0516-1|ooit||i,c
+0517-1|klaar; af||c,c
