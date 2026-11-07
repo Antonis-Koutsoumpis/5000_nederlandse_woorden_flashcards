@@ -105,3 +105,13 @@ tienduizend: duplicate candidate
 moeien: Flemish dialect verb
 fotografe: female form of fotograaf
 niét: emphatic spelling
+obligatiemarkt, diversificatie, magistratuur: jargon
+alsmaar: variant of almaar (added)
+scholiere: female form of scholier
+mét: emphatic spelling
+verantwoordelijken: plural noun of verantwoordelijk (in list)
+gestelde: inflected participle
+naken: lemmatizer artefact
+afgeleide: low value (derivative)
+wannen: lemmatizer artefact
+paddestoel: added as paddenstoel (current spelling)
