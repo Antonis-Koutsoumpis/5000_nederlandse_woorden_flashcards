@@ -1,0 +1,100 @@
+0001-1
+0002-1|||c,i
+0003-1
+0004-1
+0004-2
+0005-1
+0005-2
+0006-1|bestaan||c,c;+bezig zijn met=p|met ~ bezig zijn met iets ~ Ik ben **met** mijn huiswerk bezig. ~ I'm busy with my homework.
+0006-2
+0007-1||uit
+0008-1|||c,c
+0008-2|al te; overdreven
+0009-1
+0010-1|bezitten|missen|c,c,c|in ~ zin hebben in iets ~ Ik heb geen zin **in** werken. ~ I don't feel like working.
+0011-1||zij
+0012-1||deze
+0012-2
+0013-1||wel|c,c,c
+0014-1||zonder|c,c
+0015-1|||c,c
+0015-2|||c
+0016-1
+0016-2||dit
+0016-3
+0017-1|raken||;+worden tot=p|tot ~ worden tot iets ~ Het water werd **tot** ijs. ~ The water turned into ice.
+0018-1
+0019-1||achter; na|c,c
+0020-1|wanneer; indien
+0020-2|zoals||c,c
+0021-1|daar
+0022-1|||c
+0022-2|ingeschakeld|uit
+0023-1|echter
+0023-2|alleen; slechts
+0024-1
+0024-2
+0025-1
+0026-1|in staat zijn
+0027-1|rond||c,c
+0027-2|||c
+0028-1||hem
+0028-2||zijn
+0028-3|haren
+0029-1|richting|van|p,p,c
+0029-2|vervelend; akelig|prettig|c
+0030-1|eveneens; tevens||c
+0031-1||en|c
+0032-1|naast||c,c
+0032-2
+0033-1
+0034-1|nog altijd||c,c,c
+0035-1|via
+0036-1
+0036-2|iets|niets
+0037-1|lopen|komen|p,c|over ~ gaan over iets ~ Het boek gaat **over** de oorlog. ~ The book is about the war.
+0038-1||haar
+0039-1|arriveren|gaan|p,c|uit ~ komen uit een land ~ Ik kom **uit** Griekenland. ~ I come from Greece.
+0040-1|vertellen|zwijgen|c,c|tegen ~ iets zeggen tegen iemand ~ Wat zei hij **tegen** jou? ~ What did he say to you?
+0041-1|daarna
+0041-2
+0042-1|zodanig||c,c
+0043-1|hoeven|mogen
+0044-1|betreffende|onder|p
+0044-2|voorbij||c,p
+0045-1||jouw
+0046-1||hij
+0047-1||die
+0048-1||vanaf|c,c,c
+0049-1
+0050-1||minder|c,c
+0050-2|||c,c
+0050-3|plas
+0051-1|kijken; bekijken||i
+0052-1|zeker|niet|c,c
+0053-1||dat
+0054-1||onze
+0054-2
+0055-1||alle|c
+0056-1|bouwen; repareren|breken|c,c,c;+zich zorgen maken over=c|over ~ zich zorgen maken over iets ~ Ik maak me zorgen **over** mijn moeder. ~ I'm worried about my mother.
+0057-1
+0057-2
+0058-1|vanuit|in
+0058-2|voorbij; afgelopen|aan|c,i
+0059-1|talrijk|weinig
+0059-2|vaak|weinig
+0060-1||zitten; liggen|c,c
+0061-1|juist; prima|slecht; fout|c|in ~ goed zijn in iets ~ Ze is goed **in** wiskunde. ~ She is good at math.
+0061-2|prima|slecht
+0062-1|wensen
+0063-1|verschillend|zelfde|c,c
+0064-1|maken|laten|c,c,c
+0065-1
+0065-2
+0066-1|je; mensen
+0067-1||jij
+0068-1
+0069-1|toestaan|verbieden|c,c,c
+0070-1|kennen|vergeten
+0071-1|reeds|nog niet|c,c
+0071-2|alle|geen
