@@ -65,7 +65,7 @@
 0212-1|ophalen; krijgen|brengen|c,c
 0213-1||terug|c,c
 0214-1|plaatsen; leggen|weghalen|c,c
-0215-1|beu|honger|p
+0215-1|beu; verzadigd|hongerig|p
 0216-1|benutten
 0217-1|type; sort||c
 0218-1|enkel; alleen
