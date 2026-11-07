@@ -1,0 +1,100 @@
+4050-1|coassistent
+4051-1|gedenkteken; monumentaal pand
+4052-1|helper; hulp|baas
+4053-1|nevel||i
+4054-1|ster; beroemdheid
+4054-2|stijf; onbuigzaam|flexibel
+4055-1|middageten
+4056-1|huurprijs|koop|c,c
+4057-1|blijvend; milieuvriendelijk|tijdelijk; vervuilend
+4058-1|waarom?
+4059-1|grootvader|oma
+4060-1|vuilnis; rommel
+4061-1|spanning; druk|ontspanning
+4062-1|gebied; terrein||c
+4063-1|succesvol|mislukt|p|voor ~ geslaagd zijn voor een examen ~ Ik ben geslaagd **voor** mijn rijexamen. ~ I passed my driving test.
+4064-1|doelstellingen; mikpunten
+4065-1|ondertekend; gemarkeerd
+4066-1|gebouw; perceel
+4067-1|greppel||i,i
+4068-1|bestuur; leiding
+4069-1
+4070-1|hart||c,i,i
+4071-1|weelderig; luxueus|eenvoudig; sober
+4072-1|mishandeling; oneigenlijk gebruik||c|van ~ misbruik maken van iets ~ Hij maakte misbruik **van** haar vertrouwen. ~ He abused her trust.
+4073-1|vervoer
+4074-1|onbetrouwbaar; louche|onverdacht|c
+4075-1|volledig; in overvloed|nauwelijks
+4076-1
+4077-1|rechtsgeldig; van kracht|ongeldig
+4078-1|klein|maxi; groot
+4079-1|voortzetting; vervolgdeel|begin|c,p|op ~ een vervolg op iets ~ Dit boek is een vervolg **op** het eerste deel. ~ This book is a sequel to the first part.
+4080-1|rekenen
+4081-1|kanaal; zendmast|ontvanger
+4082-1|mok; trofee
+4083-1|reikwijdte; dekking
+4084-1|raad
+4085-1|herkomst; oorsprong
+4086-1|nauwelijks; ternauwernood|ruim
+4087-1|dame
+4088-1|tocht; ritje||c
+4089-1|vervelend; eentonig|spannend; leuk
+4090-1|raadgever; consultant
+4091-1|minstens; miniem|maximaal
+4092-1|echt; werkelijk
+4093-1|boosdoener|slachtoffer
+4094-1|constitutie
+4095-1|zender
+4096-1|onderbreking; rust
+4097-1|naamloos|bekend
+4098-1|vruchten
+4099-1|wagen; auto
+4100-1|gezant
+4101-1|aanpak; plan
+4102-1|vol; druk|vrij; leeg
+4103-1|vermalen; zich druk maken||p,i|om ~ malen om iets ~ Ik maal er niet **om**. ~ I don't care about it.
+4104-1|bewaring; instandhouding|verlies|p
+4105-1|ontploffing
+4106-1|drukte; gezeur
+4107-1|voorval; gebeurtenis
+4108-1|schepen
+4109-1|werkplaats
+4110-1|verlies|overwinning|c
+4111-1|bedorven; vervelend|vers; leuk|i,c
+4112-1
+4113-1|reispas
+4114-1|toets; tentamen||c,c
+4115-1|deel; gedeelte
+4116-1|||c,c
+4117-1|||i
+4118-1
+4119-1|oorspronkelijk; authentiek|nagemaakt
+4120-1|raming; inschatting||c
+4121-1|dwaas; gek|genie
+4122-1|ondanks; los van
+4123-1|toelage; bijdrage
+4124-1|verbinding; lidmaatschap||p,c|bij ~ aansluiting vinden bij iets ~ Hij vond snel aansluiting **bij** de groep. ~ He quickly fitted in with the group.
+4125-1|banenmarkt
+4126-1|geldzaken
+4127-1|bouwmeester
+4128-1|juist; netjes|fout; onjuist
+4129-1
+4130-1|onderminister
+4131-1|hersenen; meesterbrein
+4132-1|tegenpartij|coalitie
+4133-1|onderzoek
+4134-1|uitwisseling||c|voor ~ in ruil voor iets ~ Hij kreeg een fiets in ruil **voor** zijn auto. ~ He got a bike in exchange for his car.
+4135-1|afdeling; lijkschouwing
+4136-1|afschrift; duplicaat|origineel
+4137-1
+4138-1|begin; start|einde
+4139-1|evenwicht||c
+4140-1|neerslachtigheid; recessie
+4141-1|stichting; pot
+4142-1|buitensporig; aangedikt|gematigd
+4143-1|op de helft
+4144-1|groei; stijging|afname
+4145-1|filiaal; kantoor
+4146-1|betoging; vertoning
+4147-1|waarborgen; beloven
+4148-1|drijfveer; motief
