@@ -1,0 +1,100 @@
+1279-1|lopen; wandelen|rijden
+1280-1|hoeven; nodig hebben
+1281-1|uitrusten; pauzeren|werken|c
+1282-1|nauwkeurig; precies|slordig
+1283-1|schrijver|lezer
+1284-1|geven; voorstellen|aannemen; weigeren|c,p
+1285-1|regeren|gehoorzamen
+1286-1|helpen; leunen|tegenwerken|p|op ~ steunen op iets ~ Hij steunt **op** zijn wandelstok. ~ He leans on his walking stick.
+1287-1|serie; rij
+1288-1
+1289-1|aannemen; vermoeden|weten|c
+1290-1|verschillend; gevarieerd|gelijk
+1291-1|weren|toelaten; opnemen
+1292-1
+1293-1
+1294-1|gespannen; nauw|los; slap|c
+1295-1|uitheems|binnenlands|c
+1296-1|organiseren; ordenen
+1297-1|vermoorden|redden
+1298-1|||c
+1299-1|studie; training||c
+1300-1|vreselijk; afschuwelijk|geweldig
+1301-1|bereiken; beseffen||p
+1302-1|beambte
+1303-1|hulp|tegenwerking|c,c|aan ~ steun geven aan iemand ~ We geven steun **aan** de vluchtelingen. ~ We give support to the refugees.
+1304-1|redelijk; vrij|onredelijk
+1305-1
+1306-1|gebruiken; toepassen
+1307-1
+1308-1|zien; opmerken|missen
+1309-1|lijken||c
+1309-2|verlangen||p,p|naar ~ uitzien naar iets ~ Ik zie **naar** de vakantie uit. ~ I look forward to the holiday.
+1310-1|over; rond
+1311-1|||c
+1312-1|gebruik; traditie||c
+1313-1|onderkennen; belonen|verwarren|p
+1314-1
+1315-1|tapijt; doek||c
+1316-1|vraag||c,c
+1317-1|vaststellen; merken
+1318-1|hard; lawaaiig|zacht; stil
+1319-1|handeling; actie||i
+1320-1|ontsnapping||c,i
+1321-1|eetlust; kenmerk||c,c|in ~ trek hebben in iets ~ Ik heb trek **in** pizza. ~ I feel like pizza.
+1322-1|scholier|leraar
+1323-1|smal; strak|breed; ruim|i,i
+1324-1|kwijt|gevonden|c,c
+1325-1|bereiden
+1326-1|naakt|bedekt; gekleed|p|aan ~ blootstellen aan iets ~ Stel je huid niet bloot **aan** de felle zon. ~ Don't expose your skin to the strong sun.
+1327-1|leider; baas|werknemer
+1328-1|berouwen
+1329-1|||c
+1330-1|echter; toch
+1331-1
+1332-1|nek||i
+1333-1
+1333-2
+1334-1|menigte; hoop||c
+1335-1|strikt; hard|soepel; mild
+1336-1|regelen; smelten||;+oplossen=p
+1337-1
+1338-1|kracht; agressie|vrede|c
+1339-1|stof; spullen
+1340-1|flink; behoorlijk|gering
+1341-1|vreemd; opvallend|gewoon
+1342-1|vooral; hoofdzakelijk
+1343-1|ruzie; botsing|vrede|c
+1344-1|maken; vervaardigen|consumeren
+1345-1|terrein; akker||c
+1346-1|bezoeker|gastheer|c
+1347-1|vermoeid|uitgerust; fit|p|van ~ moe zijn van iets ~ Ik ben moe **van** het lange wachten. ~ I'm tired of the long wait.
+1348-1|funderen||p,p|op ~ zich baseren op iets ~ Het artikel baseert zich **op** onderzoek. ~ The article is based on research.
+1349-1|afwijking|regel|c,c|van ~ met uitzondering van iets ~ Alle winkels zijn dicht, met uitzondering **van** de bakker. ~ All shops are closed except the bakery.
+1350-1|apart; los|samen
+1351-1|boodschap; nieuws||c
+1352-1|echter
+1353-1|tweevoudig|enkel|c,i
+1354-1|omwenteling
+1355-1|hoe meer
+1356-1|mening; visie||c
+1357-1|maat; kom||i
+1358-1|kussentje
+1358-2|zoenen
+1359-1|||i
+1360-1|midden; binnenstad|rand
+1361-1|afstand|nabijheid|c,i
+1362-1
+1363-1|ding; object
+1364-1|vervaardiging; opbrengst|consumptie
+1365-1||oosten
+1366-1|begrensd; klein|onbeperkt
+1367-1|krijgen; verwerven|verliezen
+1368-1|grootte; volume
+1369-1|tot
+1370-1|bepaald; concreet|algemeen; vaag
+1371-1|voordelig; goed|ongunstig
+1372-1|wuiven||p|naar ~ zwaaien naar iemand ~ Ze zwaaide **naar** haar moeder. ~ She waved at her mother.
+1373-1|blijvend; altijddurend|tijdelijk|c
+1374-1|fris|warm
+1375-1|zacht; stil|luid; hard
