@@ -1,0 +1,100 @@
+3043-1|gewild; vergezocht|ongewild; voor de hand liggend
+3044-1|toets; proef
+3045-1|afzet|aankoop
+3046-1|grootmoeder|opa
+3047-1|positie; rang
+3048-1|niet toegestaan|toegestaan|c
+3049-1|gesitueerd; gebaseerd||c
+3050-1|hulpmiddelen; geld
+3051-1|kloppen; per trein reizen||c,p
+3052-1|gesplitst; gedeeld|eensgezind; verenigd
+3053-1|dingen; bezittingen
+3054-1|opgesloten|vrij|c,c
+3055-1|rijden
+3056-1|poten; zaaien|rooien
+3057-1|beginnen|stoppen
+3058-1|plaatje; illustratie
+3059-1||vanavond
+3060-1|en|min
+3061-1|opgave
+3062-1|flat; woning
+3063-1|maken; scheppen|vernietigen
+3064-1|kloosterzuster|monnik
+3065-1|hengelen||i
+3066-1|bestormen|verdedigen
+3067-1|in naam van; voor
+3068-1|loopbaan||c
+3069-1|deelnemen|toekijken|p|aan ~ meedoen aan iets ~ Doe je mee **aan** de quiz? ~ Are you taking part in the quiz?
+3070-1|doorsnee; normaal|uitzonderlijk
+3071-1|horizon
+3072-1|kort geleden; laatst|lang geleden
+3073-1|in verwachting||p|van ~ zwanger zijn van een kind ~ Ze is zwanger **van** haar tweede kind. ~ She's pregnant with her second child.
+3074-1|benadering; methode
+3075-1|dansje||i
+3076-1|keurig; ordelijk|slordig
+3077-1|wat betreft
+3078-1|wc
+3079-1|grappigheid|ernst
+3080-1|kilogram
+3081-1|geslaagd|mislukt
+3082-1|schouwburg
+3083-1|aanval; afzetting||c|op ~ een aanslag plegen op iemand ~ Er werd een aanslag gepleegd **op** de president. ~ There was an attack on the president.
+3084-1
+3085-1|bad
+3086-1|toch nog; alsnog
+3087-1|deze ochtend
+3088-1|kist; container||c,i
+3089-1|conferentie
+3090-1|voorjaar|herfst
+3091-1|advertentie||c|voor ~ reclame maken voor iets ~ Ze maken reclame **voor** een nieuw drankje. ~ They advertise a new drink.
+3092-1|meewerken|tegenwerken|p|met ~ samenwerken met iemand ~ Ik werk graag samen **met** jou. ~ I like working with you.
+3093-1|opnieuw; weer
+3094-1|geaccrediteerd|onerkend
+3095-1|gebruiken; inschakelen||p|voor ~ zich inzetten voor iets ~ Ze zet zich in **voor** het milieu. ~ She works hard for the environment.
+3096-1|marionet||i
+3097-1|controle; supervisie||c|op ~ toezicht houden op iets ~ De leraar houdt toezicht **op** de leerlingen. ~ The teacher supervises the pupils.
+3098-1|luchthaven
+3099-1|gedeeltelijk|helemaal|c
+3100-1|halen; inzamelen|brengen|c,c
+3101-1|bereikbaar; open|ontoegankelijk
+3102-1|chauffeur; directeur|passagier
+3103-1|akkerbouw
+3104-1|hoogstens; ten hoogste|minimaal
+3105-1|onvoorstelbaar; ongelofelijk|geloofwaardig
+3106-1|geschenk||c,c
+3107-1|uiterst; buitensporig|gematigd
+3108-1
+3109-1|richting; wisselkoers||c,c
+3110-1|trend||c,c
+3111-1|bejaarden|jongeren
+3112-1|leraar|leerling; student
+3113-1|kapot|heel
+3114-1|misdrijf||c
+3115-1|opleiding; les||c
+3116-1|verkassen
+3117-1|winnen van|verliezen
+3118-1|uitwijken; zwichten||p|voor ~ wijken voor iets ~ Hij wijkt niet **voor** dreigementen. ~ He doesn't yield to threats.
+3119-1|toneelstuk; ramp
+3120-1|registratie; opneming
+3121-1|versie; vorm
+3122-1|bescherming|aanval|c
+3123-1
+3124-1|loon
+3125-1|beeldscherm||i
+3126-1|armoe|rijkdom
+3127-1|voortdurend; steeds|wisselend
+3128-1|toeter
+3129-1|deelname; opgang|ondergang
+3130-1|papa; vader|ma
+3131-1|wetten
+3132-1|ingewikkeld|eenvoudig
+3132-2|geheel||c
+3133-1|gelijkwaardige
+3134-1||hemel
+3135-1|verzorging; gesprek||c
+3136-1|droevig; somber|vrolijk
+3137-1|top; bovenlaag|massa
+3138-1|opbrengst; verdiensten|uitgaven
+3139-1|voorschrift
+3140-1|stortbad||i
+3141-1|jazeker|nee
