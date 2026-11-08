@@ -441,11 +441,10 @@ def prepositions_tab():
     for i, q in enumerate(ss.quiz):
         row = q["row"]
         key = f"q_{ss.quiz_no}_{i}"
-        phrase = re.sub(rf"\b{re.escape(q['answer'])}\b", "_____", row["preposition_phrase"], count=1)
         with st.container(border=True):
-            st.markdown(f"**{i + 1}. {md(phrase)}**  \n:gray[{md(row['english'])}]")
-            if has_value(row.get("preposition_example_nl")):
-                st.markdown(f"*{md(blank_out(row['preposition_example_nl']))}*")
+            # Only the sentence with a blank: the expression and its English gloss are shown
+            # after answering, because the gloss can contain the answer (e.g. '(~ van) to love').
+            st.markdown(f"**{i + 1}.** *{md(blank_out(row['preposition_example_nl']))}*")
             # The first answer is stored and the question is locked, so feedback is immediate
             # and can't be changed by clicking again.
             choice = ss.prep_answers.get(key)
@@ -460,11 +459,11 @@ def prepositions_tab():
                 answered += 1
                 if choice == q["answer"]:
                     score += 1
-                    st.success(f"✅ Correct: {md(row['preposition_phrase'])}")
+                    st.success(f"✅ Correct: **{md(row['preposition_phrase'])}**")
                 else:
-                    st.error(f"❌ The answer is **{q['answer']}**: {md(row['preposition_phrase'])}")
-                if has_value(row.get("preposition_example_nl")):
-                    st.caption(f"{md(row['preposition_example_nl'])} · {md(row.get('preposition_example_en', ''))}")
+                    st.error(f"❌ The answer is **{q['answer']}**: **{md(row['preposition_phrase'])}**")
+                st.caption(f"{md(row['preposition_example_nl'])} · {md(row.get('preposition_example_en', ''))}"
+                           f"  \n{md(row['word'])}: {md(row['english'])}")
 
     st.metric("Score", f"{score} / {answered}",
               help=f"{answered} of {len(ss.quiz)} questions answered")
