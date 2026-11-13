@@ -23,6 +23,7 @@ The repository is linked with the Streamlit app [6000+ Nederlandse woorden](http
   - pronunciation (IPA + stressed syllable)
   - two example sentences with the target word in **bold** in both Dutch and English
 - **Hear it in real conversations:** every card links to [YouGlish](https://youglish.com/dutch) with Netherlands (NL) pronunciation, for the word and for each fixed expression. YouGlish works best for single words; for phrases the results may be inaccurate, and the card says so.
+- **English → Dutch flashcards:** a second flashcard tab that works the other way round. The card shows the English meaning (with the word class and an English example sentence for context), and you think of the Dutch word or phrase; *Show answer* reveals the Dutch word with the same full details as the Dutch flashcards. It uses the same sidebar settings, with its own *New cards*, *Show all answers* and *Hide all answers* buttons. Dutch hints inside the English glosses, such as "(~ van)" or "(om ... te)", are hidden on the front of the card.
 - **Fixed prepositions exercise:** a separate tab with multiple-choice questions. Each question shows only a Dutch sentence with a blank (e.g. *Wie neemt deel ___ de wedstrijd?*) and four prepositions to choose from, so nothing gives the answer away. Each answer is checked as soon as you choose it: you see right away whether it was correct, followed by the full expression (*deelnemen aan iets*), the sentence with its English translation, and the meaning of the word. The running score is shown below the questions; *New exercise* draws new questions. The exercise uses the frequency range and filters from the sidebar.
 - **Search:** type any Dutch word (e.g. *voorkomen*) to look it up in the full list. Inflected forms also work (*liep* finds *lopen*, *huizen* finds *huis*), accents are optional, and you can tick *Also English* to search the translations. Search ignores the practice filters; clear the box to return to your flashcards.
 - **Filters:** estimated level (one or more), grammatical function (one or more), de/het nouns, regular/irregular verbs, separable or reflexive verbs, expression type (idiom, phrasal verb or collocation), words with a fixed combination, words with a fixed preposition, expressions with er/het, and an option to hide offensive words.
@@ -75,7 +76,7 @@ The 10k list was built from Belgian (Flemish) newspaper and financial texts, so 
 
 ```
 .
-├── app.py              # Streamlit interface (flashcards tab and fixed-prepositions tab)
+├── app.py              # Streamlit interface (Dutch → English and English → Dutch flashcards, fixed prepositions)
 ├── vocab.py            # loading, filtering, sampling, bolding (no Streamlit)
 ├── data/
 │   ├── woorden.csv     # the word list (see below)

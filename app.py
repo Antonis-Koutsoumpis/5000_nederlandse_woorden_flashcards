@@ -160,6 +160,18 @@ def new_deck():
 if ss.get("settings_key") != settings_key:
     new_deck()
 
+ss.setdefault("deck_no_en", 0)
+
+
+def new_deck_en():
+    ss.deck_no_en += 1
+    ss.deck_en = sample_words(filtered, int(n_cards), seed=random.randrange(1 << 30))
+    ss.settings_key_en = settings_key
+
+
+if ss.get("settings_key_en") != settings_key:
+    new_deck_en()
+
 
 def answer_key(rank: int) -> str:
     return f"show_{ss.deck_no}_{rank}"
@@ -172,6 +184,15 @@ def toggle(key: str):
 def set_all(value: bool):
     for cid in ss.deck:
         ss[answer_key(cid)] = value
+
+
+def answer_key_en(rank: int) -> str:
+    return f"show_en_{ss.deck_no_en}_{rank}"
+
+
+def set_all_en(value: bool):
+    for cid in ss.deck_en:
+        ss[answer_key_en(cid)] = value
 
 
 # --------------------------------------------------------------------------- #
@@ -332,6 +353,66 @@ def render_card(rows: list[dict], key: str | None = None, default_shown: bool = 
                 render_answer(row)
 
 
+# Parentheses in the English glosses sometimes contain Dutch, e.g. "(~ van) to love",
+# "(om ... te) in order to", "(een tijdlang)". On the English -> Dutch cards these are
+# hidden, so the front of the card never gives the Dutch answer away.
+DUTCH_HINTS = {"~", "...", "…", "zich", "van", "een", "het", "niet", "om", "te", "de", "zijn",
+               "er", "op", "aan", "met", "voor", "naar", "bij", "uit", "tot", "iets", "iemand"}
+
+
+def english_prompt(row: dict) -> str:
+    text = str(row.get("english", ""))
+    word = str(row.get("word", "")).lower()
+
+    def drop(m: re.Match) -> str:
+        inner = m.group(1).lower()
+        toks = set(re.findall(r"~|\.\.\.|…|[\wà-ÿ']+", inner))
+        if toks & DUTCH_HINTS or (word and re.search(rf"\b{re.escape(word)}\b", inner)):
+            return ""
+        return m.group(0)
+
+    text = re.sub(r"\s*\(([^)]*)\)", drop, text)
+    return re.sub(r"\s{2,}", " ", text).strip(" ;,") or str(row.get("english", ""))
+
+
+def render_card_en(rows: list[dict]):
+    """English -> Dutch: the English meaning(s) on the front, the full Dutch card behind it."""
+    first = rows[0]
+    key = answer_key_en(first["rank"])
+    shown = ss.get(key, False)
+    ss[key] = shown
+    with st.container(border=True):
+        left, right = st.columns([5, 1])
+        prompts = []
+        for i, row in enumerate(rows):
+            line = f"*{md(english_prompt(row))}*"
+            if has_value(row.get("pos")):
+                line += f" :gray[({md(row['pos'])})]"
+            if len(rows) > 1:
+                line = f"{i + 1}. " + line
+            prompts.append(line)
+        left.markdown("### " + prompts[0] if len(rows) == 1 else "  \n".join(prompts))
+        right.caption(f"rank {first['rank']} · {first.get('level', '')}")
+        # The English example sentence gives context without showing any Dutch
+        ex = next((r["example1_en"] for r in rows if has_value(r.get("example1_en"))), "")
+        w = str(first["word"]).lower()
+        if ex and re.search(rf"\b{re.escape(w)}\b", ex.lower()) \
+                and not any(re.search(rf"\b{re.escape(w)}\b", str(r["english"]).lower()) for r in rows):
+            ex = ""  # the sentence quotes the Dutch word itself (e.g. 'a riks'), so skip it
+        if ex:
+            st.caption(f"e.g. {md(ex).replace('[', '(').replace(']', ')')}")
+        st.button("Hide answer" if shown else "Show answer", key=f"btn_{key}",
+                  on_click=toggle, args=(key,), type="secondary" if shown else "primary")
+        if shown:
+            st.markdown(f"### {md(first['word'])}")
+            for i, row in enumerate(rows):
+                if i:
+                    st.divider()
+                if len(rows) > 1:
+                    st.caption(f"Meaning {i + 1} of {len(rows)}")
+                render_answer(row)
+
+
 # --------------------------------------------------------------------------- #
 # Main page
 # --------------------------------------------------------------------------- #
@@ -387,7 +468,35 @@ def flashcards_tab():
 
 
 # --------------------------------------------------------------------------- #
-# Tab 2: fixed prepositions (vaste voorzetsels), multiple choice
+# Tab 2: English -> Dutch flashcards (same deck settings, its own shuffle)
+# --------------------------------------------------------------------------- #
+def english_tab():
+    n_words = filtered["rank"].nunique()
+    st.caption(f"Ranks {rank_min}–{rank_max} · {n_words} matching words ({len(filtered)} meanings)"
+               " · read the English meaning and think of the Dutch word or phrase")
+    if filtered.empty:
+        st.warning("No words match these settings. Widen the range or remove a filter.")
+        return
+
+    c1, c2, c3 = st.columns(3)
+    c1.button("🔀 New cards", on_click=new_deck_en, use_container_width=True, key="new_en")
+    c2.button("Show all answers", on_click=set_all_en, args=(True,), use_container_width=True,
+              key="show_all_en")
+    c3.button("Hide all answers", on_click=set_all_en, args=(False,), use_container_width=True,
+              key="hide_all_en")
+
+    if len(ss.deck_en) < n_cards:
+        st.info(f"Only {len(ss.deck_en)} words match, so you get {len(ss.deck_en)} cards.")
+
+    deck_rows = filtered[filtered["rank"].isin(ss.deck_en)]
+    by_rank = {int(rank): grp.to_dict("records") for rank, grp in deck_rows.groupby("rank")}
+    for rank in ss.deck_en:
+        if rank in by_rank:
+            render_card_en(by_rank[rank])
+
+
+# --------------------------------------------------------------------------- #
+# Tab 3: fixed prepositions (vaste voorzetsels), multiple choice
 # --------------------------------------------------------------------------- #
 PREPOSITIONS = ["aan", "op", "in", "met", "van", "voor", "over", "naar", "om", "tot",
                 "bij", "uit", "tegen", "door", "onder", "achter", "na", "tussen"]
@@ -471,7 +580,10 @@ def prepositions_tab():
         st.success(f"Done! You got {score} of {len(ss.quiz)} right. Press 'New exercise' to try more.")
 
 
-tab_cards, tab_prep = st.tabs(["🃏 Flashcards", "🧩 Fixed prepositions"])
+tab_cards, tab_en, tab_prep = st.tabs(["🃏 Flashcards", "🇬🇧 English → Dutch",
+                                      "🧩 Fixed prepositions"])
+with tab_en:
+    english_tab()
 with tab_cards:
     flashcards_tab()
 with tab_prep:
